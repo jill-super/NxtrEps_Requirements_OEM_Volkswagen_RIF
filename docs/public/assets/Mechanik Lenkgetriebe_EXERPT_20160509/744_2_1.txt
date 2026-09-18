@@ -1,0 +1,16 @@
+Begriff Bedeutung
+Lenksäulen-
+Koordinaten
+A-Punkt Schnittpunkt zwischen der Eingangswellenachse
+mit der Druckstückachse
+D-Punkt SchnittpunktderLenkstangenrohrachse mit der
+zum Fahrer zeigendenLenkradebene
+K1-Punkt Oberster Gelenkpunkt des Lenkungsstranges
+K2-Punkt Unterer Gelenkpunkt des Lenkstangenstranges und
+damit Gelenkpunkt der Anschlussgabel zur
+Eingangswelle des Lenksystems
+Lenkgetriebe-
+Koordinaten
+KU-Punkt Mittlerer Gelenkpunkt des Lenkungsstranges
+S1-Punkt Kugelmittelpunkt vom Axialgelenk
+S2-Punkt Kugelmittelpunkt vom Aussengelenk

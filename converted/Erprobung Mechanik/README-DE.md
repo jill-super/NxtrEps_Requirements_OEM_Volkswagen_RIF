@@ -1,0 +1,774 @@
+---
+title: "Erprobung Mechanik"
+description: "DOORS RIF EXERPT 2016-05-09 \u00b7 44 Objekte \u00b7 6 Abbildungen"
+sidebar: {"order": 17}
+---
+# Erprobung Mechanik
+
+> Quelle: `Erprobung Mechanik_EXERPT_20160509.xml` · Export 2016-05-17T12:45:36+02:00 · DOORS 9.6.0.1 · 44 Objekte · 6 eingebettete OLE-Abbildungen (als PNG).
+
+| Kennzahl | Wert |
+|---|---|
+| Objekte / objects | 44 |
+| Anforderungen / requirements | 14 |
+| Informationen / information | 17 |
+| TBD | 0 |
+| Überschriften / headings | 13 |
+| Abbildungen / figures | 6 |
+| Mit EN-Text | 41 |
+
+
+<div class="req-filter" role="search">
+  <input id="req-q" type="search" placeholder="Nach ID oder Text filtern…" aria-label="Filter requirements" />
+  <select id="req-t" aria-label="Filter by type">
+    <option value="">Typ: alle</option>
+    <option value="Anforderung">Anforderung</option>
+    <option value="Information">Information</option>
+    <option value="TBD">TBD</option>
+    <option value="Überschrift">Überschrift</option>
+  </select>
+  <span class="req-count" id="req-count"></span>
+</div>
+
+
+## Erprobung der Mechanik
+
+<div class="req-card" id="L_Test_Mech_LG_1253" data-type="Überschrift" data-search="L_Test_Mech_LG_1253 Erprobung der Mechanik Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1253</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Erprobung der Mechanik</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+### Erprobung
+
+<div class="req-card" id="L_Test_Mech_LG_151" data-type="Überschrift" data-search="L_Test_Mech_LG_151 Erprobung Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_151</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Erprobung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_152" data-type="Anforderung" data-search="L_Test_Mech_LG_152 Sämtliche unten aufgeführten Erprobungen sind nach den zitierten Vorschriften durchzuführen. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_152</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Sämtliche unten aufgeführten Erprobungen sind nach den zitierten Vorschriften durchzuführen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> Shall be assessed once all test ahve been reviewed
+
+</details>
+
+</div>
+
+#### Akustisches Verhalten
+
+<div class="req-card" id="L_Test_Mech_LG_1039" data-type="Überschrift" data-search="L_Test_Mech_LG_1039 Akustisches Verhalten Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1039</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Akustisches Verhalten</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1062" data-type="Anforderung" data-search="L_Test_Mech_LG_1062 Das Lenksystem muss, wenn im Folgenden nicht anders festgelegt, vor, während und nach den Erprobungen und Tests unter den Punkten &quot;Messtechnische Erfassung&quot; und &quot;Subjektive Bewertung&quot; die akustischen Anforderungen unter Kapitel &quot;Basismodul Lenkungslastenheft Akustik&quot; erfüllen. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1062</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Das Lenksystem muss, wenn im Folgenden nicht anders festgelegt, vor, während und nach den Erprobungen und Tests unter den Punkten "Messtechnische Erfassung" und "Subjektive Bewertung" die akustischen Anforderungen unter Kapitel "Basismodul Lenkungslastenheft  Akustik" erfüllen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> To be detail after which tests and what is the pass fail criteria
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1064" data-type="Anforderung" data-search="L_Test_Mech_LG_1064 Die Geräusche der Lenkung dürfen im Fahrgastraum und außerhalb des Fahrzeugs nicht unangenehm wahrnehmbar sein. Die Lenkung darf auch andere Bauteile nicht zur Geräuschbildung anregen, BI &gt;=8. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1064</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Die Geräusche der Lenkung dürfen im Fahrgastraum und außerhalb des Fahrzeugs nicht unangenehm wahrnehmbar sein. Die Lenkung darf auch andere Bauteile nicht zur Geräuschbildung anregen, BI &gt;=8.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160419 Butszies: BI&gt;=8
+
+<strong>Nexteer:</strong> BI &gt; 5 oder BI &gt; 8
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1198" data-type="Information" data-search="L_Test_Mech_LG_1198 Information gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1198</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-1198_2_1">
+  <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1198_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1198_2_1.png" alt="Abbildung 1198_2_1 (L_Test_Mech_LG_1198)" loading="lazy" />
+  </a>
+  <figcaption>Abbildung <code>1198_2_1</code> · L_Test_Mech_LG_1198 — <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1198_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1198_2_1.bin" download>source <code>1198_2_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transkription (durchsuchbarer Text)</summary>
+<span class="fig-transcript-body">Fehler Bewertungsschlüssel<br/>Fehler-<br/>Ablehnung Grenzfall Annahme<br/>wichtung<br/>Note 1 2 3 4 5 6 7 8 9 10<br/>Verbesserungsbedürftig,Gut bis sehr gut,<br/>unangenehm, störend,<br/>nicht annehmbar,Kundenreklamationen auch von kritischen<br/>Fehler- Sicherheits- Kundenreklamationen Keine<br/>führt mit Sicherheit bei Kunden<br/>bewertungrisiko werden Mängel<br/>zu Kundenreklamationkritischen Kunden zu kaum Reklamationen<br/>erwartet<br/>erwartenzu erwarten<br/>Auftreten vereinzelt, nicht in tritt selten auf,<br/>eindeutig tritt nie<br/>der ständig tritt häufiger auf jedem Fall ist nicht<br/>reproduzierbar auf<br/>Beanstandung reproduzierbarreproduzierbar<br/>von<br/>Feststellbar Allen ausgebildeten<br/>Durchschnittskundenkritischen Kunden keinem<br/>von Kunden Beobachtern<br/>Kunden</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Komponentenerprobung
+
+<div class="req-card" id="L_Test_Mech_LG_153" data-type="Überschrift" data-search="L_Test_Mech_LG_153 Komponentenerprobung Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_153</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Komponentenerprobung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Prüfanforderungen
+
+<div class="req-card" id="L_Test_Mech_LG_155" data-type="Überschrift" data-search="L_Test_Mech_LG_155 Prüfanforderungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_155</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Prüfanforderungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_156" data-type="Anforderung" data-search="L_Test_Mech_LG_156 Alle geforderten Prüfungen sind in TL 824 41 und VW 80000 festgelegt. Der Auftragnehmer ist für die Einhaltung der in der Tabelle 1 geforderten Werte verantwortlich. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_156</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Alle geforderten Prüfungen sind in TL 824 41 und VW 80000 festgelegt.
+Der Auftragnehmer ist für die Einhaltung der in der Tabelle 1 geforderten Werte verantwortlich.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160419 Butszies: It's now available.
+
+<strong>Nexteer:</strong> Table 1 not available
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_157" data-type="Information" data-search="L_Test_Mech_LG_157 Nachfolgend Tabelle 1 des Anhang A zur TL 82441 Funktions- und Festigkeitsanforderungen Information gültig to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_157</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Nachfolgend Tabelle 1 des Anhang A zur TL 82441 Funktions- und Festigkeitsanforderungen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160419 Butszies: It's now available but it's only an information.
+
+<strong>Nexteer:</strong> Table 1 not available
+
+</details>
+
+</div>
+
+#### Fahrzeugerprobung
+
+<div class="req-card" id="L_Test_Mech_LG_424" data-type="Überschrift" data-search="L_Test_Mech_LG_424 Fahrzeugerprobung Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_424</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Fahrzeugerprobung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Funktionserprobung
+
+<div class="req-card" id="L_Test_Mech_LG_425" data-type="Überschrift" data-search="L_Test_Mech_LG_425 Funktionserprobung Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_425</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Funktionserprobung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_426" data-type="Anforderung" data-search="L_Test_Mech_LG_426 Der Auftragnehmer ist verpflichtet in einem repräsentativen Zielfahrzeug oder Aggregateträger die entsprechenden Lieferanten-notwendige Prüfungen (wie z.B. Funktions- und Akustikmessungen, Störspannungsmessung, Temperatur-, Schüttelüberprüfung und insbesondere Tests nach Kapitel Sondererprobung im Fahrzeug.) durchzuführen, um damit den Nachweis der Funktionsfähigkeit des Produktes zu erbringen. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_426</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Der Auftragnehmer ist verpflichtet in einem repräsentativen Zielfahrzeug oder Aggregateträger die entsprechenden Lieferanten-notwendige Prüfungen (wie z.B. Funktions- und Akustikmessungen, Störspannungsmessung, Temperatur-,  Schüttelüberprüfung und insbesondere Tests nach Kapitel Sondererprobung im Fahrzeug.) durchzuführen, um damit den Nachweis der Funktionsfähigkeit des Produktes zu erbringen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> On principal yes, but vehicle disposal to be discussed
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_427" data-type="Anforderung" data-search="L_Test_Mech_LG_427 Die Ergebnisse sind dem Auftraggeber offen zu legen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_427</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die Ergebnisse sind dem Auftraggeber offen zu legen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Dauerfahrversuch
+
+<div class="req-card" id="L_Test_Mech_LG_430" data-type="Überschrift" data-search="L_Test_Mech_LG_430 Dauerfahrversuch Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_430</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Dauerfahrversuch</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1053" data-type="Information" data-search="L_Test_Mech_LG_1053 Im Dauerfahrversuch wird das Lenksystem im Fahrzeug auf verschiedenen Zustandstrecken (z.B. EWP, EVP, RSD, HLP, BE, EEK) und unter den unterschiedlichsten klimatischen Bedingungen (z.B. WL, KL, EK, Sonderkurse im Klimawindkanal, Großglockner-Test, Tokyo-City-Test) getestet. Dabei muss das Lenksystem die in diesem Lastenheft beschriebenen Anforderungen über das gesamte Leistungsspektrum (minimale bis maximale Vorderachslast) erfüllen, insbesondere: - Keine haptischen Beeinträchtigungen wie z.B. Haken, Stößigkeit, &quot;Einholen&quot; beim Lenken, Unstetigkeiten beim Durchlenken (Momentungleichförmigkeit), Anstieg der Grundreibung etc. - Freigang zu umliegenden Bauteilen im Vorderwagen muss gewährleistet sein - Dichtheit des Lenksystems - Symmetrie des Lenkeinschlages während der gesamten Erprobungszeit - volle Funktionsfähigkeit und Temperaturbelastbarkeit von -40°C bis 125°C, kurzzeitig 140°C (max. 96h über Lebensdauer) Information gültig not to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_1053</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Im Dauerfahrversuch wird das Lenksystem im Fahrzeug auf verschiedenen Zustandstrecken (z.B. EWP, EVP, RSD, HLP, BE, EEK) und unter den unterschiedlichsten klimatischen Bedingungen (z.B. WL, KL, EK, Sonderkurse im Klimawindkanal, Großglockner-Test, Tokyo-City-Test) getestet.
+Dabei muss das Lenksystem die in diesem Lastenheft beschriebenen Anforderungen über das gesamte Leistungsspektrum (minimale bis maximale Vorderachslast) erfüllen, insbesondere:
+
+- Keine haptischen Beeinträchtigungen wie z.B. Haken, Stößigkeit, "Einholen" beim Lenken, Unstetigkeiten beim Durchlenken (Momentungleichförmigkeit), Anstieg der Grundreibung etc.
+- Freigang zu umliegenden Bauteilen im Vorderwagen muss gewährleistet sein
+- Dichtheit des Lenksystems
+- Symmetrie des Lenkeinschlages während der gesamten Erprobungszeit
+- volle Funktionsfähigkeit und Temperaturbelastbarkeit von -40°C bis 125°C, kurzzeitig 140°C (max. 96h über Lebensdauer)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> What is the procedure for Dauerfahrversuch?
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1255" data-type="Anforderung" data-search="L_Test_Mech_LG_1255 Bei Beanstandungen im Fahrzeugdauerlauf verpflichtet sich der Auftragnehmer, die Lenkung zur Weiterführung des Dauerlaufs unverzüglich kostenfrei auszutauschen und das beanstandete Bauteil nach Absprache mit dem Auftraggeber zu analysieren. Anforderung gültig to evaluate ">
+<div class="req-head"><code>L_Test_Mech_LG_1255</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span></div>
+
+Bei Beanstandungen im Fahrzeugdauerlauf verpflichtet sich der Auftragnehmer, die Lenkung zur Weiterführung des Dauerlaufs unverzüglich kostenfrei auszutauschen und das beanstandete Bauteil nach Absprache mit dem Auftraggeber zu analysieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+
+</div>
+
+#### Sondererprobung im Fahrzeug
+
+<div class="req-card" id="L_Test_Mech_LG_448" data-type="Überschrift" data-search="L_Test_Mech_LG_448 Sondererprobung im Fahrzeug Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_448</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Sondererprobung im Fahrzeug</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1089" data-type="Anforderung" data-search="L_Test_Mech_LG_1089 Wenn nachfolgend bzw in den EPs nicht anders beschrieben, sind bei diesen Tests keine akustischen Auffälligkeiten zulässig, die Lenkung darf nicht blockieren, Risse, Brüche und Verformungen sind nicht zulässig. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1089</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Wenn nachfolgend bzw in den EPs nicht anders beschrieben, sind bei diesen Tests keine akustischen Auffälligkeiten zulässig, die Lenkung darf nicht blockieren, Risse, Brüche und Verformungen sind nicht zulässig.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> Acoustic anomalies assessed on component subjectively
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1090" data-type="Anforderung" data-search="L_Test_Mech_LG_1090 Überwachungsfunktionen dürfen nicht zum generellen Abschalten der Lenkunterstützung bei diesem Test führen (Reduzierung zulässig), müssen jedoch durch Fahrzeugneustart behoben sein. Anforderung gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1090</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Überwachungsfunktionen dürfen nicht zum generellen Abschalten der Lenkunterstützung bei diesem Test führen (Reduzierung zulässig), müssen jedoch durch Fahrzeugneustart behoben sein.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1091" data-type="Information" data-search="L_Test_Mech_LG_1091 Als Sondererprobung gelten u.a. Missbrauchstests und Gewaltversuche nach TL 82441 Pkt. 4.9 (Werkstattmissbrauchtest, Bordsteinabdrücktest, Bordsteinauffahrt, Bordsteinanfahrt, Hindernisüberfahrt). Information gültig not to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_1091</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Als Sondererprobung gelten u.a. Missbrauchstests und Gewaltversuche nach TL 82441 Pkt. 4.9
+(Werkstattmissbrauchtest, Bordsteinabdrücktest, Bordsteinauffahrt, Bordsteinanfahrt, Hindernisüberfahrt).
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160419 Butszies: Not to evaluate
+
+<strong>Nexteer:</strong> EP 5000 specs not available
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1092" data-type="Information" data-search="L_Test_Mech_LG_1092 Der Werkstattmissbrauchtest muss, abweichend von der Beschreibung in der Richtlinie, für jede Lenkrichtung jeweils 3 mal mit einer maximalen Zahnstangengeschwindigkeit von 350 mm/s bei Erreichen des Lenkanschlags durchgeführt werden. Information gültig not to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_1092</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Werkstattmissbrauchtest muss, abweichend von der Beschreibung in der Richtlinie, für jede Lenkrichtung jeweils 3 mal mit einer maximalen Zahnstangengeschwindigkeit von 350 mm/s bei Erreichen des Lenkanschlags durchgeführt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160419 Butszies: Not to evaluate
+
+<strong>Nexteer:</strong> not clear….hit the mechanical stop with 1500°/sec?
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1093" data-type="Information" data-search="L_Test_Mech_LG_1093 Weitere Tests, die über die vorher genannten Anforderungen gelten, sind: Information gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1093</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Weitere Tests, die über die vorher genannten Anforderungen gelten,  sind:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1094" data-type="Anforderung" data-search="L_Test_Mech_LG_1094 Der Rückfahranschlagtest muss nach den Kriterien aus L_Test_Mech_LG_ 1257 dreimalig links und dreimalig rechts durchgeführt und nach den Konditionen aus L_Test_Mech_LG_1258 bestanden werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>L_Test_Mech_LG_1094</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Rückfahranschlagtest muss nach den Kriterien aus L_Test_Mech_LG_ 1257 dreimalig links und dreimalig rechts durchgeführt und nach den Konditionen aus L_Test_Mech_LG_1258 bestanden werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> results depends on vehice environment, Nexteer will work with VW during development
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1257" data-type="Information" data-search="L_Test_Mech_LG_1257 Dabei gelten die folgenden Testszenarien: - Lenkunterstützung an/aus - ESP/ESC an/aus - Lenkrad 300° einschlagen, rückwärts anfahren bis auf 20 km/h und das Lenkrad loslassen oder leicht in Richtung 0° Stellung beschleunigen. Das Lenkrad dreht durch die 0 ° - Stellung in Richtung des anderen Anschlages und wird durch den mechanischen Anschlag abgebremst. Information gültig not to evaluate ">
+<div class="req-head"><code>L_Test_Mech_LG_1257</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span></div>
+
+Dabei gelten die folgenden Testszenarien:
+- Lenkunterstützung an/aus
+- ESP/ESC an/aus
+- Lenkrad 300° einschlagen, rückwärts anfahren bis auf 20 km/h und das Lenkrad loslassen oder leicht in Richtung 0° Stellung beschleunigen. Das Lenkrad dreht durch die 0 ° - Stellung in Richtung des anderen Anschlages und wird durch den mechanischen Anschlag abgebremst.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1258" data-type="Anforderung" data-search="L_Test_Mech_LG_1258 Die folgenden Kriterien sind nach Testdurchführung einzuhalten: - Keine Spurstangenverformung - Keine Brüche - Keine Risse - Lenkbarkeit muss gewährleistet sein. (kein Blockieren) Anforderung gültig not to evaluate ">
+<div class="req-head"><code>L_Test_Mech_LG_1258</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span></div>
+
+Die folgenden Kriterien sind nach Testdurchführung einzuhalten:
+- Keine Spurstangenverformung
+- Keine Brüche
+- Keine Risse
+- Lenkbarkeit muss gewährleistet sein. (kein Blockieren)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1256" data-type="Anforderung" data-search="L_Test_Mech_LG_1256 Die Fluchtwende muss nach den Konditionen L_Tech_Mech_LG_1259 ausgeführt werden und die Kriterien aus L_Tech_Mech_LG_1258 am Ende der Prüfung erüllen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1256</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die Fluchtwende muss nach den Konditionen L_Tech_Mech_LG_1259 ausgeführt werden und die Kriterien aus L_Tech_Mech_LG_1258 am Ende der Prüfung erüllen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1259" data-type="Information" data-search="L_Test_Mech_LG_1259 Für die Fluchtwende gelten folgende Testszenarien: - ESP/ESC an/aus - Rückwärts geradeaus fahren mit 20-30 km/h, Lenkrad nach links bzw. rechts schnell Anlenken und das Lenkrad loslassen, gleichzeitig den Leerlauf einlegen bzw. den Gang herausnehmen. Das Fahrzeug dreht sich um mindestens 180° und sollte vorwärts mit 20km/h weiter fahren. Information gültig not to evaluate ">
+<div class="req-head"><code>L_Test_Mech_LG_1259</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span></div>
+
+Für die Fluchtwende gelten folgende Testszenarien:
+- ESP/ESC an/aus
+- Rückwärts geradeaus  fahren mit 20-30 km/h, Lenkrad nach links bzw. rechts schnell  Anlenken und das Lenkrad loslassen, gleichzeitig den Leerlauf einlegen  bzw. den Gang herausnehmen. Das Fahrzeug  dreht sich um mindestens  180°  und sollte vorwärts mit 20km/h weiter fahren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1095" data-type="Information" data-search="L_Test_Mech_LG_1095 - schnelles Lenken (Lenkgeschwindigkeit &gt; 1000°/s) im Stand bzw. während der Fahrt auf Hoch- bzw. Niedrigreibwert und plötzlichem Abbremsen der hohen Lenkgeschwindigkeit durch den Lenkungsendanschlag. Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1095</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+- schnelles Lenken (Lenkgeschwindigkeit &gt; 1000°/s) im Stand bzw. während der Fahrt auf Hoch- bzw. Niedrigreibwert und plötzlichem Abbremsen der hohen Lenkgeschwindigkeit durch den Lenkungsendanschlag.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1191" data-type="Anforderung" data-search="L_Test_Mech_LG_1191 - Watfähigkeit der Lenkgetriebe muß gewährleistet sein. Anforderung gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1191</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Watfähigkeit der Lenkgetriebe muß gewährleistet sein.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1192" data-type="Information" data-search="L_Test_Mech_LG_1192 - Grenzmustererprobung hinsichtlich Akkustik und Funktion wird unter klimatischen Bedingungen (kalt/warm) durch den Auftraggeber durchgeführt. Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1192</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Grenzmustererprobung hinsichtlich Akkustik und Funktion wird unter klimatischen Bedingungen (kalt/warm) durch den Auftraggeber durchgeführt.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1193" data-type="Information" data-search="L_Test_Mech_LG_1193 Die thermische Belastung wird durch den Auftraggeber im Phoenix-Stadtkurs überprüft. Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1193</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die thermische Belastung wird durch den Auftraggeber im Phoenix-Stadtkurs überprüft.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1195" data-type="Information" data-search="L_Test_Mech_LG_1195 - Einbauversuche an Prototypen werden durchgeführt. Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1195</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Einbauversuche an Prototypen werden durchgeführt.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+### Definitionen, Begriffe, Abkürzungen
+
+<div class="req-card" id="L_Test_Mech_LG_3" data-type="Überschrift" data-search="L_Test_Mech_LG_3 Definitionen, Begriffe, Abkürzungen Überschrift gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_3</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span> — <strong>Definitionen, Begriffe, Abkürzungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Begriffe
+
+<div class="req-card" id="L_Test_Mech_LG_52" data-type="Überschrift" data-search="L_Test_Mech_LG_52 Begriffe Überschrift gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_52</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span> — <strong>Begriffe</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1101" data-type="Information" data-search="L_Test_Mech_LG_1101 Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1101</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-1101_2_1">
+  <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1101_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1101_2_1.png" alt="Abbildung 1101_2_1 (L_Test_Mech_LG_1101)" loading="lazy" />
+  </a>
+  <figcaption>Abbildung <code>1101_2_1</code> · L_Test_Mech_LG_1101 — <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1101_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1101_2_1.bin" download>source <code>1101_2_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transkription (durchsuchbarer Text)</summary>
+<span class="fig-transcript-body">Begriff Bedeutung</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> blank, no requirement
+
+</details>
+
+</div>
+
+#### Abkürzungen
+
+<div class="req-card" id="L_Test_Mech_LG_99" data-type="Überschrift" data-search="L_Test_Mech_LG_99 Abkürzungen Überschrift gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_99</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span> — <strong>Abkürzungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1100" data-type="Information" data-search="L_Test_Mech_LG_1100 Information gültig not to evaluate agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1100</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Lieferant: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-1100_2_1">
+  <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1100_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1100_2_1.png" alt="Abbildung 1100_2_1 (L_Test_Mech_LG_1100)" loading="lazy" />
+  </a>
+  <figcaption>Abbildung <code>1100_2_1</code> · L_Test_Mech_LG_1100 — <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1100_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Mechanik_EXERPT_20160509/1100_2_1.bin" download>source <code>1100_2_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transkription (durchsuchbarer Text)</summary>
+<span class="fig-transcript-body">AbkürzungBedeutung<br/>EWP Prüfgelände Ehra -Wechselkurs für PKW<br/>EVP Prüfgelände Ehra -verschärfter Kurs für PKW<br/>RSD Rennstrecken Dauerlauf<br/>HLP Heiss-Land-Piste (Erprobung in heißem Klima auf<br/>schlechten Wegen)<br/>BE Breiten -Erprobung (kundennaher<br/>Fahrzeugbetrieb)<br/>EEK Prüfgelände Ehra -Elektrik-Kurs<br/>WL Warm-Land (Erprobung in heißem Klima)<br/>KL Kalt-Land (Erprobung in kaltem Klima)<br/>EK Prüfgelände Ehra -Korrosionskurs<br/>EP Entwicklungsprüfkatalog</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | not to evaluate |
+| Status Lieferant | agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> Which test track do those abbreviations refer to
+
+</details>
+
+</div>
+
+### Mitgeltende Unterlagen
+
+<div class="req-card" id="L_Test_Mech_LG_4" data-type="Überschrift" data-search="L_Test_Mech_LG_4 Mitgeltende Unterlagen Überschrift gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_4</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Mitgeltende Unterlagen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1182" data-type="Anforderung" data-search="L_Test_Mech_LG_1182 Es gelten die mitgeltenden Unterlagen des Moduls &quot;Mitgeltende Unterlagen&quot; des Lenkungslastenheftes. Anforderung gültig to evaluate partly agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1182</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+Es gelten die mitgeltenden Unterlagen des Moduls "Mitgeltende Unterlagen" des Lenkungslastenheftes.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>Nexteer:</strong> Currently not all "Mitgeltende Unterlagen have been" analysed yet
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1102" data-type="Information" data-search="L_Test_Mech_LG_1102 TL 824 41 Elektromechanische Lenkgetriebe; Funktions- und Festigkeitsanforderungen Information gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1102</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+TL 824 41
+Elektromechanische Lenkgetriebe; Funktions- und Festigkeitsanforderungen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1103" data-type="Information" data-search="L_Test_Mech_LG_1103 TL 824 41 - Anhang A Anhang A zur TL 82441 - Lenkungen für Fahrzeugklasse &quot;MQB A/B&quot; Information gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1103</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+TL 824 41 - Anhang A
+Anhang A zur TL 82441 - Lenkungen für Fahrzeugklasse "MQB A/B"
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="L_Test_Mech_LG_1105" data-type="Information" data-search="L_Test_Mech_LG_1105 VW 80000 Elektrische und elektronische Baugruppen in Kraftfahrzeugen bis 3,5 t; Allgemeine Anforderungen, Prüfbedingungen und Prüfungen Information gültig accepted agreed">
+<div class="req-head"><code>L_Test_Mech_LG_1105</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+VW 80000
+Elektrische und elektronische Baugruppen in Kraftfahrzeugen bis 3,5 t; Allgemeine Anforderungen, Prüfbedingungen und Prüfungen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+---
+*Original: RIF `Erprobung Mechanik_EXERPT_20160509.xml` · DOORS-Export vom 2016-05-17T12:45:36+02:00. OLE-Objekte (Word/Excel/Paint) wurden originalgetreu als PNG eingebettet (Bitmap-DIBs 1:1, Vektor-WMF als saubere Nachzeichnung inkl. Transkription); Originale sind pro Abbildung verlinkt.*

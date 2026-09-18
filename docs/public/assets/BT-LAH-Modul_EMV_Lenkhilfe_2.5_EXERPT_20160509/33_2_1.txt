@@ -1,0 +1,7 @@
+Geeignet für Frequenzen
+Messverfahrenvon bis
+Bordnetznachbildung1 100 kHz150 MHz
+Antennenmethode1 100 kHz6 GHz
+Streifenleitung2 100 kHz960 MHz
+Kapazitive Koppelzange2 100 kHz30 MHz
+Stromzange2 30 MHz108 MHz

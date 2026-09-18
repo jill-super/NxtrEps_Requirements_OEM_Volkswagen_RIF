@@ -1,0 +1,1048 @@
+---
+title: "Testing \u2014 Electrics & Electronics"
+description: "DOORS RIF excerpt 2016-05-09 \u00b7 65 objects \u00b7 6 figures (EN default, DE original)"
+sidebar: {"order": 16}
+---
+# Testing — Electrics & Electronics
+
+:::note
+Default language is **English**. Official DOORS English is used where present (63/65 objects); the remaining 2 objects carry a yellow **MT** badge (machine-translated from German with Helsinki-NLP/opus-mt-de-en + automotive glossary; type `MT` in the filter box to list them). Use the language switcher for the full German edition.
+:::
+
+| Metric | Value |
+|---|---|
+| Objekte / objects | 65 |
+| Anforderungen / requirements | 39 |
+| Informationen / information | 9 |
+| TBD | 0 |
+| Überschriften / headings | 17 |
+| Abbildungen / figures | 6 |
+| Official EN text | 63 (97%) |
+| Machine-translated EN | 2 |
+
+
+<div class="req-filter" role="search">
+  <input id="req-q" type="search" placeholder="Filter by ID or text…" aria-label="Filter requirements" />
+  <select id="req-t" aria-label="Filter by type">
+    <option value="">Type: all</option>
+    <option value="Anforderung">Anforderung · requirement</option>
+    <option value="Information">Information · information</option>
+    <option value="TBD">TBD · TBD</option>
+    <option value="Überschrift">Überschrift · heading</option>
+  </select>
+  <span class="req-count" id="req-count"></span>
+</div>
+
+
+## Testing of the electrical system
+
+<div class="req-card" id="L_Erprobung_El_5" data-type="Überschrift" data-search="L_Erprobung_El_5 Testing of the electrical system Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_5</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Testing of the electrical system</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### General information
+
+<div class="req-card" id="L_Erprobung_El_6" data-type="Überschrift" data-search="L_Erprobung_El_6 General information Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_6</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>General information</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_8" data-type="Anforderung" data-search="L_Erprobung_El_8 The contractor must demonstrate the execution of all tests. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_8</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The contractor must demonstrate the execution of all tests.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> Specific compliance matrix for each test to be created and reviewed before final status
+
+</details>
+
+</div>
+
+### Tests to be performed
+
+<div class="req-card" id="L_Erprobung_El_9" data-type="Überschrift" data-search="L_Erprobung_El_9 Tests to be performed Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_9</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Tests to be performed</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Tests as per VW 80000
+
+<div class="req-card" id="L_Erprobung_El_10" data-type="Überschrift" data-search="L_Erprobung_El_10 Tests as per VW 80000 Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_10</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Tests as per VW 80000</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_11" data-type="Anforderung" data-search="L_Erprobung_El_11 The requirements and tests as per VW 80000 apply. The requirements and tests are, if applicable, restricted, modified, or precisely defined in the applicable document &quot;Supplement to VW 80000 for EPS Systems.&quot; Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_Erprobung_El_11</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The requirements and tests as per VW 80000 apply.
+The requirements and tests are, if applicable, restricted, modified, or precisely defined in the applicable document "Supplement to VW 80000 for EPS Systems."
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski/Tonbil: Bitte an Hrn Wilke bzgl. des Dokuments wenden
+
+<strong>Nexteer:</strong> document "Ergänzung_zur_VW80000_für_EPS_Systeme" not available
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_50" data-type="Anforderung" data-search="L_Erprobung_El_50 If the requirements, test conditions, and tests in &quot;Supplement to VW 80000 for EPS Systems&quot; deviate from VW 80000, then the requirements, test conditions, and tests of the supplement apply. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_Erprobung_El_50</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+If the requirements, test conditions, and tests in "Supplement to VW 80000 for EPS Systems" deviate from VW 80000, then the requirements, test conditions, and tests of the supplement apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski/Tonbil: Bitte an Hrn Wilke bzgl. des Dokuments wenden
+
+<strong>Nexteer:</strong> document "Ergänzung_zur_VW80000_für_EPS_Systeme" not available
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_18" data-type="Anforderung" data-search="L_Erprobung_El_18 Deviations of the test specification from the Group Standard VW 80000 and &quot;Supplement to VW 80000 for EPS Systems&quot; are subject to approval and must be agreed upon with the purchaser. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_18</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Deviations of the test specification from the Group Standard VW 80000 and "Supplement to VW 80000 for EPS Systems" are subject to approval and must be agreed upon with the purchaser.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> document "Ergänzung_zur_VW80000_für_EPS_Systeme" not available
+
+</details>
+
+</div>
+
+#### Test of function during undervoltage and overvoltage
+
+<div class="req-card" id="L_Erprobung_El_13" data-type="Überschrift" data-search="L_Erprobung_El_13 Test of function during undervoltage and overvoltage Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_13</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Test of function during undervoltage and overvoltage</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_14" data-type="Anforderung" data-search="L_Erprobung_El_14 It must be checked whether the defined functional statuses are achieved. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_14</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+It must be checked whether the defined functional statuses are achieved.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_16" data-type="Anforderung" data-search="L_Erprobung_El_16 The operating voltage range and the respective functional statuses are defined in the Performance Specifications module &quot;Electric System Algorithm.&quot; Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_16</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The operating voltage range and the respective functional statuses are defined in the Performance Specifications module "Electric System Algorithm."
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_17" data-type="Anforderung" data-search="L_Erprobung_El_17 If either overvoltage or undervoltage is detected, the DUT switches to a safe state, i.e., no undefined function must occur, neither during the overvoltage phase nor during the undervoltage phase. Upon return to the operating voltage range, the DUT must automatically fulfill all functions again as specified. Anforderung gültig to evaluate requirement valid">
+<div class="req-head"><code>L_Erprobung_El_17</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span></div>
+
+If either overvoltage or undervoltage is detected, the DUT switches to a safe state, i.e., no undefined function must occur, neither during the overvoltage phase nor during the undervoltage phase. Upon return to the operating voltage range, the DUT must automatically fulfill all functions again as specified.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_84" data-type="Anforderung" data-search="L_Erprobung_El_84 Undervoltage pulses must not lead to a fault in the steering system. This must not result in any misdiagnoses in the ECU either. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_84</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Undervoltage pulses must not lead to a fault in the steering system. This must not result in any misdiagnoses in the ECU either.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Test of operating voltages
+
+<div class="req-card" id="L_Erprobung_El_20" data-type="Überschrift" data-search="L_Erprobung_El_20 Test of operating voltages Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_20</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Test of operating voltages</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_21" data-type="Anforderung" data-search="L_Erprobung_El_21 The operating voltage range must be checked at different temperatures. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_21</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The operating voltage range must be checked at different temperatures.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_79" data-type="Anforderung" data-search="L_Erprobung_El_79 The test voltages must be checked at 20 °C and at 100 °C, Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_79</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The test voltages must be checked at 20 °C and at 100 °C,
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_22" data-type="Anforderung" data-search="L_Erprobung_El_22 Procedure: 1. Long-term operating voltage of 6,5 V 2. Long-term operating voltage of 9 V 3. Long-term operating voltage of 11,4 V 4. Long-term operating voltage of 11,5 V 5. Long-term operating voltage of 16 V 6. Long-term operating voltage of 16,1 V 7. Long-term operating voltage of 16,9 V 8. Long-term operating voltage of 17 V 9. Long-term operating voltage of 17,1 V Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_22</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Procedure:
+1. Long-term operating voltage of 6,5 V
+2. Long-term operating voltage of 9 V
+3. Long-term operating voltage of 11,4 V
+4. Long-term operating voltage of 11,5 V
+5. Long-term operating voltage of 16 V
+6. Long-term operating voltage of 16,1 V
+7. Long-term operating voltage of 16,9 V
+8. Long-term operating voltage of 17 V
+9. Long-term operating voltage of 17,1 V
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_23" data-type="Anforderung" data-search="L_Erprobung_El_23 At the beginning of the test, the control unit is in normal mode (U = 12 V) with active engine operation. Then the test voltage is set. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_23</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+At the beginning of the test, the control unit is in normal mode (U = 12 V) with active engine operation. Then the test voltage is set.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_71" data-type="Anforderung" data-search="L_Erprobung_El_71 The control unit is unloaded during testing (no steering torques). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_71</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The control unit is unloaded during testing (no steering torques).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_72" data-type="Anforderung" data-search="L_Erprobung_El_72 Each test voltage must be applied for 60 s. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_72</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Each test voltage must be applied for 60 s.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_25" data-type="Anforderung" data-search="L_Erprobung_El_25 Requirement: The defined operating voltage limits must be adhered to. The requirements of the &quot;Electric System Algorithm&quot; module of the Performance Specifications must be fulfilled. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_25</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Requirement:
+The defined operating voltage limits must be adhered to.
+The requirements of the "Electric System Algorithm" module of the Performance Specifications must be fulfilled.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_96" data-type="Anforderung" data-search="L_Erprobung_El_96 Requirements: The requirements of the specifications module &quot;On-board network algorithm&quot; must be met. Anforderung gültig to evaluate requirement valid MT machine-translated">
+<div class="req-head"><code>L_Erprobung_El_96</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Requirements:
+The requirements of the specifications module "On-board network algorithm" must be met.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+
+</div>
+
+#### Tests of the plug connection
+
+<div class="req-card" id="L_Erprobung_El_28" data-type="Überschrift" data-search="L_Erprobung_El_28 Tests of the plug connection Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_28</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Tests of the plug connection</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+#### Visual inspection
+
+<div class="req-card" id="L_Erprobung_El_29" data-type="Überschrift" data-search="L_Erprobung_El_29 Visual inspection Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_29</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Visual inspection</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_30" data-type="Anforderung" data-search="L_Erprobung_El_30 A visual inspection must be performed to determine whether the connectors and contacts of the plug connection are undamaged and are designed in accordance with specifications. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_30</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+A visual inspection must be performed to determine whether the connectors and contacts of the plug connection are undamaged and are designed in accordance with specifications.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Tests as per VW 80106
+
+<div class="req-card" id="L_Erprobung_El_32" data-type="Überschrift" data-search="L_Erprobung_El_32 Tests as per VW 80106 Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_32</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Tests as per VW 80106</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_33" data-type="Anforderung" data-search="L_Erprobung_El_33 The plugging force is tested as per VW 80106. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_33</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The plugging force is tested as per VW 80106.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_35" data-type="Anforderung" data-search="L_Erprobung_El_35 The pin retention force is tested as per VW 80106. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_35</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The pin retention force is tested as per VW 80106.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_36" data-type="Anforderung" data-search="L_Erprobung_El_36 The coupling pin strength is tested as per VW 80106. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_36</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The coupling pin strength is tested as per VW 80106.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Electromagnetic compatibility (EMC) tests
+
+<div class="req-card" id="L_Erprobung_El_38" data-type="Überschrift" data-search="L_Erprobung_El_38 Electromagnetic compatibility (EMC) tests Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_38</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Electromagnetic compatibility (EMC) tests</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_39" data-type="Anforderung" data-search="L_Erprobung_El_39 The steering system EMC is tested as per the EMC module of the Performance Specifications. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_39</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The steering system EMC is tested as per the EMC module of the Performance Specifications.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Service life tests
+
+<div class="req-card" id="L_Erprobung_El_53" data-type="Überschrift" data-search="L_Erprobung_El_53 Service life tests Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_53</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Service life tests</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_54" data-type="Anforderung" data-search="L_Erprobung_El_54 The test is carried out as per TL 82441, section 4.6.1. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_Erprobung_El_54</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The test is carried out as per TL 82441, section 4.6.1.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> Detail about test is requested per values from table 1.
+Setup of short gear Vs Long gear testing to be discussed
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_56" data-type="Anforderung" data-search="L_Erprobung_El_56 Before the parking test, reverse polarity protection testing is performed as per VW 80000 (E-15 Reverse polarity). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_56</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Before the parking test, reverse polarity protection testing is performed as per VW 80000 (E-15 Reverse polarity).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_82" data-type="Information" data-search="L_Erprobung_El_82 If active reversed polarity protection is included in the ECU, the parking test (test bed test that simulates service-life loading of the steering gear) can be omitted as an acceptance criterion. Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_82</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+If active reversed polarity protection is included in the ECU, the parking test (test bed test that simulates service-life loading of the steering gear) can be omitted as an acceptance criterion.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_69" data-type="Anforderung" data-search="L_Erprobung_El_69 Additional service life tests must be performed. These tests must be defined by the contractor for the respective steering system and must be approved by the purchaser. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_69</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Additional service life tests must be performed. These tests must be defined by the contractor for the respective steering system and must be approved by the purchaser.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_73" data-type="Anforderung" data-search="L_Erprobung_El_73 The additional service life tests comprise at least one high-temperature endurance test and one temperature cycle endurance test. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_Erprobung_El_73</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The additional service life tests comprise at least one high-temperature endurance test and one temperature cycle endurance test.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski/Tonbil: L02 und L03 bitte möglcihst nach VW80000 +Ergänzung. Abweichungen können diskutiert werden (Begründung?). Für L02 wurde ein temperaturprofil im Modul Steuergerät + Motor vorgegeben
+
+<strong>Nexteer:</strong> Does this refer to test L-02 &amp; L-03 from VW80000 as mandatory or is supplier allowed to propose similar test?
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_74" data-type="Anforderung" data-search="L_Erprobung_El_74 The high-temperature endurance test must represent the thermal loading of the electrical and electronic components of the steering system during the vehicle service life. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_74</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The high-temperature endurance test must represent the thermal loading of the electrical and electronic components of the steering system during the vehicle service life.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_75" data-type="Anforderung" data-search="L_Erprobung_El_75 The temperature cycle endurance test must assure the component quality and reliability with regard to thermomechanical fault patterns (e.g., aging, formation of cracks in soldered connections, adhesive connections, bonded connections, and welded connections, seals, and housings). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_75</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The temperature cycle endurance test must assure the component quality and reliability with regard to thermomechanical fault patterns (e.g., aging, formation of cracks in soldered connections, adhesive connections, bonded connections, and welded connections, seals, and housings).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### **1.3.7 Checking the component protection/availability of steering assistance under hot country conditions**
+
+<div class="req-card" id="L_Erprobung_El_87" data-type="Überschrift" data-search="L_Erprobung_El_87 **1.3.7 Checking the component protection/availability of steering assistance under hot country conditions** Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_87</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong><strong>1.3.7 Checking the component protection/availability of steering assistance under hot country conditions</strong></strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_88" data-type="Anforderung" data-search="L_Erprobung_El_88 The steering system must withstand 30 min of continuous driving in the simulated Phoenix city course without the value at the power steering line falling below 60% during this period. Anforderung gültig to evaluate partly agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_88</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: partly agreed</span></div>
+
+The steering system must withstand 30 min of continuous driving in the simulated Phoenix city course without the value at the power steering line falling below 60% during this period.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | partly agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski/Tonbil:
+360 - 500°/s Lenkradwinkelgeschwindigkeit
+
+<strong>Nexteer:</strong> Lastkollektiv muss noch  definiert werden
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_89" data-type="Anforderung" data-search="L_Erprobung_El_89 The steering system must withstand 60 min of continuous driving in the simulated Phoenix city course without the value at the power steering line falling below 20% during this period. Anforderung gültig to evaluate partly agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_89</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: partly agreed</span></div>
+
+The steering system must withstand 60 min of continuous driving in the simulated Phoenix city course without the value at the power steering line falling below 20% during this period.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | partly agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski/Tonbil:
+360 - 500°/s Lenkradwinkelgeschwindigkeit
+
+<strong>Nexteer:</strong> Lastkollektiv muss noch  definiert werden
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_94" data-type="Anforderung" data-search="L_Erprobung_El_94 During the simulated Phoenix city course, the vehicle must be tested with the max. front axle load. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_94</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+During the simulated Phoenix city course, the vehicle must be tested with the max. front axle load.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_97" data-type="Anforderung" data-search="L_Erprobung_El_97 The steering wheel angle speed shall be 360 -500°/s Anforderung gültig to evaluate requirement valid MT machine-translated">
+<div class="req-head"><code>L_Erprobung_El_97</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The steering wheel angle speed shall be 360 -500°/s
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_95" data-type="Information" data-search="L_Erprobung_El_95 Simulierter Phoenix Stadtkurs im APG Simulated Phoenix city course at the Arizona Proving Grounds (APG) 180° Wende 14 x am Anschlag 180° turn 14 times at the steering stop Links an Anschlag Left to the steering stop Anschlag 180°-Wende Steering stop 180° turn Schnellfahrende Korrosionsfahrzeuge! High-speed corrosion vehicles! Fahranweisung: · Es ist bei einer Außentemperatur von mindestens 40°C zufahren. · Die Starttemperatur in der ECU beträgt 60 - 70°C. · Die Fahrzeit beträgt 1,5h. · Beim Lenken in die Anschläge ist die Bremse zu betätigen. Driving instruction: · The course must be driven at an outside temperature of 40 °C. · The starting temperature in the ECU is 60 – 70 °C. · The driving time is 1.5 h. · When steering to the steering stops, the brake pedal must be depressed. 10 km/h 30 km/h 40 km/h 50 km/h 10 km/h 30 km/h 40 km/h 50 km/h Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_95</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-95_9_1">
+  <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/95_9_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/95_9_1.png" alt="Figure 95_9_1 (L_Erprobung_El_95)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>95_9_1</code> · L_Erprobung_El_95 — <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/95_9_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/95_9_1.bin" download>source <code>95_9_1.bin</code></a></span></figcaption>
+</figure>
+
+
+
+
+Simulierter Phoenix Stadtkurs im APG	Simulated Phoenix city course at the Arizona Proving Grounds (APG)
+
+180° Wende 14 x am Anschlag	180° turn 14 times at the steering stop
+
+Links an Anschlag	Left to the steering stop
+
+Anschlag 180°-Wende	Steering stop 180° turn
+
+Schnellfahrende Korrosionsfahrzeuge!	High-speed corrosion vehicles!
+
+Fahranweisung:
+· Es ist bei einer Außentemperatur von mindestens 40°C zufahren.
+· Die Starttemperatur in der ECU beträgt
+60 - 70°C.
+· Die Fahrzeit beträgt 1,5h.
+· Beim Lenken in die Anschläge ist die Bremse zu betätigen.	Driving instruction:
+· The course must be driven at an outside temperature of 40 °C.
+· The starting temperature in the ECU is
+60 – 70 °C.
+· The driving time is 1.5 h.
+· When steering to the steering stops, the brake pedal must be depressed.
+
+10 km/h
+30 km/h
+40 km/h
+50 km/h	10 km/h
+30 km/h
+40 km/h
+50 km/h
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Proof of fulfillment
+
+<div class="req-card" id="L_Erprobung_El_57" data-type="Überschrift" data-search="L_Erprobung_El_57 Proof of fulfillment Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_57</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Proof of fulfillment</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_62" data-type="Anforderung" data-search="L_Erprobung_El_62 Test results must be recorded. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_62</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Test results must be recorded.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_63" data-type="Anforderung" data-search="L_Erprobung_El_63 The current testing status must be delivered regularly in a progress report. The time intervals are agreed upon between the purchaser and contractor. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_63</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The current testing status must be delivered regularly in a progress report. The time intervals are agreed upon between the purchaser and contractor.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_64" data-type="Anforderung" data-search="L_Erprobung_El_64 Measurement and test reports must be delivered to the purchaser upon request. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_64</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Measurement and test reports must be delivered to the purchaser upon request.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_65" data-type="Anforderung" data-search="L_Erprobung_El_65 Measurement and test results are listed in the documents for component release. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_65</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Measurement and test results are listed in the documents for component release.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_66" data-type="Anforderung" data-search="L_Erprobung_El_66 In addition, at the request of the purchaser, a test overview indicating the current testing progress and including results must be prepared and delivered to the purchaser. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_66</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+In addition, at the request of the purchaser, a test overview indicating the current testing progress and including results must be prepared and delivered to the purchaser.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_67" data-type="Anforderung" data-search="L_Erprobung_El_67 The test overview contains both the status of all required tests and the status of additional tests carried out. Tests at sub-contractors must also be included here. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_Erprobung_El_67</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The test overview contains both the status of all required tests and the status of additional tests carried out. Tests at sub-contractors must also be included here.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_68" data-type="Anforderung" data-search="L_Erprobung_El_68 If a test is not passed (not OK), then the reason for this result must be reported to the purchaser immediately. In addition, the actions and expense for passing the test at a later time must be presented. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_68</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+If a test is not passed (not OK), then the reason for this result must be reported to the purchaser immediately. In addition, the actions and expense for passing the test at a later time must be presented.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Definitions, terms, abbreviations
+
+<div class="req-card" id="L_Erprobung_El_40" data-type="Überschrift" data-search="L_Erprobung_El_40 Definitions, terms, abbreviations Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_40</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Definitions, terms, abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Terms
+
+<div class="req-card" id="L_Erprobung_El_41" data-type="Überschrift" data-search="L_Erprobung_El_41 Terms Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_41</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Terms</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_42" data-type="Information" data-search="L_Erprobung_El_42 Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_42</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-42_9_1">
+  <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/42_9_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/42_9_1.png" alt="Figure 42_9_1 (L_Erprobung_El_42)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>42_9_1</code> · L_Erprobung_El_42 — <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/42_9_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/42_9_1.bin" download>source <code>42_9_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transcription (English, machine-translated — searchable text)</summary>
+<span class="fig-transcript-body">Term Meaning</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> blank requirement
+
+</details>
+
+</div>
+
+#### Abbreviations
+
+<div class="req-card" id="L_Erprobung_El_43" data-type="Überschrift" data-search="L_Erprobung_El_43 Abbreviations Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_43</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_44" data-type="Information" data-search="L_Erprobung_El_44 Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_44</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+
+
+<figure class="req-figure" id="fig-44_9_1">
+  <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/44_9_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/44_9_1.png" alt="Figure 44_9_1 (L_Erprobung_El_44)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>44_9_1</code> · L_Erprobung_El_44 — <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/44_9_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Erprobung%20Elektrik%20und%20Elektronik_EXERPT_20160509/44_9_1.bin" download>source <code>44_9_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transcription (English, machine-translated — searchable text)</summary>
+<span class="fig-transcript-body">Abbreviation Meaning<br/>EPS Electronic power steering<br/>EMC Electromagnetic compatibility</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Other applicable documents
+
+<div class="req-card" id="L_Erprobung_El_45" data-type="Überschrift" data-search="L_Erprobung_El_45 Other applicable documents Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_Erprobung_El_45</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Other applicable documents</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_46" data-type="Anforderung" data-search="L_Erprobung_El_46 Applicable documents in the &quot;Applicable documents&quot; module of the Steering System Performance Specifications apply. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_Erprobung_El_46</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Applicable documents in the "Applicable documents" module of the Steering System Performance Specifications apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_47" data-type="Information" data-search="L_Erprobung_El_47 VW 80000: Electric and electronic components in motor vehicles up to 3,5 t – general requirements, test conditions, and tests Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_47</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+VW 80000:
+Electric and electronic components in motor vehicles up to 3,5 t – general requirements, test conditions, and tests
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_48" data-type="Information" data-search="L_Erprobung_El_48 Supplement to VW 80000 for electronic steering systems Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_48</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+Supplement to VW 80000 for electronic steering systems
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> spec not available
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_49" data-type="Information" data-search="L_Erprobung_El_49 VW 80106: Plug connection on electric and electronic components in motor vehicles Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_49</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+VW 80106:
+Plug connection on electric and electronic components in motor vehicles
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_51" data-type="Information" data-search="L_Erprobung_El_51 VW 01064?: Assembly markings, coding on vehicles Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_51</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+VW 01064?:
+Assembly markings, coding on vehicles
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_Erprobung_El_55" data-type="Information" data-search="L_Erprobung_El_55 TL 82441: Electromechanical steering gear functional requirements and strength requirements Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_Erprobung_El_55</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+TL 82441:
+Electromechanical steering gear functional requirements and strength requirements
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+---
+*Source RIF `Erprobung Elektrik und Elektronik_EXERPT_20160509.xml` (2016-05-17T12:41:21+02:00). Embedded OLE objects (Word/Excel/Paint) are embedded as PNG (bitmap DIBs 1:1, vector WMF re-rendered + transcribed); originals linked per figure. English: official DOORS text where available, otherwise machine-translated (Helsinki-NLP/opus-mt-de-en + automotive glossary), marked per requirement.*

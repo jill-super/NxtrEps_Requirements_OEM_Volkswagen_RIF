@@ -1,0 +1,17 @@
+Klassifizierung: Anwendbar auf Wie in Ergänzungen / Konkretisierungen
+TL: TL
+definiert
+FunktionszustandTL81000, x Alle Funktionen müssen gemäßFunktionslastenheft
+A bis C Kapitel „Pulse“ eingehalten werden. Spezielle Funktionszustände
+müssen mit dem EMV-und Systemverantwortlichen
+abgestimmt werden.
+Ist keine Abstimmung erfolgt, gilt standardmäßig der
+Funktionszustand A.
+Kategorie 1 bis 3 TL81000 x Die Einstufung von Funktionen einer Komponente oder
+(FPSC) Kapitel „Störfestigkeit“ eines Systems sowie auftretende Effekte indie
+und„ESD“ entsprechendenKategorien legt allein der
+Fahrzeugherstellerspätestens nach bekannt werden des
+Effekts fest.
+Falls für eine Funktion oder einen Effektkeine
+Kategorie zugeordnet ist, wird generell in Kategorie 3
+eingruppiert.

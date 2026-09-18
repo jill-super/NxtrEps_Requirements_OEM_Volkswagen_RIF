@@ -1,0 +1,7 @@
+I
+at a city ride(described at requirement
+_548)
+Intended current consumption
+rent/Time
+x 10s, Kl.15 OFF and end of controlled
+electrical steering angle sensor

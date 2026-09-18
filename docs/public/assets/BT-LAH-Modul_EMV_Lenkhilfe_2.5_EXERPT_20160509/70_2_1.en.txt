@@ -1,0 +1,12 @@
+Frequency Operating System that could be disturbed
+[MHz ]
+4,10 duplex distance 31.7 MHz to 41 MHz radios
+4,60 duplex distance 2m band (also 65.85 MHz, country specific)
+5,00 TV image audio recording distance *)
+7,60 duplex distance 70 cm Amateur radio
+9.80 Duplex distance 4m band (police, fire brigade, operating radio)
+10,00 duplex distance 2m band
+10,70 Intermediary frequency radios and radios *)
+21,40 Intermediary frequency radios
+45,00 D -Net telephone, short range radio
+55,00 duplex distance J-Tax

@@ -1,0 +1,11 @@
+Shortcut Meaning
+MLCC MultiLayer Ceramic Capacitor
+CAN -FD Controller Area NetworkFlexible Datarate
+CPU Central Processing Unit
+ROM Read Only Memory
+RAM Random Access memory
+ASIC Application Specific Integrated Circuit
+R/C-EPS Rack/Column Electric Power Steering
+HW Hardware
+iLVS integrated steering angle sensor
+BT - LAH component load book

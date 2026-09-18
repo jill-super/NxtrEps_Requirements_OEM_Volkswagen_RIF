@@ -1,0 +1,32 @@
+a
+EMV-Qualifikationsbericht
+EMV -Prüfung / Auftragnehmer
+Nachweis der EMV für:
+Elektronikkomponente:____________________________________
+System: ____________________________________
+Teilenummer: ____________________________________
+Hardwarestand: ____________________________________
+Softwarestand: ____________________________________
+Gerätenummer: ____________________________________
+Sachbearbeiter: ____________________________________
+Lieferant / Hersteller: ____________________________________
+EMV-A* Durchzuführende Messungen Messergebnis
+Kap.
+1 ¨ Störaussendung aufVersorgungsleitungen
+2 ¨ Störfestigkeit von Versorgungsleitungseingängen
+3 ¨ Störfestigkeit von Sensorleitungseingängen
+4 ¨ Störaussendung
+5 ¨ Eingestrahlte Störungen
+6 ¨ ESD
+7 ¨ Störfestigkeit gegenüber Magnetfeldern
+8 ¨ Ergänzende EMV-Anforderungen
+* EMV-A: EMV-Anforderungen
+EMV-Entwicklungsstand:
+__________________________________________________________________________
+__________________________________________________________________________
+Bearbeiter:
+Name:______________________Tel.: _______________________
+Abteilung: ______________________Fax: _______________________
+E-Mail: _______________________
+________________________________________________________
+Datum Unterschrift

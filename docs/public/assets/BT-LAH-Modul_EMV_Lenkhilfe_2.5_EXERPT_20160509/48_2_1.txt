@@ -1,0 +1,5 @@
+VerfahrenFrequenzbereichAnwendungBemerkungen
+[MHz]
+Antenne 200 -3000 1
+BCI 0,1-400 1
+Streifenleitung0,1-400 2

@@ -1,0 +1,16 @@
+Definition
+Steering column
+Coordinates
+A-point intersection between the input shaft axis
+With the pressure unit axis
+D-point intersection of the steering rod tube axis with the
+to the driver's steering wheel plane
+K1-point Top articulated point of the steering strand
+K2 point Lower articulated point of the steering rod strand; and
+so that the joint point of the connecting fork to
+Steering system input shaft
+Steering gear
+Coordinates
+KU-Point Middle articulated point of the steering strand
+S1 point ball centre point of the axial joint
+S2 point ball centre point from the external joint

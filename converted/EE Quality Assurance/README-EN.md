@@ -1,0 +1,3214 @@
+---
+title: "EE Quality Assurance"
+description: "DOORS RIF excerpt 2016-05-09 \u00b7 237 objects \u00b7 1 figures (EN default, DE original)"
+sidebar: {"order": 15}
+---
+# EE Quality Assurance
+
+:::note
+Default language is **English**. Official DOORS English is used where present (0/237 objects); the remaining 237 objects carry a yellow **MT** badge (machine-translated from German with Helsinki-NLP/opus-mt-de-en + automotive glossary; type `MT` in the filter box to list them). Use the language switcher for the full German edition.
+:::
+
+| Metric | Value |
+|---|---|
+| Objekte / objects | 237 |
+| Anforderungen / requirements | 147 |
+| Informationen / information | 53 |
+| TBD | 0 |
+| Überschriften / headings | 37 |
+| Abbildungen / figures | 1 |
+| Official EN text | 0 (0%) |
+| Machine-translated EN | 237 |
+
+
+<div class="req-filter" role="search">
+  <input id="req-q" type="search" placeholder="Filter by ID or text…" aria-label="Filter requirements" />
+  <select id="req-t" aria-label="Filter by type">
+    <option value="">Type: all</option>
+    <option value="Anforderung">Anforderung · requirement</option>
+    <option value="Information">Information · information</option>
+    <option value="TBD">TBD · TBD</option>
+    <option value="Überschrift">Überschrift · heading</option>
+  </select>
+  <span class="req-count" id="req-count"></span>
+</div>
+
+
+## Quality assurance requirements
+
+<div class="req-card" id="QS-Modul-5829" data-type="Überschrift" data-search="QS-Modul-5829 Quality assurance requirements Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5829</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Quality assurance requirements</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Preface
+
+<div class="req-card" id="QS-Modul-2" data-type="Überschrift" data-search="QS-Modul-2 Preface Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-2</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Preface</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-4" data-type="Information" data-search="QS-Modul-4 The component specification module Quality Assurance is part of the component specification and only valid together with it. Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-4</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The component specification module Quality Assurance is part of the component specification and only valid together with it.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-13" data-type="Information" data-search="QS-Modul-13 The requirements to be met by the contractor are generally marked by an &quot;A&quot; in the identification number (e.g.: [A: BT-LAH-1]). Text parts marked by an &quot;I&quot; are information for a better understanding of the BT-LAH. If there is no identification number or no identification with &quot;A&quot; or &quot;I&quot;, it is also a requirement. Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-13</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The requirements to be met by the contractor are generally marked by an "A" in the identification number (e.g.: [A: BT-LAH-1]). Text parts marked by an "I" are information for a better understanding of the BT-LAH. If there is no identification number or no identification with "A" or "I", it is also a requirement.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Quality assurance requirements
+
+<div class="req-card" id="QS-Modul-632" data-type="Überschrift" data-search="QS-Modul-632 Quality assurance requirements Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-632</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Quality assurance requirements</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### *Production and testing concepts*
+
+<div class="req-card" id="QS-Modul-5607" data-type="Überschrift" data-search="QS-Modul-5607 *Production and testing concepts* Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5607</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>*Production and testing concepts*</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5608" data-type="Anforderung" data-search="QS-Modul-5608 The production and testing concept must be presented to the component manager of quality assurance until B-clearance and agreed with him Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5608</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The production and testing concept must be presented to the component manager of quality assurance until B-clearance and agreed with him
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Acceptance criteria for electrical and electronic components
+
+<div class="req-card" id="QS-Modul-5609" data-type="Überschrift" data-search="QS-Modul-5609 Acceptance criteria for electrical and electronic components Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5609</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Acceptance criteria for electrical and electronic components</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5605" data-type="Anforderung" data-search="QS-Modul-5605 The assessment basis for electrical and electronic components is the IPC-A-610, product class 3. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5605</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The assessment basis for electrical and electronic components is the IPC-A-610, product class 3.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Compliance with component manufacturer information
+
+<div class="req-card" id="QS-Modul-1004" data-type="Überschrift" data-search="QS-Modul-1004 Compliance with component manufacturer information Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1004</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Compliance with component manufacturer information</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1015" data-type="Anforderung" data-search="QS-Modul-1015 The components used must be processed according to manufacturer specifications (e.g. soldered). Especially attention should be paid to soldering temperatures, soldering times, temperature gradients, storage times and moisture sensitive levels. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1015</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The components used must be processed according to manufacturer specifications (e.g. soldered). Especially attention should be paid to soldering temperatures, soldering times, temperature gradients, storage times and moisture sensitive levels.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Product and process monitoring
+
+<div class="req-card" id="QS-Modul-633" data-type="Überschrift" data-search="QS-Modul-633 Product and process monitoring Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-633</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Product and process monitoring</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-865" data-type="Anforderung" data-search="QS-Modul-865 For early detection and avoidance of errors in series production, methods such as statistical process control, part average test, part average analysis or similar for real-time recording and online evaluation of measurement data must be installed in the process by the contractor, with which pre-damage can be detected and selected in the process based on anomalies. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-865</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For early detection and avoidance of errors in series production, methods such as statistical process control, part average test, part average analysis or similar for real-time recording and online evaluation of measurement data must be installed in the process by the contractor, with which pre-damage can be detected and selected in the process based on anomalies.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1031" data-type="Anforderung" data-search="QS-Modul-1031 The method and the specific measured values shall be coordinated with the component manager of quality assurance up to stage B of the QPN. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1031</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The method and the specific measured values shall be coordinated with the component manager of quality assurance up to stage B of the QPN.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-866" data-type="Anforderung" data-search="QS-Modul-866 The series test depth shall be documented with the first functional samples, disclosed with all test parameters and agreed with the competent specialist departments (development, quality assurance, etc.) of the client with B-pattern. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-866</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The series test depth shall be documented with the first functional samples, disclosed with all test parameters and agreed with the competent specialist departments (development, quality assurance, etc.) of the client with B-pattern.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1073" data-type="Anforderung" data-search="QS-Modul-1073 The optical and functional test cover shall be demonstrated for each component. The acceptance criteria of the IPC-A-610 in the current version are to be applied as standard for optical/visual acceptance. The current product class is Class 3. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1073</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The optical and functional test cover shall be demonstrated for each component.
+The acceptance criteria of the IPC-A-610 in the current version are to be applied as standard for optical/visual acceptance. The current product class is Class 3.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-635" data-type="Anforderung" data-search="QS-Modul-635 The following series tests shall be carried out in the course of production: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-635</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The following series tests shall be carried out in the course of production:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-636" data-type="Anforderung" data-search="QS-Modul-636 - An automatic end-of-line test (end-of-line test) shall be carried out on the fully assembled component. The scope and content of the test shall be coordinated with the quality assurance and technical development component manager until the project is approved B. There shall be an automatic i.o. marking on the component which is automatically linked to the result of the end-of-band test. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-636</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- An automatic end-of-line test (end-of-line test) shall be carried out on the fully assembled component. The scope and content of the test shall be coordinated with the quality assurance and technical development component manager until the project is approved B. There shall be an automatic i.o. marking on the component which is automatically linked to the result of the end-of-band test.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-637" data-type="Anforderung" data-search="QS-Modul-637 - Automatic test for presence*,*location and polarity of all components. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-637</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Automatic test for presence*,*location and polarity of all components.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-638" data-type="Anforderung" data-search="QS-Modul-638 - The production and test sequence must be automatically secured. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-638</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The production and test sequence must be automatically secured.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5791" data-type="Anforderung" data-search="QS-Modul-5791 - After an unsuccessful test, a component must be automatically locked by the production control system and thus a further processing must be prevented (locking). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5791</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- After an unsuccessful test, a component must be automatically locked by the production control system and thus a further processing must be prevented (locking).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5792" data-type="Anforderung" data-search="QS-Modul-5792 - The release of locked components may only be carried out if a pseudo-error has been analysed as a cause of failure. The analysis shall be documented according to the VW80131. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5792</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The release of locked components may only be carried out if a pseudo-error has been analysed as a cause of failure. The analysis shall be documented according to the VW80131.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-639" data-type="Anforderung" data-search="QS-Modul-639 - Test of all components for value and function (ICT) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-639</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Test of all components for value and function (ICT)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1271" data-type="Anforderung" data-search="QS-Modul-1271 - No test needles may be placed on components in the ICT or other tests. Exceptions are sockets and plugs. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1271</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- No test needles may be placed on components in the ICT or other tests. Exceptions are sockets and plugs.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-640" data-type="Anforderung" data-search="QS-Modul-640 - Automatic optical inspection of all soldering points. For surface-contacted components (e.g. Ball Grid Array, QFN) a 100% automatic optical 3D inspection of the solder paste pressure and an X-ray inspection of the soldering points must be carried out. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-640</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Automatic optical inspection of all soldering points. For surface-contacted components (e.g. Ball Grid Array, QFN) a 100% automatic optical 3D inspection of the solder paste pressure and an X-ray inspection of the soldering points must be carried out.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5795" data-type="Anforderung" data-search="QS-Modul-5795 - In the case of wired components (THT), a check of the soldering passage must be carried out at least 10% of the production batch. Deviations from this must be agreed with the responsible component manager of the quality assurance up to the B-release. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5795</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- In the case of wired components (THT), a check of the soldering passage must be carried out at least 10% of the production batch. Deviations from this must be agreed with the responsible component manager of the quality assurance up to the B-release.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-641" data-type="Anforderung" data-search="QS-Modul-641 - Checking all interfaces with customer application Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-641</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Checking all interfaces with customer application
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-642" data-type="Anforderung" data-search="QS-Modul-642 - Testing FLASH/EEPROM - Memory Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-642</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Testing FLASH/EEPROM - Memory
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-643" data-type="Anforderung" data-search="QS-Modul-643 - Plug test (position of plug pins, dimensional stability and coding of the housing). Original counter plugs must not be used in the manufacturing process. Springed test pins must be used. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-643</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Plug test (position of plug pins, dimensional stability and coding of the housing). Original counter plugs must not be used in the manufacturing process. Springed test pins must be used.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-645" data-type="Anforderung" data-search="QS-Modul-645 - Visual inspection for optical characteristics**.**In the case of displays and surfaces with symbols, an automatic optical inspection shall be carried out with regard to the specified characteristics. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-645</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Visual inspection for optical characteristics**.**In the case of displays and surfaces with symbols, an automatic optical inspection shall be carried out with regard to the specified characteristics.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1032" data-type="Anforderung" data-search="QS-Modul-1032 - Control elements must be checked by a force-way diagram and function Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1032</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Control elements must be checked by a force-way diagram and function
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1233" data-type="Anforderung" data-search="QS-Modul-1233 - Automatic monitoring of the number of correctly set screws during assembly. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1233</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Automatic monitoring of the number of correctly set screws during assembly.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1234" data-type="Anforderung" data-search="QS-Modul-1234 - Continuous monitoring of at least two parameters (e.g. torque, rotation angle, time, screw depth) when using screwdriving tools. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1234</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Continuous monitoring of at least two parameters (e.g. torque, rotation angle, time, screw depth) when using screwdriving tools.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5802" data-type="Information" data-search="QS-Modul-5802 Check of plug connections within components: Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5802</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Check of plug connections within components:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5803" data-type="Anforderung" data-search="QS-Modul-5803 - Internal connectors must be checked automatically to 100% with respect to correct plugging and locking. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5803</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Internal connectors must be checked automatically to 100% with respect to correct plugging and locking.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5804" data-type="Anforderung" data-search="QS-Modul-5804 - Pin assignment for flat-band cables for internal component connections must be designed in such a way that the external pins are occupied with relevant functions with EOL test. A diagonally inserted flat cable must thus be recognized at the EOL process-proof. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5804</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Pin assignment for flat-band cables for internal component connections must be designed in such a way that the external pins are occupied with relevant functions with EOL test. A diagonally inserted flat cable must thus be recognized at the EOL process-proof.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Purity requirements for equipped circuit carriers
+
+<div class="req-card" id="QS-Modul-1264" data-type="Überschrift" data-search="QS-Modul-1264 Purity requirements for equipped circuit carriers Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1264</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Purity requirements for equipped circuit carriers</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1270" data-type="Anforderung" data-search="QS-Modul-1270 The limit value for the ionic surface contamination of the equipped circuit carrier before packaging or shipping must be &lt; 0,40 μg(NaCl)/cm2. The detection shall be carried out according to IPC-TM-650. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1270</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The limit value for the ionic surface contamination of the equipped circuit carrier before packaging or shipping must be &lt; 0,40 μg(NaCl)/cm2. The detection shall be carried out according to IPC-TM-650.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Separation of benefits
+
+<div class="req-card" id="QS-Modul-1005" data-type="Überschrift" data-search="QS-Modul-1005 Separation of benefits Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1005</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Separation of benefits</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-601" data-type="Anforderung" data-search="QS-Modul-601 The separation of printed circuit boards from the use of the equipment is only permitted if it can be demonstrated that the separation process does not cause damage. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-601</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The separation of printed circuit boards from the use of the equipment is only permitted if it can be demonstrated that the separation process does not cause damage.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5797" data-type="Anforderung" data-search="QS-Modul-5797 Particles from the separation process are only permitted if it can be demonstrated that they are neither functional nor reliable. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5797</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Particles from the separation process are only permitted if it can be demonstrated that they are neither functional nor reliable.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1016" data-type="Anforderung" data-search="QS-Modul-1016 The use of roll knives for profit separation is not permitted. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1016</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The use of roll knives for profit separation is not permitted.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Connection technologies on the component
+
+<div class="req-card" id="QS-Modul-5724" data-type="Überschrift" data-search="QS-Modul-5724 Connection technologies on the component Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5724</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Connection technologies on the component</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Soldering procedure
+
+<div class="req-card" id="QS-Modul-1006" data-type="Überschrift" data-search="QS-Modul-1006 Soldering procedure Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1006</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Soldering procedure</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1017" data-type="Anforderung" data-search="QS-Modul-1017 The soldering process for SMD components may be used exclusively by a reflow process (convection or steam phase). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1017</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The soldering process for SMD components may be used exclusively by a reflow process (convection or steam phase).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5725" data-type="Anforderung" data-search="QS-Modul-5725 In the case of reflow soldering processes, a protective gas atmosphere shall be used, provided that the solder paste is not released by the manufacturer for normal atmosphere. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5725</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In the case of reflow soldering processes, a protective gas atmosphere shall be used, provided that the solder paste is not released by the manufacturer for normal atmosphere.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1069" data-type="Anforderung" data-search="QS-Modul-1069 Shaft soldering and selective soldering must be avoided. Exceptions must be agreed with the Quality Assurance Manager in the context of the QPN&#x27;s production concept for stage B according to &quot;Formel Q new parts integral&quot;. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1069</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Shaft soldering and selective soldering must be avoided. Exceptions must be agreed with the Quality Assurance Manager in the context of the QPN's production concept for stage B according to "Formel Q new parts integral".
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5726" data-type="Anforderung" data-search="QS-Modul-5726 If this exemption has been approved, a protective gas atmosphere is required for shaft and selective soldering processes. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5726</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+If this exemption has been approved, a protective gas atmosphere is required for shaft and selective soldering processes.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5727" data-type="Anforderung" data-search="QS-Modul-5727 In shaft and selective soldering processes, it is necessary to ensure that soldering points from previous soldering processes are not re-melted or melted. This is ensured, for example, by appropriate spacing in the layout or by appropriate masking of components. A proof by means of temperature measurement must be carried out up to 2-day production. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5727</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In shaft and selective soldering processes, it is necessary to ensure that soldering points from previous soldering processes are not re-melted or melted. This is ensured, for example, by appropriate spacing in the layout or by appropriate masking of components. A proof by means of temperature measurement must be carried out up to 2-day production.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1394" data-type="Anforderung" data-search="QS-Modul-1394 Manual soldering is not permitted as a series process. Exceptions must be released by individual approvals of the responsible component manager up to stage B of the QPN. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1394</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Manual soldering is not permitted as a series process. Exceptions must be released by individual approvals of the responsible component manager up to stage B of the QPN.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5728" data-type="Anforderung" data-search="QS-Modul-5728 Specially trained employees must be used for manual soldering. Proof of the qualification of the employees (e.g. by certificate of the soldering specialist of the DVS or a training according to J-STD001) must be provided. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5728</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Specially trained employees must be used for manual soldering. Proof of the qualification of the employees (e.g. by certificate of the soldering specialist of the DVS or a training according to J-STD001) must be provided.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5729" data-type="Anforderung" data-search="QS-Modul-5729 A protective gas atmosphere must also be used for manual soldering. Exceptions must be released by individual approvals of the responsible component controller up to stage B of the QPN. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5729</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+A protective gas atmosphere must also be used for manual soldering. Exceptions must be released by individual approvals of the responsible component controller up to stage B of the QPN.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1018" data-type="Anforderung" data-search="QS-Modul-1018 In principle, all soldering processes must be soldered under a protective gas atmosphere. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1018</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In principle, all soldering processes must be soldered under a protective gas atmosphere.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Soldering quality
+
+<div class="req-card" id="QS-Modul-5713" data-type="Überschrift" data-search="QS-Modul-5713 Soldering quality Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5713</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Soldering quality</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5714" data-type="Anforderung" data-search="QS-Modul-5714 The IPC-A610 class 3 shall be used in principle for the evaluation of solder quality. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5714</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The IPC-A610 class 3 shall be used in principle for the evaluation of solder quality.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5715" data-type="Anforderung" data-search="QS-Modul-5715 In addition, different limit values are set for pores in the solder: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5715</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In addition, different limit values are set for pores in the solder:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5717" data-type="Anforderung" data-search="QS-Modul-5717 - For all active components as well as for all passive components a limit value of 10 % pore content is defined in the middle of the component Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5717</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- For all active components as well as for all passive components a limit value of 10 % pore content is defined in the middle of the component
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5718" data-type="Anforderung" data-search="QS-Modul-5718 - A limit value of 20 % may also be allowed, taking into account sufficiently large soldering menisks (angle ~ 45°, increase in the component &gt; 50 %) for passive components. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5718</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- A limit value of 20 % may also be allowed, taking into account sufficiently large soldering menisks (angle ~ 45°, increase in the component &gt; 50 %) for passive components.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5719" data-type="Anforderung" data-search="QS-Modul-5719 - Deviation in the case of surface soldered components (e.g. power semiconductors) with a higher pore content than 10 % shall be demonstrated in detail and the resulting reliability over lifetime shall be justified. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5719</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Deviation in the case of surface soldered components (e.g. power semiconductors) with a higher pore content than 10 % shall be demonstrated in detail and the resulting reliability over lifetime shall be justified.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5720" data-type="Anforderung" data-search="QS-Modul-5720 - Lot beads are a process indicator and must be avoided in principle. The maximum size of single or contiguous lot beads must not exceed a value of 50 % of the minimum pitch distance on the component. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5720</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Lot beads are a process indicator and must be avoided in principle. The maximum size of single or contiguous lot beads must not exceed a value of 50 % of the minimum pitch distance on the component.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5721" data-type="Anforderung" data-search="QS-Modul-5721 In addition, extended detections for fluxes are required: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5721</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In addition, extended detections for fluxes are required:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5722" data-type="Anforderung" data-search="QS-Modul-5722 - The IPC-A610 explains the permitted flux residues, e.g. of no-clean fluxes. A demonstration of the safety of the residues according to the J-STD004 standard must be provided. A mixture of flux residues from several soldering processes is to be avoided and only allowed if the safety of the combined flux residues is demonstrated by a compatibility test. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5722</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The IPC-A610 explains the permitted flux residues, e.g. of no-clean fluxes. A demonstration of the safety of the residues according to the J-STD004 standard must be provided. A mixture of flux residues from several soldering processes is to be avoided and only allowed if the safety of the combined flux residues is demonstrated by a compatibility test.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5723" data-type="Anforderung" data-search="QS-Modul-5723 - If protective coating or casting of the component or individual components is to be carried out, flux residues must be removed in principle. The surface purity is detected according to IPC-TM-650 (see chapter 2.10 - Coating of circuit carriers). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5723</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- If protective coating or casting of the component or individual components is to be carried out, flux residues must be removed in principle. The surface purity is detected according to IPC-TM-650 (see chapter 2.10 - Coating of circuit carriers).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Pressing technology
+
+<div class="req-card" id="QS-Modul-5730" data-type="Überschrift" data-search="QS-Modul-5730 Pressing technology Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5730</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Pressing technology</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5731" data-type="Anforderung" data-search="QS-Modul-5731 Press-in connections with single or multiple contactings must be in principle coordinated with the component controller. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5731</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Press-in connections with single or multiple contactings must be in principle coordinated with the component controller.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5732" data-type="Anforderung" data-search="QS-Modul-5732 The press-in process shall be presented to the component manager, justifying the selection of materials and process parameters. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5732</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The press-in process shall be presented to the component manager, justifying the selection of materials and process parameters.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5733" data-type="Anforderung" data-search="QS-Modul-5733 Safe support during pressing and appropriate holding down of the PCB when removing the tool shall be ensured. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5733</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Safe support during pressing and appropriate holding down of the PCB when removing the tool shall be ensured.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5734" data-type="Anforderung" data-search="QS-Modul-5734 The PCB must not bend down or upwards during pressing. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5734</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The PCB must not bend down or upwards during pressing.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Bond technology
+
+<div class="req-card" id="QS-Modul-5735" data-type="Überschrift" data-search="QS-Modul-5735 Bond technology Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5735</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Bond technology</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5736" data-type="Information" data-search="QS-Modul-5736 The following requirements for bond technology do not apply to bond connections within components Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5736</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The following requirements for bond technology do not apply to bond connections within components
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5737" data-type="Anforderung" data-search="QS-Modul-5737 Bond parameters, bond geometries, material pairings and surface quality shall be determined, determined and qualified using the B pattern. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5737</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Bond parameters, bond geometries, material pairings and surface quality shall be determined, determined and qualified using the B pattern.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5805" data-type="Anforderung" data-search="QS-Modul-5805 Bond parameters must be determined by means of a design of experiments (DoE). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5805</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Bond parameters must be determined by means of a design of experiments (DoE).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5806" data-type="Anforderung" data-search="QS-Modul-5806 The bonding qualification shall at least demonstrate the service life required for the component. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5806</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The bonding qualification shall at least demonstrate the service life required for the component.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5807" data-type="Anforderung" data-search="QS-Modul-5807 The results of the qualification shall be presented to the responsible component manager up to the B-model. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5807</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The results of the qualification shall be presented to the responsible component manager up to the B-model.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5808" data-type="Anforderung" data-search="QS-Modul-5808 If changes in plant, parameters, materials or production sites occur in later sample phases or in series production, this qualification shall be repeated and the result shall be presented to the client without request. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5808</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+If changes in plant, parameters, materials or production sites occur in later sample phases or in series production, this qualification shall be repeated and the result shall be presented to the client without request.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5738" data-type="Anforderung" data-search="QS-Modul-5738 For a stable and reliable bond result, the defined bond parameters must be monitored online, as well as documented. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5738</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For a stable and reliable bond result, the defined bond parameters must be monitored online, as well as documented.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5739" data-type="Anforderung" data-search="QS-Modul-5739 The correct execution of bond connections shall be defined within the framework of a border pattern examination and be demonstrated during series production. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5739</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The correct execution of bond connections shall be defined within the framework of a border pattern examination and be demonstrated during series production.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5740" data-type="Anforderung" data-search="QS-Modul-5740 In addition to pull and shear tests, long-term behaviour and batch scattering must be considered. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5740</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In addition to pull and shear tests, long-term behaviour and batch scattering must be considered.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Mechanical stress
+
+<div class="req-card" id="QS-Modul-1002" data-type="Überschrift" data-search="QS-Modul-1002 Mechanical stress Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1002</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Mechanical stress</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1012" data-type="Anforderung" data-search="QS-Modul-1012 The supplier shall carry out subsequent investigations before a 2-day production process over the entire manufacturing, handling and transport process of the component: - Evaluation of the influence of mechanical stress (bench stress) by measuring methods (e.g. strain measurement strips). - Evaluation of thermal gradients Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1012</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The supplier shall carry out subsequent investigations before a 2-day production process over the entire manufacturing, handling and transport process of the component:
+
+- Evaluation of the influence of mechanical stress (bench stress) by measuring methods (e.g. strain measurement strips).
+- Evaluation of thermal gradients
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1013" data-type="Anforderung" data-search="QS-Modul-1013 The results of the investigation shall be reviewed every six months, or in the case of relevant process and plant changes, in parallel with the process. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1013</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The results of the investigation shall be reviewed every six months, or in the case of relevant process and plant changes, in parallel with the process.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Manual assembly and assembly
+
+<div class="req-card" id="QS-Modul-1003" data-type="Überschrift" data-search="QS-Modul-1003 Manual assembly and assembly Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1003</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Manual assembly and assembly</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1014" data-type="Anforderung" data-search="QS-Modul-1014 In case of manual assembly and assembly, operator errors (e.g. element confusion, misposition, false polarity) must be excluded by a fault prevention concept. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1014</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In case of manual assembly and assembly, operator errors (e.g. element confusion, misposition, false polarity) must be excluded by a fault prevention concept.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1068" data-type="Anforderung" data-search="QS-Modul-1068 If this cannot be realized reliably, manual assembly or assembly must be monitored by automatic optical inspection. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1068</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+If this cannot be realized reliably, manual assembly or assembly must be monitored by automatic optical inspection.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Coating (protective coating and casting) of circuit boards
+
+<div class="req-card" id="QS-Modul-1400" data-type="Überschrift" data-search="QS-Modul-1400 Coating (protective coating and casting) of circuit boards Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1400</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Coating (protective coating and casting) of circuit boards</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1401" data-type="Anforderung" data-search="QS-Modul-1401 The acceptance criteria according to the currently valid version of the IPC-A-610 must be observed. The current product class is class 3. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1401</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The acceptance criteria according to the currently valid version of the IPC-A-610 must be observed. The current product class is class 3.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1402" data-type="Anforderung" data-search="QS-Modul-1402 The coating must be automated. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1402</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The coating must be automated.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1403" data-type="Anforderung" data-search="QS-Modul-1403 The components shall be 100% tested for the quality and completeness of the coating. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1403</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The components shall be 100% tested for the quality and completeness of the coating.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1404" data-type="Anforderung" data-search="QS-Modul-1404 Rework and repair on coated areas are not permitted. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1404</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Rework and repair on coated areas are not permitted.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1405" data-type="Anforderung" data-search="QS-Modul-1405 A special underfiller must be used for surface-contacted components (e.g.BGA, QFN). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1405</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+A special underfiller must be used for surface-contacted components (e.g.BGA, QFN).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1406" data-type="Anforderung" data-search="QS-Modul-1406 Components with open contacts, plug contacts and optical components (e.g. LED, LCD, MOST) must not be wetted with protective varnish to prevent the component functionality from being compromised. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1406</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Components with open contacts, plug contacts and optical components (e.g. LED, LCD, MOST) must not be wetted with protective varnish to prevent the component functionality from being compromised.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1407" data-type="Anforderung" data-search="QS-Modul-1407 For housings of connectors, relays, switches and buttons a minimum distance of ≥2 mm shall be observed. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1407</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For housings of connectors, relays, switches and buttons a minimum distance of ≥2 mm shall be observed.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5599" data-type="Anforderung" data-search="QS-Modul-5599 Transparent thin film coatings must be coloured or have fluorescent properties to achieve the required testability. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5599</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Transparent thin film coatings must be coloured or have fluorescent properties to achieve the required testability.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5600" data-type="Anforderung" data-search="QS-Modul-5600 In order to demonstrate the required surface purity, the following tests on uncoated components shall be carried out on at least five C samples: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5600</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In order to demonstrate the required surface purity, the following tests on uncoated components shall be carried out on at least five C samples:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5601" data-type="Anforderung" data-search="QS-Modul-5601 - Optical examination using a microscope (at least 20 times magnification) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5601</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Optical examination using a microscope (at least 20 times magnification)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5602" data-type="Anforderung" data-search="QS-Modul-5602 - measurement of ionic contamination according to IPC-TM-650 (limit 2 ) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5602</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- measurement of ionic contamination according to IPC-TM-650 (limit &lt; 0.4μg(NaCl)/cm<sup>2</sup>)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5603" data-type="Anforderung" data-search="QS-Modul-5603 - Test for active residues from fluxes (colour-turning test) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5603</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Test for active residues from fluxes (colour-turning test)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5604" data-type="Anforderung" data-search="QS-Modul-5604 - The proof shall be made available to the contracting authority as a test report Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5604</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The proof shall be made available to the contracting authority as a test report
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5741" data-type="Anforderung" data-search="QS-Modul-5741 For casting processes, the following quality tests shall be carried out in the series process: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5741</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For casting processes, the following quality tests shall be carried out in the series process:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5742" data-type="Anforderung" data-search="QS-Modul-5742 - Before using new resin containers, the density must be checked after stirring. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5742</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Before using new resin containers, the density must be checked after stirring.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5743" data-type="Anforderung" data-search="QS-Modul-5743 - A Shore Hardness Check must be performed for each batch (picker sample), the curing process, the cooling time and the ambient temperature at which is measured must be defined. The hardening samples must be retained as a reset pattern. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5743</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- A Shore Hardness Check must be performed for each batch (picker sample), the curing process, the cooling time and the ambient temperature at which is measured must be defined. The hardening samples must be retained as a reset pattern.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5745" data-type="Anforderung" data-search="QS-Modul-5745 - In the case of casting plants where the mixing ratio may change, the mixing ratio of resin and hardener must be checked and documented at the beginning of a layer, after changing material containers and in case of plant changes. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5745</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- In the case of casting plants where the mixing ratio may change, the mixing ratio of resin and hardener must be checked and documented at the beginning of a layer, after changing material containers and in case of plant changes.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Rework and repair during the manufacturing process
+
+<div class="req-card" id="QS-Modul-1007" data-type="Überschrift" data-search="QS-Modul-1007 Rework and repair during the manufacturing process Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1007</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Rework and repair during the manufacturing process</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1392" data-type="Anforderung" data-search="QS-Modul-1392 Rework and repair are not permitted in the manufacturing process. Exceptions are subject to individual approval and must be coordinated with the component manager of quality assurance up to stage B of the QPN. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1392</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Rework and repair are not permitted in the manufacturing process. Exceptions are subject to individual approval and must be coordinated with the component manager of quality assurance up to stage B of the QPN.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5798" data-type="Anforderung" data-search="QS-Modul-5798 The exemptions subject to individual authorisation must be justified by details of the need, economic efficiency, the post-work process and the corresponding process security. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5798</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The exemptions subject to individual authorisation must be justified by details of the need, economic efficiency, the post-work process and the corresponding process security.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1021" data-type="Anforderung" data-search="QS-Modul-1021 Specially trained employees must be used for rework and repair. Proof of the qualification of the employees (e.g. by certificate of the soldering specialist of the DVS or training according to J-STD001) must be provided. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1021</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Specially trained employees must be used for rework and repair. Proof of the qualification of the employees (e.g. by certificate of the soldering specialist of the DVS or training according to J-STD001) must be provided.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1070" data-type="Anforderung" data-search="QS-Modul-1070 The basis for the execution of rework and repair is the IPC-7711/7721. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1070</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The basis for the execution of rework and repair is the IPC-7711/7721.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### ESD protection
+
+<div class="req-card" id="QS-Modul-1009" data-type="Überschrift" data-search="QS-Modul-1009 ESD protection Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1009</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>ESD protection</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1026" data-type="Anforderung" data-search="QS-Modul-1026 An ESD protection system according to DIN EN 61340-5-1 and DIN EN 61340-5-1 Supplement 01 must be implemented and proven in production up to 2-day production acceptance. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1026</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+An ESD protection system according to DIN EN 61340-5-1 and DIN EN 61340-5-1 Supplement 01 must be implemented and proven in production up to 2-day production acceptance.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1027" data-type="Anforderung" data-search="QS-Modul-1027 A regular check of effectiveness shall be demonstrated by a documentation of the measured values. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1027</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+A regular check of effectiveness shall be demonstrated by a documentation of the measured values.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1393" data-type="Anforderung" data-search="QS-Modul-1393 The following requirements shall be implemented: - wearing wrist-earthing bands in sedentary activities - Wearing conductive ESD protective clothing - wearing of conductive footwear - daily check with documentation of personal protective equipment (shoes/handle band) Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1393</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The following requirements shall be implemented:
+
+- wearing wrist-earthing bands in sedentary activities
+- Wearing conductive ESD protective clothing
+- wearing of conductive footwear
+- daily check with documentation of personal protective equipment (shoes/handle band)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Crimping connections verification
+
+<div class="req-card" id="QS-Modul-1011" data-type="Überschrift" data-search="QS-Modul-1011 Crimping connections verification Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1011</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Crimping connections verification</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1030" data-type="Anforderung" data-search="QS-Modul-1030 The requirements of the Crimpnorm VW 60330 apply in principle to the process verification of crimp connections in electrical/electronic components. This applies in particular to the production-accompanying grinding image setting. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1030</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The requirements of the Crimpnorm VW 60330 apply in principle to the process verification of crimp connections in electrical/electronic components. This applies in particular to the production-accompanying grinding image setting.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Partial analysis
+
+<div class="req-card" id="QS-Modul-1010" data-type="Überschrift" data-search="QS-Modul-1010 Partial analysis Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1010</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Partial analysis</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5809" data-type="Anforderung" data-search="QS-Modul-5809 The contractor must present the analysis concept for damage parts to the component manager and coordinate with it up to PVS. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5809</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The contractor must present the analysis concept for damage parts to the component manager and coordinate with it up to PVS.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5810" data-type="Anforderung" data-search="QS-Modul-5810 The supplier shall demonstrate his analytical ability before awarding the contract and ensure his analytical competence by means of regular verification (e.g. ISO/TS 16949, VDA-Band &quot;Damage Analysis Field&quot;). Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5810</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The supplier shall demonstrate his analytical ability before awarding the contract and ensure his analytical competence by means of regular verification (e.g. ISO/TS 16949, VDA-Band "Damage Analysis Field").
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1028" data-type="Anforderung" data-search="QS-Modul-1028 The analysis process shall be verified by acceptance in consultation with the component manager. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1028</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The analysis process shall be verified by acceptance in consultation with the component manager.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5811" data-type="Anforderung" data-search="QS-Modul-5811 This consists of a harmful part finding consisting of standard tests (e.g. visual input inspection, X-ray, electrical function tests, etc.) as well as load tests (e.g. temperature test concentrations, moisture storage, operation at undervoltage, etc.) and a subsequent root cause analysis (&quot;root cause analysis&quot;). Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5811</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+This consists of a harmful part finding consisting of standard tests (e.g. visual input inspection, X-ray, electrical function tests, etc.) as well as load tests (e.g. temperature test concentrations, moisture storage, operation at undervoltage, etc.) and a subsequent root cause analysis ("root cause analysis").
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1029" data-type="Anforderung" data-search="QS-Modul-1029 To ensure the required analysis times, the following points must be met: Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1029</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+To ensure the required analysis times, the following points must be met:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5770" data-type="Anforderung" data-search="QS-Modul-5770 - The findings for verification of the error must be carried out in Europe. Further physical failure analyses for defining the placement of components or processes can be carried out at the production plants or at sub-suppliers. Anforderung gültig accepted partly agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5770</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: partly agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The findings for verification of the error must be carried out in Europe. Further physical failure analyses for defining the placement of components or processes can be carried out at the production plants or at sub-suppliers.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | partly agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160508 - Wilke: für lokale Produktion akzeptiert
+
+<strong>Nexteer:</strong> Befundung in Europa wird für in Europa hergestellte Teile sichergestellt. Nexteer plant die in China hergestellten Teile in China zu befunden
+
+</details>
+
+</div>
+
+<div class="req-card" id="QS-Modul-5772" data-type="Anforderung" data-search="QS-Modul-5772 - The following times must be observed for reporting damage part analysis. From the availability of the damage part for the supplier: - 24h for the first opinion with rough analysis of lying lead (A1 error) and screening failures - 48h for the first opinion with rough analysis of A, B and C errors - 5 working days for the interim report in 8D format - 10 working days for the final report in 8D format Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5772</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- The following times must be observed for reporting damage part analysis. From the availability of the damage part for the supplier:
+- 24h for the first opinion with rough analysis of lying lead (A1 error) and screening failures
+- 48h for the first opinion with rough analysis of A, B and C errors
+- 5 working days for the interim report in 8D format
+- 10 working days for the final report in 8D format
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5812" data-type="Anforderung" data-search="QS-Modul-5812 For each harmful part, the assurance of the ongoing serial quality must be demonstrated by an EOL test scope. Parts which have been tested in the course of the diagnosis (if applicable according to the findings) shall be evaluated, if necessary, via a predefined NTF process (No Trouble Found, No error detectable). Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5812</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For each harmful part, the assurance of the ongoing serial quality must be demonstrated by an EOL test scope. Parts which have been tested in the course of the diagnosis (if applicable according to the findings) shall be evaluated, if necessary, via a predefined NTF process (No Trouble Found, No error detectable).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5813" data-type="Anforderung" data-search="QS-Modul-5813 Access to the following non-destructive analysis methods must be ensured by the supplier after receipt of parts within the required time limits (if applicable by external service providers) and an internal analysis expert can be named: - Visual inspection and documentation (within 48h) - Optical microscopy (within 48h) - Electrical/electronic signal and function analysis (within 48h) - 2D X-ray analysis (within 48 hours) scanning electron microscopy (SEM) and energy dispersive X-ray analysis (EDS) (within 5 AT) Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5813</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Access to the following non-destructive analysis methods must be ensured by the supplier after receipt of parts within the required time limits (if applicable by external service providers) and an internal analysis expert can be named:
+
+- Visual inspection and documentation (within 48h)
+- Optical microscopy (within 48h)
+- Electrical/electronic signal and function analysis (within 48h)
+- 2D X-ray analysis (within 48 hours) scanning electron microscopy (SEM) and energy dispersive X-ray analysis (EDS) (within 5 AT)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5814" data-type="Anforderung" data-search="QS-Modul-5814 External service providers must have valid accreditation according to ISO/IEC 17025 for the specified scope of activity or be explicitly released by the client. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5814</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+External service providers must have valid accreditation according to ISO/IEC 17025 for the specified scope of activity or be explicitly released by the client.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5815" data-type="Anforderung" data-search="QS-Modul-5815 A suitable process for prioritizing and escaping failure analyses in the supplier&#x27;s organisation or between the supplier and the external service provider shall be demonstrated. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5815</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+A suitable process for prioritizing and escaping failure analyses in the supplier's organisation or between the supplier and the external service provider shall be demonstrated.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5816" data-type="Anforderung" data-search="QS-Modul-5816 Destructive analysis or preparation steps (saws, grinding, soldering, cleaning, watering...) must be checked for the maintenance of the fault condition and their correct execution also within the sub-supplier chain. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5816</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Destructive analysis or preparation steps (saws, grinding, soldering, cleaning, watering...) must be checked for the maintenance of the fault condition and their correct execution also within the sub-supplier chain.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5817" data-type="Anforderung" data-search="QS-Modul-5817 The scope of analysis must extend to the component level. The scope and methodology of physical analysis of electronic semiconductor devices (transistors, ICs, LEDs, etc.) must be guided by the specifications of the MIL STD 883J, Method 5003 &quot;Failure Analysis Procedures for Microelectronic Circuits&quot;. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5817</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The scope of analysis must extend to the component level. The scope and methodology of physical analysis of electronic semiconductor devices (transistors, ICs, LEDs, etc.) must be guided by the specifications of the MIL STD 883J, Method 5003 "Failure Analysis Procedures for Microelectronic Circuits".
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5818" data-type="Anforderung" data-search="QS-Modul-5818 Complaints to systems must be analysed in the system network. All analytical, preparation and disassembly steps are suitable for documenting and, upon request, for presentation in the form of an analysis report by the supplier&#x27;s analytical expert. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5818</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Complaints to systems must be analysed in the system network. All analytical, preparation and disassembly steps are suitable for documenting and, upon request, for presentation in the form of an analysis report by the supplier's analytical expert.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5819" data-type="Anforderung" data-search="QS-Modul-5819 In principle, a final report in 8D format according to VDA Volume 4.3 must be kept available to the client for each harmful part. The bundling of individual damage cases with the same cause of failure in a mantle 8D report is permitted in consultation with the component manager. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5819</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In principle, a final report in 8D format according to VDA Volume 4.3 must be kept available to the client for each harmful part. The bundling of individual damage cases with the same cause of failure in a mantle 8D report is permitted in consultation with the component manager.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5820" data-type="Anforderung" data-search="QS-Modul-5820 In principle, an interim report in 8D format (e.g. according to VDA Volume 4.3) with a size of D1-D4 must be conducted for each harmful part after completion of the findings and made available to the client. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5820</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+In principle, an interim report in 8D format (e.g. according to VDA Volume 4.3) with a size of D1-D4 must be conducted for each harmful part after completion of the findings and made available to the client.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Monthly quality reporting
+
+<div class="req-card" id="QS-Modul-5610" data-type="Überschrift" data-search="QS-Modul-5610 Monthly quality reporting Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5610</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Monthly quality reporting</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5611" data-type="Anforderung" data-search="QS-Modul-5611 The supplier shall send a quality report to the component manager of quality assurance monthly. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5611</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The supplier shall send a quality report to the component manager of quality assurance monthly.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5799" data-type="Anforderung" data-search="QS-Modul-5799 The scope and start date of the reporting shall be determined in consultation with the responsible component manager of quality assurance. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5799</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The scope and start date of the reporting shall be determined in consultation with the responsible component manager of quality assurance.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5800" data-type="Anforderung" data-search="QS-Modul-5800 The quality report shall be available by the 10th working day of the following month. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5800</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The quality report shall be available by the 10th working day of the following month.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5801" data-type="Anforderung" data-search="QS-Modul-5801 The monthly quality report shall provide the following statistical data on the quality of the component for the purpose of measures/effectiveness control. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5801</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The monthly quality report shall provide the following statistical data on the quality of the component for the purpose of measures/effectiveness control.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### 0-km and field failures
+
+<div class="req-card" id="QS-Modul-5612" data-type="Überschrift" data-search="QS-Modul-5612 0-km and field failures Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5612</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>0-km and field failures</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5613" data-type="Anforderung" data-search="QS-Modul-5613 Presentation of the causes of errors and the storage measures of the contested components of the last 18 production months each with identification of the action deadline. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5613</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Presentation of the causes of errors and the storage measures of the contested components of the last 18 production months each with identification of the action deadline.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Internal production quality
+
+<div class="req-card" id="QS-Modul-5614" data-type="Überschrift" data-search="QS-Modul-5614 Internal production quality Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5614</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Internal production quality</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5615" data-type="Anforderung" data-search="QS-Modul-5615 Presentation of internal failures, from all tests installed in the series process (e.g.AOI, ICT, function test, visual inspection, end-of-line test), the last 18 production months each, indicating the improvement measures and the respective date of use. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5615</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Presentation of internal failures, from all tests installed in the series process (e.g.AOI, ICT, function test, visual inspection, end-of-line test), the last 18 production months each, indicating the improvement measures and the respective date of use.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Production relocations
+
+<div class="req-card" id="QS-Modul-5616" data-type="Überschrift" data-search="QS-Modul-5616 Production relocations Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5616</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Production relocations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5617" data-type="Anforderung" data-search="QS-Modul-5617 Production relocations are not permitted in the period from six months before to twelve months after the serial use of a component. Exceptions must be approved in principle by the responsible component manager of quality assurance. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5617</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Production relocations are not permitted in the period from six months before to twelve months after the serial use of a component. Exceptions must be approved in principle by the responsible component manager of quality assurance.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Traceability
+
+<div class="req-card" id="QS-Modul-1008" data-type="Überschrift" data-search="QS-Modul-1008 Traceability Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1008</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Traceability</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1072" data-type="Anforderung" data-search="QS-Modul-1072 The requirements of the VW 80131 apply. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1072</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The requirements of the VW 80131 apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Start-up screening
+
+<div class="req-card" id="QS-Modul-647" data-type="Überschrift" data-search="QS-Modul-647 Start-up screening Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-647</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Start-up screening</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-648" data-type="Anforderung" data-search="QS-Modul-648 For the start-up protection of components, a screening (run-in) with environmental impact (temperature, voltage) must be carried out from PVS. The findings (e.g. abnormalities, drift phenomena, etc.) must be analysed by the contractor. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-648</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For the start-up protection of components, a screening (run-in) with environmental impact (temperature, voltage) must be carried out from PVS. The findings (e.g. abnormalities, drift phenomena, etc.) must be analysed by the contractor.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-863" data-type="Anforderung" data-search="QS-Modul-863 The results are designed to adapt the intervention limits, test parameters and similar things to optimise the series products, series processes and series systems. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-863</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The results are designed to adapt the intervention limits, test parameters and similar things to optimise the series products, series processes and series systems.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1376" data-type="Anforderung" data-search="QS-Modul-1376 The contractor must develop a implementation concept and coordinate with the component manager of the quality assurance department of the client before submitting a tender. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1376</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The contractor must develop a implementation concept and coordinate with the component manager of the quality assurance department of the client before submitting a tender.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-864" data-type="Anforderung" data-search="QS-Modul-864 If the agreed quality level is reached and the required ability of the manufacturing and testing processes is demonstrated, screening may be omitted by agreement. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-864</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+If the agreed quality level is reached and the required ability of the manufacturing and testing processes is demonstrated, screening may be omitted by agreement.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5746" data-type="Anforderung" data-search="QS-Modul-5746 After a component failure in the screening, at least additional components must be screened as quality assurance. Deviations are possible depending on the production unit numbers and can be coordinated with the responsible component manager of the quality assurance. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5746</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+After a component failure in the screening, at least additional &lt;500&gt; components must be screened as quality assurance. Deviations are possible depending on the production unit numbers and can be coordinated with the responsible component manager of the quality assurance.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-649" data-type="Anforderung" data-search="QS-Modul-649 Screening failures must be processed with the highest priority in the quality or project team bodies of the contractor. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-649</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Screening failures must be processed with the highest priority in the quality or project team bodies of the contractor.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### General frameworks
+
+<div class="req-card" id="QS-Modul-650" data-type="Überschrift" data-search="QS-Modul-650 General frameworks Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-650</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>General frameworks</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-651" data-type="Anforderung" data-search="QS-Modul-651 - Time of start-up screening: PVS until the number of pieces agreed with the component manager of quality assurance Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-651</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Time of start-up screening: PVS until the number of pieces agreed with the component manager of quality assurance
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-652" data-type="Anforderung" data-search="QS-Modul-652 - Minimum number of pieces (total duration): &gt;= 5,000 per component variant Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-652</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Minimum number of pieces (total duration): &gt;= 5,000 per component variant
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-653" data-type="Anforderung" data-search="QS-Modul-653 - Screened components - PVS to SOP 100% supplied components - from SOP &gt;= 100 components / day Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-653</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Screened components
+- PVS to SOP 100% supplied components
+- from SOP &gt;= 100 components / day
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-654" data-type="Anforderung" data-search="QS-Modul-654 - Capacity screening equipment &gt;= 35 components / layer Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-654</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Capacity screening equipment &gt;= 35 components / layer
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-655" data-type="Anforderung" data-search="QS-Modul-655 - Screening documentation of weekly failure report (model document available) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-655</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Screening documentation of weekly failure report (model document available)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-656" data-type="Anforderung" data-search="QS-Modul-656 - Set process owner &quot;Screening&quot; responsibilities and communicate to clients Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-656</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Set process owner "Screening" responsibilities and communicate to clients
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-657" data-type="Anforderung" data-search="QS-Modul-657 - Set process description screening process (e.g. processing, responsibility, communication, escalation levels, etc.) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-657</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Set process description screening process (e.g. processing, responsibility, communication, escalation levels, etc.)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Screening procedures
+
+<div class="req-card" id="QS-Modul-659" data-type="Überschrift" data-search="QS-Modul-659 Screening procedures Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-659</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Screening procedures</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1033" data-type="Anforderung" data-search="QS-Modul-1033 The temperature test is carried out on the completely assembled component. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1033</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The temperature test is carried out on the completely assembled component.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1076" data-type="Anforderung" data-search="QS-Modul-1076 For control units delivered in the ZSB (e.g. seats, front-end, mechatronics), the function unit that is to be screened must be defined together with the part manager of the quality assurance. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1076</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+For control units delivered in the ZSB (e.g. seats, front-end, mechatronics), the function unit that is to be screened must be defined together with the part manager of the quality assurance.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-670" data-type="Anforderung" data-search="QS-Modul-670 The contractor shall use specific test equipment (e.g. EOL tester base). Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-670</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The contractor shall use specific test equipment (e.g. EOL tester base).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-671" data-type="Anforderung" data-search="QS-Modul-671 A complete parameter/customer function test under temperature change conditions (according to VW 80000) shall be performed. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-671</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+A complete parameter/customer function test under temperature change conditions (according to VW 80000) shall be performed.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1034" data-type="Information" data-search="QS-Modul-1034 **Figure temperature - time course** Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1034</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Partly machine-translated from German (Helsinki MT + automotive glossary); untranslated lines show the German original. Official DOORS English preferred where present.">MT-partial</span></div>
+
+**Figure temperature - time course**
+
+
+
+<figure class="req-figure" id="fig-1034_2_1">
+  <a href="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" alt="Figure 1034_2_1 (QS-Modul-1034)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>1034_2_1</code> · QS-Modul-1034 — <a href="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" target="_blank" rel="noopener">open full size</a></figcaption>
+</figure>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-940" data-type="Anforderung" data-search="QS-Modul-940 The screening scope shall be at least equal to the end-of-line range. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-940</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The screening scope shall be at least equal to the end-of-line range.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-672" data-type="Anforderung" data-search="QS-Modul-672 Statistical parameter analysis depending on temperature level (e.g. frequency distribution resting current at low temperature, temperature change, high temperature) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-672</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Statistical parameter analysis depending on temperature level (e.g. frequency distribution resting current at low temperature, temperature change, high temperature)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-673" data-type="Anforderung" data-search="QS-Modul-673 Labelling Screening (EEPROM and Label) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-673</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Labelling Screening (EEPROM and Label)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Technical conditions for the test procedure
+
+<div class="req-card" id="QS-Modul-674" data-type="Überschrift" data-search="QS-Modul-674 Technical conditions for the test procedure Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-674</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Technical conditions for the test procedure</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-675" data-type="Anforderung" data-search="QS-Modul-675 The definition of the test sequence in the screening process must be based on the component and its specific properties individually. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-675</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The definition of the test sequence in the screening process must be based on the component and its specific properties individually.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-676" data-type="Anforderung" data-search="QS-Modul-676 1. Load of all ECU inputs and outputs by simulation of the real vehicle environment Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-676</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+1. Load of all ECU inputs and outputs by simulation of the real vehicle environment
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-677" data-type="Anforderung" data-search="QS-Modul-677 2. Mechanical or mechatronic functions must be integrated in the test scope (e.g. key confirmation, rotational push functions, CD(DVD) feed/release, etc.) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-677</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+2. Mechanical or mechatronic functions must be integrated in the test scope (e.g. key confirmation, rotational push functions, CD(DVD) feed/release, etc.)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-678" data-type="Anforderung" data-search="QS-Modul-678 3. Electrical parameter test (e.g. EOL test procedure) under critical temperature conditions (low, room, high temperature) with statistical data collection/evaluation. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-678</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+3. Electrical parameter test (e.g. EOL test procedure) under critical temperature conditions (low, room, high temperature) with statistical data collection/evaluation.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-679" data-type="Anforderung" data-search="QS-Modul-679 The following test steps shall be performed and recorded for &quot;3.&quot;: Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-679</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The following test steps shall be performed and recorded for "3.":
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-680" data-type="Anforderung" data-search="QS-Modul-680 - Rest current measurement Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-680</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Rest current measurement
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-681" data-type="Anforderung" data-search="QS-Modul-681 - Operating flows in all modes - Upflow behaviour - Shutdown behaviour - Wakeup behavior Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-681</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Operating flows in all modes
+- Upflow behaviour
+- Shutdown behaviour
+- Wakeup behavior
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-682" data-type="Anforderung" data-search="QS-Modul-682 - operation in the border area - Electrical (e.g. frequencies, under/overvoltage according to specification - mechanical (e.g. execution of customer-relevant functions) Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-682</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- operation in the border area
+- Electrical (e.g. frequencies, under/overvoltage according to specification
+- mechanical (e.g. execution of customer-relevant functions)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-683" data-type="Anforderung" data-search="QS-Modul-683 - operation in the real vehicle environment (reproduction of electrical periphery) - Input signals - Output signals Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-683</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- operation in the real vehicle environment (reproduction of electrical periphery)
+- Input signals
+- Output signals
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-684" data-type="Anforderung" data-search="QS-Modul-684 - Watchdog function Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-684</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Watchdog function
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-685" data-type="Anforderung" data-search="QS-Modul-685 - Quartz and processor stability Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-685</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+- Quartz and processor stability
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-686" data-type="Anforderung" data-search="QS-Modul-686 4. Temperature profiles or electrical control signals shall correspond to the test specifications according to BT-LAH module &quot;testing&quot;. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-686</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+4. Temperature profiles or electrical control signals shall correspond to the test specifications according to BT-LAH module "testing".
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+### Definitions, terms, abbreviations
+
+<div class="req-card" id="QS-Modul-716" data-type="Überschrift" data-search="QS-Modul-716 Definitions, terms, abbreviations Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-716</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Definitions, terms, abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Terms
+
+<div class="req-card" id="QS-Modul-718" data-type="Überschrift" data-search="QS-Modul-718 Terms Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-718</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Terms</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-899" data-type="Information" data-search="QS-Modul-899 **2-day production** See Formula Q-Concrete Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-899</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**2-day production**
+See Formula Q-Concrete
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1272" data-type="Information" data-search="QS-Modul-1272 **Part:** Component, ECU Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1272</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**Part:**
+Component, ECU
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-724" data-type="Information" data-search="QS-Modul-724 **BT-LAH module:** Content belonging to BT-LAH and disassembled into a module Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-724</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**BT-LAH module:**
+Content belonging to BT-LAH and disassembled into a module
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1273" data-type="Information" data-search="QS-Modul-1273 **(Electronic) component:** Electronic components such as resistors, capacitors, inductors, ICs, etc. Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1273</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**(Electronic) component:**
+Electronic components such as resistors, capacitors, inductors, ICs, etc.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5794" data-type="Information" data-search="QS-Modul-5794 **Pseudocre** Errors indicated in a test step not attributable to the test specimen. Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5794</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**Pseudocre**
+Errors indicated in a test step not attributable to the test specimen.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1397" data-type="Information" data-search="QS-Modul-1397 **Cable carrier:** Unassembled wiring carrier for electronics in general (unassembled PCB, ceramic, leadframe, flexband, foil, ...), see VW 80000. Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1397</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**Cable carrier:**
+Unassembled wiring carrier for electronics in general (unassembled PCB, ceramic, leadframe, flexband, foil, ...), see VW 80000.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Abbreviations
+
+<div class="req-card" id="QS-Modul-728" data-type="Überschrift" data-search="QS-Modul-728 Abbreviations Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-728</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-729" data-type="Information" data-search="QS-Modul-729 **3D** Three-dimensional Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-729</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**3D**
+Three-dimensional
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5784" data-type="Information" data-search="QS-Modul-5784 **AOI** Automatic Optical Inspection System Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5784</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**AOI**
+Automatic Optical Inspection System
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5826" data-type="Information" data-search="QS-Modul-5826 **AT** Working day(s) Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5826</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**AT**
+Working day(s)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1408" data-type="Information" data-search="QS-Modul-1408 **BGA** Ball Grid Array Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1408</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**BGA**
+Ball Grid Array
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-731" data-type="Information" data-search="QS-Modul-731 **BT-LAH** Component load book Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-731</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**BT-LAH**
+Component load book
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5821" data-type="Information" data-search="QS-Modul-5821 **DoE** Design Of Experiments Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5821</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**DoE**
+Design Of Experiments
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5779" data-type="Information" data-search="QS-Modul-5779 **DVS** German Association for Welding and Related Processes Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5779</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**DVS**
+German Association for Welding and Related Processes
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5824" data-type="Information" data-search="QS-Modul-5824 **EDS** Energy dispersive X-ray spectroscopy Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5824</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**EDS**
+Energy dispersive X-ray spectroscopy
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1276" data-type="Information" data-search="QS-Modul-1276 **ESD** Electrostatic discharge Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1276</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**ESD**
+Electrostatic discharge
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-737" data-type="Information" data-search="QS-Modul-737 **EOL** End of line Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-737</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**EOL**
+End of line
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-738" data-type="Information" data-search="QS-Modul-738 **FMEA** Failure mode and effects analysis Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-738</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**FMEA**
+Failure mode and effects analysis
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-743" data-type="Information" data-search="QS-Modul-743 **ICT** In Circuit Test Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-743</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**ICT**
+In Circuit Test
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1277" data-type="Information" data-search="QS-Modul-1277 **IPC** Association Connecting Electronics Industries Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1277</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC**
+Association Connecting Electronics Industries
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5785" data-type="Information" data-search="QS-Modul-5785 **LCD** Liquid Crystal Display, Liquid Crystal Display Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5785</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**LCD**
+Liquid Crystal Display, Liquid Crystal Display
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5786" data-type="Information" data-search="QS-Modul-5786 **LED** Light emitting diode, light emitting diode Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5786</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**LED**
+Light emitting diode, light emitting diode
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5787" data-type="Information" data-search="QS-Modul-5787 **MOST** MOST Bus - Media Oriented Systems Transport (optical ringbus) Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5787</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**MOST**
+MOST Bus - Media Oriented Systems Transport (optical ringbus)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5822" data-type="Information" data-search="QS-Modul-5822 **NTF** No Trouble Found (no error detected) Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5822</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**NTF**
+No Trouble Found (no error detected)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5788" data-type="Information" data-search="QS-Modul-5788 **PVS** Production trial series Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5788</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**PVS**
+Production trial series
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1396" data-type="Information" data-search="QS-Modul-1396 **QFN** Quad Flat No-Leads Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1396</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**QFN**
+Quad Flat No-Leads
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5790" data-type="Information" data-search="QS-Modul-5790 **QPN** New parts of the qualification programme Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5790</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**QPN**
+New parts of the qualification programme
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5823" data-type="Information" data-search="QS-Modul-5823 **SEM** Scanning Electron Microscopy (Raster Electron Microscopy) Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5823</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**SEM**
+Scanning Electron Microscopy (Raster Electron Microscopy)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-757" data-type="Information" data-search="QS-Modul-757 **SMD** Surface Mounted Device Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-757</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**SMD**
+Surface Mounted Device
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5789" data-type="Information" data-search="QS-Modul-5789 **SOP** Start of production Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5789</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**SOP**
+Start of production
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5796" data-type="Information" data-search="QS-Modul-5796 **THT** Through-hole technology Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5796</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**THT**
+Through-hole technology
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5827" data-type="Information" data-search="QS-Modul-5827 **VDA** Association of the Automotive Industry Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5827</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**VDA**
+Association of the Automotive Industry
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-763" data-type="Information" data-search="QS-Modul-763 **COUNT** Assembly Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-763</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**COUNT**
+Assembly
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Documents accompanying the application
+
+<div class="req-card" id="QS-Modul-764" data-type="Überschrift" data-search="QS-Modul-764 Documents accompanying the application Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-764</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Documents accompanying the application</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-766" data-type="Anforderung" data-search="QS-Modul-766 The documents valid on the date of issue of the BT-LAH and the documents referred to therein shall apply. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-766</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The documents valid on the date of issue of the BT-LAH and the documents referred to therein shall apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-767" data-type="Anforderung" data-search="QS-Modul-767 The contractor shall ensure that the documents valid for this BT-LAH are used. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-767</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The contractor shall ensure that the documents valid for this BT-LAH are used.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-769" data-type="Information" data-search="QS-Modul-769 **Source of reference:** Documents can be accessed via the B2B supplier platform of the Volkswagen Group at the Internet address: www.vwgroupsupply.com with an access authorization. (Contact also via hotline Germany: 0800/193 30 99 or International: +49-5361-933099 or e-mail: supplierintegration@vwgroupsupply.com ) Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-769</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**Source of reference:**
+Documents can be accessed via the B2B supplier platform of the Volkswagen Group at the Internet address: www.vwgroupsupply.com with an access authorization. (Contact also via hotline Germany: 0800/193 30 99 or International: +49-5361-933099 or e-mail: supplierintegration@vwgroupsupply.com )
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Technical specifications
+
+<div class="req-card" id="QS-Modul-771" data-type="Überschrift" data-search="QS-Modul-771 Technical specifications Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-771</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Technical specifications</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1711" data-type="Information" data-search="QS-Modul-1711 **DIN EN 61340-5-1** Protection of electronic components against electrostatic phenomena - General requirements Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1711</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**DIN EN 61340-5-1**
+Protection of electronic components against electrostatic phenomena - General requirements
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1712" data-type="Information" data-search="QS-Modul-1712 **IN EN 61340-5-1 SAMPLE 1** Protection of electronic components against electrostatic phenomena - User&#x27;s manual (IEC/TR 61340-5-2:2007); German version CLC/TR 61340-5-2:2008 Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1712</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IN EN 61340-5-1 SAMPLE 1**
+Protection of electronic components against electrostatic phenomena - User's manual (IEC/TR 61340-5-2:2007); German version CLC/TR 61340-5-2:2008
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-869" data-type="Information" data-search="QS-Modul-869 **Formula Q** Group guidelines of quality assurance procurement: Formula Q-concrete, -new parts integral, -ability Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-869</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**Formula Q**
+Group guidelines of quality assurance procurement: Formula Q-concrete, -new parts integral, -ability
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1058" data-type="Information" data-search="QS-Modul-1058 **VW 60330** Crimp connections; solder-free electrical connections Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1058</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**VW 60330**
+Crimp connections; solder-free electrical connections
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5782" data-type="Information" data-search="QS-Modul-5782 **VW 80000** Electrical and electronic components in motor vehicles up to 3.5 t. Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5782</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**VW 80000**
+Electrical and electronic components in motor vehicles up to 3.5 t.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1106" data-type="Information" data-search="QS-Modul-1106 **VW 80131** Suppliers&#x27; traceability requirements for electrical and electronic components Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-1106</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**VW 80131**
+Suppliers' traceability requirements for electrical and electronic components
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Type-testing documents, regulations, laws
+
+<div class="req-card" id="QS-Modul-787" data-type="Überschrift" data-search="QS-Modul-787 Type-testing documents, regulations, laws Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-787</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Type-testing documents, regulations, laws</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5504" data-type="Information" data-search="QS-Modul-5504 **IPC-A-600** Acceptance criteria for PCBs Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5504</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC-A-600**
+Acceptance criteria for PCBs
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5507" data-type="Information" data-search="QS-Modul-5507 **IPC-A-610** Acceptance criteria for electronic assemblies Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5507</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC-A-610**
+Acceptance criteria for electronic assemblies
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5505" data-type="Information" data-search="QS-Modul-5505 **IPC-7711** Improvement of electronic assemblies Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5505</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC-7711**
+Improvement of electronic assemblies
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5765" data-type="Information" data-search="QS-Modul-5765 **IPC-7721** Repair and modification of printed circuit boards and electronic assemblies Information gültig accepted agreed information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5765</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC-7721**
+Repair and modification of printed circuit boards and electronic assemblies
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5766" data-type="Information" data-search="QS-Modul-5766 **IPC-TM-650** Test methods for electronic products Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5766</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**IPC-TM-650**
+Test methods for electronic products
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5825" data-type="Information" data-search="QS-Modul-5825 **ISO/IEC 17025** General requirements for the competence of testing and calibration laboratories Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5825</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**ISO/IEC 17025**
+General requirements for the competence of testing and calibration laboratories
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5777" data-type="Information" data-search="QS-Modul-5777 **J-STD001** Requirements for soldered assemblies Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5777</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**J-STD001**
+Requirements for soldered assemblies
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5778" data-type="Information" data-search="QS-Modul-5778 **J-STD004** Requirements for fluxes Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5778</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**J-STD004**
+Requirements for fluxes
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5828" data-type="Information" data-search="QS-Modul-5828 **MIL STD 883 J, Method 5003** Failure Analysis Procedures for Microelectronic Circuits Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-5828</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+**MIL STD 883 J, Method 5003**
+Failure Analysis Procedures for Microelectronic Circuits
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+#### Other documents
+
+<div class="req-card" id="QS-Modul-807" data-type="Überschrift" data-search="QS-Modul-807 Other documents Überschrift gültig accepted agreed heading valid MT machine-translated">
+<div class="req-head"><code>QS-Modul-807</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Other documents</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+---
+*Source RIF `EE Qualitaetssicherung_EXERPT_20160509.xml` (2016-05-17T11:57:46+02:00). Embedded OLE objects (Word/Excel/Paint) are embedded as PNG (bitmap DIBs 1:1, vector WMF re-rendered + transcribed); originals linked per figure. English: official DOORS text where available, otherwise machine-translated (Helsinki-NLP/opus-mt-de-en + automotive glossary), marked per requirement.*

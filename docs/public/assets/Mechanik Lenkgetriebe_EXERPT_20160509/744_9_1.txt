@@ -1,0 +1,7 @@
+Term Definition
+A point Lowest point defining kinematics of the steering
+column at the pinion recess
+KU pointCenter point of lower universal joint on steering
+column jointed shaft
+S1 pointBall center of axial joint
+S2 pointBall center of outer joint

@@ -1,0 +1,3 @@
+Abbreviation Meaning
+EPS Electronic power steering
+EMC Electromagnetic compatibility

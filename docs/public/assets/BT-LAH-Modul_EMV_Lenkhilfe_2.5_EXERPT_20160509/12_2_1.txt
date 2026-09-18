@@ -1,0 +1,5 @@
+TL 81000 EMV von Kfz-Elektronikbauteilen
+ECE R10EMV Kraftfahrzeugrichtlinie
+CISPR 25 Fahrzeuge, Boote und von Verbrennungsmotoren angetriebene Geräte -
+Funkstöreigenschaften -Grenzwerte und Messverfahren für den Schutz von an
+Bord befindlichen Empfängern

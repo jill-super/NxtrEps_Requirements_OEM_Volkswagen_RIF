@@ -1,0 +1,3211 @@
+---
+title: "EE Qualit\u00e4tssicherung"
+description: "DOORS RIF EXERPT 2016-05-09 \u00b7 237 Objekte \u00b7 1 Abbildungen"
+sidebar: {"order": 15}
+---
+# EE Qualitätssicherung
+
+> Quelle: `EE Qualitaetssicherung_EXERPT_20160509.xml` · Export 2016-05-17T11:57:46+02:00 · DOORS 9.6.0.1 · 237 Objekte · 1 eingebettete OLE-Abbildungen (als PNG).
+
+| Kennzahl | Wert |
+|---|---|
+| Objekte / objects | 237 |
+| Anforderungen / requirements | 147 |
+| Informationen / information | 53 |
+| TBD | 0 |
+| Überschriften / headings | 37 |
+| Abbildungen / figures | 1 |
+| Mit EN-Text | 0 |
+
+
+<div class="req-filter" role="search">
+  <input id="req-q" type="search" placeholder="Nach ID oder Text filtern…" aria-label="Filter requirements" />
+  <select id="req-t" aria-label="Filter by type">
+    <option value="">Typ: alle</option>
+    <option value="Anforderung">Anforderung</option>
+    <option value="Information">Information</option>
+    <option value="TBD">TBD</option>
+    <option value="Überschrift">Überschrift</option>
+  </select>
+  <span class="req-count" id="req-count"></span>
+</div>
+
+
+## Anforderungen an die Qualitätssicherung
+
+<div class="req-card" id="QS-Modul-5829" data-type="Überschrift" data-search="QS-Modul-5829 Anforderungen an die Qualitätssicherung Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5829</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Anforderungen an die Qualitätssicherung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+### Vorwort
+
+<div class="req-card" id="QS-Modul-2" data-type="Überschrift" data-search="QS-Modul-2 Vorwort Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-2</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Vorwort</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-4" data-type="Information" data-search="QS-Modul-4 Das Bauteil-Lastenheft-Modul Qualitätssicherung ist Bestandteil des Bauteil-Lastenheftes und nur zusammen mit diesem gültig. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-4</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Das Bauteil-Lastenheft-Modul Qualitätssicherung ist Bestandteil des Bauteil-Lastenheftes und nur zusammen mit diesem gültig.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-13" data-type="Information" data-search="QS-Modul-13 Die vom Auftragnehmer zu erfüllenden Anforderungen sind in der Identifikationsnummer (z. B: [A: BT-LAH-1]) grundsätzlich durch ein &quot;A&quot; gekennzeichnet. Textteile, die durch ein &quot;I&quot; gekennzeichnet sind, sind Informationen zum besseren Verständnis des BT-LAH. Gibt es keine Identifikationsnummer oder keine Kennzeichnung mit &quot;A&quot; bzw. &quot;I&quot;, so handelt es sich ebenfalls um eine Anforderung. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-13</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die vom Auftragnehmer zu erfüllenden Anforderungen sind in der Identifikationsnummer (z. B: [A: BT-LAH-1]) grundsätzlich durch ein "A" gekennzeichnet. Textteile, die durch ein "I" gekennzeichnet sind, sind Informationen zum besseren Verständnis des BT-LAH. Gibt es keine Identifikationsnummer oder keine Kennzeichnung mit "A" bzw. "I", so handelt es sich ebenfalls um eine Anforderung.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+### Qualitätssicherungsanforderungen
+
+<div class="req-card" id="QS-Modul-632" data-type="Überschrift" data-search="QS-Modul-632 Qualitätssicherungsanforderungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-632</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Qualitätssicherungsanforderungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### *Fertigungs- und Prüfkonzepte*
+
+<div class="req-card" id="QS-Modul-5607" data-type="Überschrift" data-search="QS-Modul-5607 *Fertigungs- und Prüfkonzepte* Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5607</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>*Fertigungs- und Prüfkonzepte*</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5608" data-type="Anforderung" data-search="QS-Modul-5608 Das Fertigung- und Prüfkonzept ist bis zur B-Freigabe dem Bauteilverantwortlichen der Qualitätssicherung vorzustellen und mit ihm abzustimmen Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5608</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Das Fertigung- und Prüfkonzept ist bis zur B-Freigabe dem Bauteilverantwortlichen der Qualitätssicherung vorzustellen und mit ihm abzustimmen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Abnahmekriterien für elektrische und elektronische Bauteile
+
+<div class="req-card" id="QS-Modul-5609" data-type="Überschrift" data-search="QS-Modul-5609 Abnahmekriterien für elektrische und elektronische Bauteile Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5609</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Abnahmekriterien für elektrische und elektronische Bauteile</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5605" data-type="Anforderung" data-search="QS-Modul-5605 Die Bewertungsgrundlage für elektrische und elektronische Bauteile ist die IPC-A-610, Produktklasse 3. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5605</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die Bewertungsgrundlage für elektrische und elektronische Bauteile ist die IPC-A-610, Produktklasse 3.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Einhaltung der Bauelementehersteller-Angaben
+
+<div class="req-card" id="QS-Modul-1004" data-type="Überschrift" data-search="QS-Modul-1004 Einhaltung der Bauelementehersteller-Angaben Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1004</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Einhaltung der Bauelementehersteller-Angaben</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1015" data-type="Anforderung" data-search="QS-Modul-1015 Die verwendeten Bauelemente müssen nach Herstellerangaben verarbeitet (z.B. gelötet) werden. Besonders zu beachten sind Löttemperaturen, Lötzeiten, Temperaturgradienten, Lagerzeiten und Moisture Sensitive Level. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1015</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die verwendeten Bauelemente müssen nach Herstellerangaben verarbeitet (z.B. gelötet) werden. Besonders zu beachten sind Löttemperaturen, Lötzeiten, Temperaturgradienten, Lagerzeiten und Moisture Sensitive Level.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Produkt- und Prozessüberwachung
+
+<div class="req-card" id="QS-Modul-633" data-type="Überschrift" data-search="QS-Modul-633 Produkt- und Prozessüberwachung Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-633</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Produkt- und Prozessüberwachung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-865" data-type="Anforderung" data-search="QS-Modul-865 Zur Fehler-Früherkennung und -vermeidung in der Serienfertigung sind vom Auftragnehmer Methoden wie Statistical Process Control, Part Average Test, Part Average Analyse oder ähnliche zur Realtime-Erfassung und Online-Auswertung von Messdaten im Prozess zu installieren, mit denen Vorschädigungen anhand von Anomalien bereits im Prozess erkannt und selektiert werden können. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-865</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Zur Fehler-Früherkennung und -vermeidung in der Serienfertigung sind vom Auftragnehmer Methoden wie Statistical Process Control, Part Average Test, Part Average Analyse oder ähnliche zur Realtime-Erfassung und Online-Auswertung von Messdaten im Prozess zu installieren, mit denen Vorschädigungen anhand von Anomalien bereits im Prozess erkannt und selektiert werden können.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1031" data-type="Anforderung" data-search="QS-Modul-1031 Die Methode und die spezifischen Messwerte sind mit dem Bauteilverantwortlichen der Qualitätssicherung bis zur Stufe B des QPNs abzustimmen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1031</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Die Methode und die spezifischen Messwerte sind mit dem Bauteilverantwortlichen der Qualitätssicherung bis zur Stufe B des QPNs abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-866" data-type="Anforderung" data-search="QS-Modul-866 Die Serien-Prüftiefe ist mit den ersten Funktionsmustern zu dokumentieren, mit allen Prüfparametern offen zu legen und mit den zuständigen Fachabteilungen (Entwicklung, Qualitätssicherung, usw.) des Auftraggebers mit B-Muster abzustimmen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-866</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Serien-Prüftiefe ist mit den ersten Funktionsmustern zu dokumentieren, mit allen Prüfparametern offen zu legen und mit den zuständigen Fachabteilungen (Entwicklung, Qualitätssicherung, usw.) des Auftraggebers mit B-Muster abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1073" data-type="Anforderung" data-search="QS-Modul-1073 Die optische und funktionelle Testabdeckung ist für jedes Bauelement nachzuweisen. Als Standard für die optische/visuelle Abnahme sind die Abnahmekriterien der IPC-A-610 in der aktuell gültigen Version anzuwenden. Die geltende Produktklasse ist Klasse 3. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1073</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die optische und funktionelle Testabdeckung ist für jedes Bauelement nachzuweisen.
+Als Standard für die optische/visuelle Abnahme sind die Abnahmekriterien der IPC-A-610  in der aktuell gültigen Version anzuwenden. Die geltende Produktklasse ist Klasse 3.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-635" data-type="Anforderung" data-search="QS-Modul-635 Folgende Serienprüfungen sind im Fertigungsablauf zu 100 % durchzuführen: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-635</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Folgende Serienprüfungen sind im Fertigungsablauf zu 100 % durchzuführen:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-636" data-type="Anforderung" data-search="QS-Modul-636 - Ein automatischer Bandende-Test (End-Of-Line Test) ist am vollständig montierten Bauteil durchzuführen. Umfang und Inhalt des Test sind bis zur B-Freigabe des Projekts mit dem Bauteilverantwortlichen der Qualitätssicherung und der Technischen Entwicklung abzustimmen. Es muss eine automatische i.O.-Kennzeichnung auf dem Bauteil geben, die mit dem Ergebnis des Bandende-Test automatisch verknüpft ist. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-636</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Ein automatischer Bandende-Test (End-Of-Line Test) ist am vollständig montierten Bauteil durchzuführen. Umfang und Inhalt des Test sind bis zur B-Freigabe des Projekts mit dem Bauteilverantwortlichen der Qualitätssicherung und der Technischen Entwicklung abzustimmen. Es muss eine automatische i.O.-Kennzeichnung auf dem Bauteil geben, die mit dem Ergebnis des Bandende-Test automatisch verknüpft ist.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-637" data-type="Anforderung" data-search="QS-Modul-637 - Automatische Prüfung auf Vorhandensein*,*Lage und Polarität aller Komponenten. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-637</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Automatische Prüfung auf Vorhandensein*,*Lage und Polarität aller Komponenten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-638" data-type="Anforderung" data-search="QS-Modul-638 - Die Fertigungs- und Prüfreihenfolge muss automatisch abgesichert sein. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-638</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Die Fertigungs- und Prüfreihenfolge muss automatisch abgesichert sein.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5791" data-type="Anforderung" data-search="QS-Modul-5791 - Nach einem nicht bestandenen Test, muss ein Bauteil automatisch durch das Fertigungssteuerungssystem gesperrt werden und damit eine Weiterverarbeitung verhindert werden (Verriegelung). Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5791</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Nach einem nicht bestandenen Test, muss ein Bauteil automatisch durch das Fertigungssteuerungssystem gesperrt werden und damit eine Weiterverarbeitung verhindert werden (Verriegelung).
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5792" data-type="Anforderung" data-search="QS-Modul-5792 - Die Freigabe von gesperrten Bauteilem darf nur erfolgen, wenn als Ursache für den Ausfall ein Pseudofehler analysiert wurde. Die Analyse ist entsprechend der VW80131 zu dokumentieren. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5792</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Die Freigabe von gesperrten Bauteilem darf nur erfolgen, wenn als Ursache für den Ausfall ein Pseudofehler analysiert wurde. Die Analyse ist entsprechend der VW80131 zu dokumentieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-639" data-type="Anforderung" data-search="QS-Modul-639 - Prüfung aller Bauelemente auf Wert und Funktion (ICT) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-639</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Prüfung aller Bauelemente auf Wert und Funktion (ICT)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1271" data-type="Anforderung" data-search="QS-Modul-1271 - Beim ICT oder sonstigen Tests dürfen auf Bauelementen keine Testnadeln aufgesetzt werden. Ausnahmen sind Buchsen und Stecker. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1271</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Beim ICT oder sonstigen Tests dürfen auf Bauelementen keine Testnadeln aufgesetzt werden. Ausnahmen sind Buchsen und Stecker.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-640" data-type="Anforderung" data-search="QS-Modul-640 - Automatische optische Prüfung aller Lötstellen. Bei flächenkontaktierten Bauelementen (z. B. Ball Grid Array, QFN) muss eine 100% automatische optische 3D-Inspektion des Lotpastendruckes und eine Röntgeninspektion der Lötstellen erfolgen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-640</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Automatische optische Prüfung aller Lötstellen. Bei flächenkontaktierten Bauelementen (z. B. Ball Grid Array, QFN) muss eine 100% automatische optische 3D-Inspektion des Lotpastendruckes und eine Röntgeninspektion der Lötstellen erfolgen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5795" data-type="Anforderung" data-search="QS-Modul-5795 - Bei bedrahteten Bauteilen (THT) muss eine Kontrolle des Lotdurchstiegs bei mindestens 10% des Fertigungsloses erfolgen. Abweichungen davon sind mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung bis zur B-Freigabe abzustimmen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5795</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Bei bedrahteten Bauteilen (THT) muss eine Kontrolle des Lotdurchstiegs bei mindestens 10% des Fertigungsloses erfolgen. Abweichungen davon sind mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung bis zur B-Freigabe abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-641" data-type="Anforderung" data-search="QS-Modul-641 - Prüfung aller Schnittstellenmit Kundenapplikation Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-641</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Prüfung aller Schnittstellenmit Kundenapplikation
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-642" data-type="Anforderung" data-search="QS-Modul-642 - Prüfung FLASH/EEPROM - Speicher Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-642</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Prüfung FLASH/EEPROM - Speicher
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-643" data-type="Anforderung" data-search="QS-Modul-643 - Steckerprüfung (Position der Steckerpins, Maßhaltigkeit und Kodierung des Gehäuses). Original-Gegenstecker dürfen im Fertigungsprozess nicht verwendet werden. Es sind gefederte Prüfpins zu verwenden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-643</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Steckerprüfung (Position der Steckerpins, Maßhaltigkeit und Kodierung des Gehäuses). Original-Gegenstecker dürfen im Fertigungsprozess nicht verwendet werden. Es sind gefederte Prüfpins zu verwenden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-645" data-type="Anforderung" data-search="QS-Modul-645 - Visuelle Prüfungen für optische Merkmale**.**Bei Displays und Oberflächen mit Symbolik ist eine automatische optische Inspektion bezüglich der festgelegten Merkmale durchzuführen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-645</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Visuelle Prüfungen für optische Merkmale**.**Bei Displays und Oberflächen mit Symbolik ist eine automatische optische Inspektion bezüglich der festgelegten Merkmale durchzuführen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1032" data-type="Anforderung" data-search="QS-Modul-1032 - Betätigungselemente sind über ein Kraft-Weg-Diagramm und Funktion zu überprüfen Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1032</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Betätigungselemente sind über ein Kraft-Weg-Diagramm und Funktion zu überprüfen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1233" data-type="Anforderung" data-search="QS-Modul-1233 - Automatische Überwachung der Anzahl der korrekt gesetzten Schrauben bei der Montage. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1233</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Automatische Überwachung der Anzahl der korrekt gesetzten Schrauben bei der Montage.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1234" data-type="Anforderung" data-search="QS-Modul-1234 - Kontinuierliche Überwachung von mindestens zwei Kenngrößen (z.B. Drehmoment, Drehwinkel, Zeit, Schraubtiefe) bei Einsatz von Schraubwerkzeugen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1234</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Kontinuierliche Überwachung von mindestens zwei Kenngrößen (z.B. Drehmoment, Drehwinkel, Zeit, Schraubtiefe) bei Einsatz von Schraubwerkzeugen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5802" data-type="Information" data-search="QS-Modul-5802 Überprüfung von Steckverbindungen innerhalb von Bauteilen: Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5802</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Überprüfung von Steckverbindungen innerhalb von Bauteilen:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5803" data-type="Anforderung" data-search="QS-Modul-5803 - Interne Steckverbindungen sind bezüglich korrekter Steckung und Verriegelung automatisiert zu 100% prozessbegleitend zu überprüfen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5803</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Interne Steckverbindungen sind bezüglich korrekter Steckung und Verriegelung automatisiert zu 100% prozessbegleitend zu überprüfen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5804" data-type="Anforderung" data-search="QS-Modul-5804 - Die Pin-Belegung bei Flachbandkabeln für interne Bauteilverbindungen muss so ausgelegt werden, dass die äußeren Pins mit EOL-Test relevante Funktionen belegt werden. Ein schräg gestecktes Flachkabel muss damit am EOL prozesssicher erkannt werden. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5804</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Die Pin-Belegung bei Flachbandkabeln für interne Bauteilverbindungen muss so ausgelegt werden, dass die äußeren Pins mit EOL-Test relevante Funktionen belegt werden. Ein schräg gestecktes Flachkabel muss damit am EOL prozesssicher erkannt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Reinheitsanforderungen  an bestückte Schaltungsträger
+
+<div class="req-card" id="QS-Modul-1264" data-type="Überschrift" data-search="QS-Modul-1264 Reinheitsanforderungen an bestückte Schaltungsträger Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1264</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Reinheitsanforderungen  an bestückte Schaltungsträger</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1270" data-type="Anforderung" data-search="QS-Modul-1270 Der Grenzwert für die ionische Oberflächenkontamination des bestückten Schaltungsträgers vor der Verpackung bzw. Versand muss einen Wert von &lt; 0,40 µg(NaCl)/cm² einhalten. Der Nachweis ist entsprechend IPC-TM-650 durchzuführen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1270</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Grenzwert für die ionische Oberflächenkontamination des bestückten Schaltungsträgers vor der Verpackung bzw. Versand muss einen Wert von &lt; 0,40 µg(NaCl)/cm² einhalten. Der Nachweis ist entsprechend IPC-TM-650 durchzuführen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Nutzentrennung
+
+<div class="req-card" id="QS-Modul-1005" data-type="Überschrift" data-search="QS-Modul-1005 Nutzentrennung Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1005</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Nutzentrennung</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-601" data-type="Anforderung" data-search="QS-Modul-601 Nutzentrennung von bestückten Leiterplatten ist nur dann zulässig, wenn nachgewiesen werden kann, dass das Trennverfahren nicht zu Beschädigungen führt. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-601</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Nutzentrennung von bestückten Leiterplatten ist nur dann zulässig, wenn nachgewiesen werden kann, dass das Trennverfahren nicht zu Beschädigungen führt.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5797" data-type="Anforderung" data-search="QS-Modul-5797 Partikel aus dem Trennprozess sind nur zulässig, wenn nachgewiesen werden kann, dass diese weder funktions- noch zuverlässigkeitsrelevant sind. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5797</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Partikel aus dem Trennprozess sind nur zulässig, wenn nachgewiesen werden kann, dass diese weder funktions- noch zuverlässigkeitsrelevant sind.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1016" data-type="Anforderung" data-search="QS-Modul-1016 Der Einsatz von Rollmessern zum Nutzentrennen ist grundsätzlich nicht erlaubt. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1016</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Einsatz von Rollmessern zum Nutzentrennen ist grundsätzlich nicht erlaubt.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Verbindungstechnologien auf dem Bauteil
+
+<div class="req-card" id="QS-Modul-5724" data-type="Überschrift" data-search="QS-Modul-5724 Verbindungstechnologien auf dem Bauteil Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5724</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Verbindungstechnologien auf dem Bauteil</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Lötverfahren
+
+<div class="req-card" id="QS-Modul-1006" data-type="Überschrift" data-search="QS-Modul-1006 Lötverfahren Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1006</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Lötverfahren</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1017" data-type="Anforderung" data-search="QS-Modul-1017 Als Lötverfahren für SMD-Bauelemente darf ausschließlich ein Reflow-Verfahren (Konvektion oder Dampfphase) zur Anwendung kommen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1017</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Als Lötverfahren für SMD-Bauelemente darf ausschließlich ein Reflow-Verfahren (Konvektion oder Dampfphase) zur Anwendung kommen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5725" data-type="Anforderung" data-search="QS-Modul-5725 Bei Reflow-Lötverfahren ist eine Schutzgas-Atmosphäre zu nutzen, sofern die Lotpaste nicht vom Hersteller für Normalatmosphäre freigegeben ist. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5725</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei Reflow-Lötverfahren ist eine Schutzgas-Atmosphäre zu nutzen, sofern die Lotpaste nicht vom Hersteller für Normalatmosphäre freigegeben ist.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1069" data-type="Anforderung" data-search="QS-Modul-1069 Wellenlötung und Selektives Löten sind zu vermeiden. Ausnahmen müssen mit dem Bauteilverantwortlichen der Qualitätssicherung im Rahmen des Fertigungskonzeptes zur Stufe B des QPN gemäß &quot;Formel-Q-Neuteile integral&quot; abgestimmt werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1069</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Wellenlötung und Selektives Löten sind zu vermeiden. Ausnahmen müssen mit dem Bauteilverantwortlichen der Qualitätssicherung im Rahmen des Fertigungskonzeptes zur Stufe B des QPN gemäß "Formel-Q-Neuteile integral" abgestimmt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5726" data-type="Anforderung" data-search="QS-Modul-5726 Sofern diese Ausnahme zugelassen wurde, ist für Wellen- und Selektivlötverfahren grundsätzlich eine Schutzgas-Atmosphäre erforderlich. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5726</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Sofern diese Ausnahme zugelassen wurde, ist für Wellen- und Selektivlötverfahren grundsätzlich eine Schutzgas-Atmosphäre erforderlich.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5727" data-type="Anforderung" data-search="QS-Modul-5727 Bei Wellen- und Selektiv-Lötprozessen ist sicherzustellen, dass Lötstellen aus vorausgegangenen Lötprozessen nicht wieder auf- oder angeschmolzen werden. Dies ist zum Beispiel durch entsprechende Abstände im Layout oder durch geeignete Maskierung von Bauelementen zu gewährleisten. Ein Nachweis mittels Temperaturmessung ist bis zur 2-Tages-Produktion durchzuführen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5727</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei Wellen- und Selektiv-Lötprozessen ist sicherzustellen, dass Lötstellen aus vorausgegangenen Lötprozessen nicht wieder auf- oder angeschmolzen werden. Dies ist zum Beispiel durch entsprechende Abstände im Layout oder durch geeignete Maskierung von Bauelementen zu gewährleisten. Ein Nachweis mittels Temperaturmessung ist bis zur 2-Tages-Produktion durchzuführen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1394" data-type="Anforderung" data-search="QS-Modul-1394 Manuelle Lötungen sind als Serienverfahren grundsätzlich nicht erlaubt. Ausnahmen müssen durch Einzelgenehmigungen des zuständigen Bauteilverantwortlichen bis zur Stufe B des QPNs freigegeben werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1394</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Manuelle Lötungen sind als Serienverfahren grundsätzlich nicht erlaubt. Ausnahmen müssen durch Einzelgenehmigungen des zuständigen Bauteilverantwortlichen bis zur Stufe B des QPNs freigegeben werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5728" data-type="Anforderung" data-search="QS-Modul-5728 Für das manuelle Löten müssen besonders geschulte Mitarbeiter eingesetzt werden. Ein Nachweis der Qualifikation der Mitarbeiter (z.B. durch Zertifikat der Lötfachkraft des DVS oder eine Schulung nach J-STD001) muss erbracht werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5728</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Für das manuelle Löten müssen besonders geschulte Mitarbeiter eingesetzt werden. Ein Nachweis der Qualifikation der Mitarbeiter (z.B. durch Zertifikat der Lötfachkraft des DVS oder eine Schulung nach J-STD001) muss erbracht werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5729" data-type="Anforderung" data-search="QS-Modul-5729 Beim manuellen Löten ist ebenfalls eine Schutzgas-Atmosphäre anzuwenden. Ausnahmen müssen durch Einzelgenehmigungen des zuständigen Bauteilverantwortlichen bis zur Stufe B des QPNs freigegeben werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5729</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Beim manuellen Löten ist ebenfalls eine Schutzgas-Atmosphäre anzuwenden. Ausnahmen müssen durch Einzelgenehmigungen des zuständigen Bauteilverantwortlichen bis zur Stufe B des QPNs freigegeben werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1018" data-type="Anforderung" data-search="QS-Modul-1018 Grundsätzlich ist bei allen Lötverfahren unter Schutzgas-Atmosphäre zu löten. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1018</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Grundsätzlich ist bei allen Lötverfahren unter Schutzgas-Atmosphäre zu löten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Lötqualität
+
+<div class="req-card" id="QS-Modul-5713" data-type="Überschrift" data-search="QS-Modul-5713 Lötqualität Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5713</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Lötqualität</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5714" data-type="Anforderung" data-search="QS-Modul-5714 Für die Bewertung der Lötqualität ist grundsätzlich die IPC-A610 Klasse 3 heranzuziehen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5714</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Für die Bewertung der Lötqualität ist grundsätzlich die IPC-A610 Klasse 3 heranzuziehen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5715" data-type="Anforderung" data-search="QS-Modul-5715 Ergänzend hierzu sind für Poren im Lot abweichende Grenzwerte festgelegt: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5715</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Ergänzend hierzu sind für Poren im Lot abweichende Grenzwerte festgelegt:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5717" data-type="Anforderung" data-search="QS-Modul-5717 - Für alle aktiven Bauelemente sowie auch für alle passiven Bauelemente wird ein Grenzwert von 10 % Porenanteil im Mittel des Bauteils definiert Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5717</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Für alle aktiven Bauelemente sowie auch für alle passiven Bauelemente wird ein Grenzwert von 10 % Porenanteil im Mittel des Bauteils definiert
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5718" data-type="Anforderung" data-search="QS-Modul-5718 - Unter Berücksichtigung von ausreichend großen Lötmenisken (Winkel ~ 45°, Anstieg am Bauelement &gt; 50 %) bei passiven Bauelementen kann auch ein Grenzwert von 20 % zugelassen werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5718</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Unter Berücksichtigung von ausreichend großen Lötmenisken (Winkel ~ 45°, Anstieg am Bauelement &gt; 50 %) bei passiven Bauelementen kann auch ein Grenzwert von 20 % zugelassen werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5719" data-type="Anforderung" data-search="QS-Modul-5719 - Eine Abweichung bei flächig gelöteten Bauelementen (z.B. Leistungshalbleiter) mit einem höheren Porenanteil als 10 % ist detailliert nachzuweisen und die daraus resultierende Zuverlässigkeit über Lebensdauer zu begründen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5719</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Eine Abweichung bei flächig gelöteten Bauelementen (z.B. Leistungshalbleiter) mit einem höheren Porenanteil als 10 % ist detailliert nachzuweisen und die daraus resultierende Zuverlässigkeit über Lebensdauer zu begründen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5720" data-type="Anforderung" data-search="QS-Modul-5720 - Lotperlen sind ein Prozessindikator und grundsätzlich zu vermeiden. Die maximale Größe einzelner oder zusammenhängender Lotperlen darf einen Wert von 50 % des minimalsten Pitchabstandes auf dem Bauteil nicht überschreiten. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5720</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Lotperlen sind ein Prozessindikator und grundsätzlich zu vermeiden. Die maximale Größe einzelner oder zusammenhängender Lotperlen darf einen Wert von 50 % des minimalsten Pitchabstandes auf dem Bauteil nicht überschreiten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5721" data-type="Anforderung" data-search="QS-Modul-5721 Ergänzend hierzu werden für Flussmittel erweiterte Nachweise gefordert: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5721</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Ergänzend hierzu werden für Flussmittel erweiterte Nachweise gefordert:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5722" data-type="Anforderung" data-search="QS-Modul-5722 - Zugelassene Flussmittelrückstände, z.B. von no-clean Flussmitteln, werden in der IPC-A610 erläutert. Ein Nachweis der Unbedenklichkeit der Rückstände entsprechend der Norm J-STD004 ist vorzulegen. Eine Mischung von Flussmittelrückständen von mehreren Lötprozessen ist grundsätzlich zu vermeiden und nur dann zulässig, wenn die Unbedenklichkeit der kombinierten Flussmittelrückstände durch eine Kompatibilitätsprüfung nachgewiesen ist. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5722</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Zugelassene Flussmittelrückstände, z.B. von no-clean Flussmitteln, werden in der IPC-A610 erläutert. Ein Nachweis der Unbedenklichkeit der Rückstände entsprechend der Norm J-STD004 ist vorzulegen. Eine Mischung von Flussmittelrückständen von mehreren Lötprozessen ist grundsätzlich zu vermeiden und nur dann zulässig, wenn die Unbedenklichkeit der kombinierten Flussmittelrückstände durch eine Kompatibilitätsprüfung nachgewiesen ist.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5723" data-type="Anforderung" data-search="QS-Modul-5723 - Sofern ein Schutzlackieren oder ein Verguss des Bauteils oder einzelner Komponenten erfolgen soll, sind Flussmittelrückstände grundsätzlich zu entfernen. Der Nachweis der Oberflächenreinheit erfolgt nach IPC-TM-650 (vgl. hierzu Kap. 2.10 - Beschichtung von Schaltungsträgern). Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5723</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Sofern ein Schutzlackieren oder ein Verguss des Bauteils oder einzelner Komponenten erfolgen soll, sind Flussmittelrückstände grundsätzlich zu entfernen. Der Nachweis der Oberflächenreinheit erfolgt nach IPC-TM-650 (vgl. hierzu Kap. 2.10 - Beschichtung von Schaltungsträgern).
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Einpresstechnik
+
+<div class="req-card" id="QS-Modul-5730" data-type="Überschrift" data-search="QS-Modul-5730 Einpresstechnik Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5730</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Einpresstechnik</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5731" data-type="Anforderung" data-search="QS-Modul-5731 Einpressverbindungen mit Einzel- oder Mehrfachkontaktierungen sind grundsätzlich mit dem Bauteilverantwortlichen abzustimmen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5731</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Einpressverbindungen mit Einzel- oder Mehrfachkontaktierungen sind grundsätzlich mit dem Bauteilverantwortlichen abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5732" data-type="Anforderung" data-search="QS-Modul-5732 Der Einpressprozess ist dem Bauteilverantwortlichen darzustellen, die Auswahl von Werkstoffen und Prozessparametern zu begründen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5732</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Einpressprozess ist dem Bauteilverantwortlichen darzustellen, die Auswahl von Werkstoffen und Prozessparametern zu begründen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5733" data-type="Anforderung" data-search="QS-Modul-5733 Eine sichere Unterstützung während des Einpressens und ein geeignetes Niederhalten der Leiterplatte beim Abheben des Werkzeuges sind sicherzustellen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5733</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Eine sichere Unterstützung während des Einpressens und ein geeignetes Niederhalten der Leiterplatte beim Abheben des Werkzeuges sind sicherzustellen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5734" data-type="Anforderung" data-search="QS-Modul-5734 Die Leiterplatte darf sich während des Einpressens weder nach unten, noch nach oben durchbiegen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5734</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Leiterplatte darf sich während des Einpressens weder nach unten, noch nach oben durchbiegen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Bondtechnologie
+
+<div class="req-card" id="QS-Modul-5735" data-type="Überschrift" data-search="QS-Modul-5735 Bondtechnologie Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5735</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Bondtechnologie</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5736" data-type="Information" data-search="QS-Modul-5736 Folgende Anforderungen zu Bondtechnologie beziehen sich nicht auf Bondverbindungen innerhalb Bauelementen Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5736</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Folgende Anforderungen zu Bondtechnologie beziehen sich nicht auf Bondverbindungen innerhalb Bauelementen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5737" data-type="Anforderung" data-search="QS-Modul-5737 Bondparameter, Bondgeometrien, Materialpaarungen und Oberflächengüte sind mit dem B-Muster zu ermitteln, festzulegen und zu qualifizieren. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5737</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bondparameter, Bondgeometrien, Materialpaarungen und Oberflächengüte sind mit dem B-Muster zu ermitteln,  festzulegen und zu qualifizieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5805" data-type="Anforderung" data-search="QS-Modul-5805 Die Ermittlung von Bondparametern muss über eine statistische Versuchsplanung (Design Of Experiments DoE) erfolgen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5805</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Ermittlung von Bondparametern muss über eine statistische Versuchsplanung (Design Of Experiments DoE) erfolgen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5806" data-type="Anforderung" data-search="QS-Modul-5806 Über die Qualifikation der Bondverbindung muss mindestens die für das Bauteil geforderte Lebensdauer nachgewiesen werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5806</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Über die Qualifikation der Bondverbindung muss mindestens die für das Bauteil geforderte Lebensdauer nachgewiesen werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5807" data-type="Anforderung" data-search="QS-Modul-5807 Die Ergebnisse der Qualifikation sind dem zuständigen Bauteilverantwortlichen bis zum B-Muster vorzustellen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5807</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Ergebnisse der Qualifikation sind dem zuständigen Bauteilverantwortlichen bis zum B-Muster vorzustellen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5808" data-type="Anforderung" data-search="QS-Modul-5808 Ergeben sich in späteren Musterphasen oder der Serienproduktion Änderungen an Anlagen, Parametern, Materialien oder Fertigungsstandorten, ist diese Qualifikation zu wiederholen und das Ergebnis unaufgefordert dem Auftraggeber vorzulegen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5808</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Ergeben sich in späteren Musterphasen oder der Serienproduktion Änderungen an Anlagen, Parametern, Materialien oder Fertigungsstandorten, ist diese Qualifikation zu wiederholen und das Ergebnis unaufgefordert dem Auftraggeber vorzulegen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5738" data-type="Anforderung" data-search="QS-Modul-5738 Für ein stabiles und zuverlässiges Bondergebnis sind die festgelegten Bondparameter online zu überwachen, sowie zu dokumentieren. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5738</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Für ein stabiles und zuverlässiges Bondergebnis sind die festgelegten Bondparameter online zu überwachen, sowie zu dokumentieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5739" data-type="Anforderung" data-search="QS-Modul-5739 Die ordnungsgemäße Ausführung von Bondverbindungen ist im Rahmen einer Grenzmusterbetrachtung zu definieren und serienbegleitend nachzuweisen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5739</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die ordnungsgemäße Ausführung von Bondverbindungen ist im Rahmen einer Grenzmusterbetrachtung zu definieren und serienbegleitend nachzuweisen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5740" data-type="Anforderung" data-search="QS-Modul-5740 Dazu müssen neben Pull- und Schertest auch das Langzeitverhalten und Chargenstreuungen betrachtet werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5740</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Dazu müssen neben Pull- und Schertest auch das Langzeitverhalten und Chargenstreuungen betrachtet werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Mechanischer Stress
+
+<div class="req-card" id="QS-Modul-1002" data-type="Überschrift" data-search="QS-Modul-1002 Mechanischer Stress Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1002</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Mechanischer Stress</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1012" data-type="Anforderung" data-search="QS-Modul-1012 Durch den Lieferanten sind über den gesamten Herstellungs-, Handlings- und Transportprozess des Bauteils nachfolgende Untersuchungen vor einer 2-Tages-Produktion durchzuführen: - Bewertung des Einflusses von mechanischem Stress (Biegebeanspruchung) durch messtechnische Methoden (z. B. Dehnungs-Mess-Streifen). - Bewertung von thermischen Gradienten Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1012</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Durch den Lieferanten sind über den gesamten Herstellungs-, Handlings- und Transportprozess des Bauteils nachfolgende Untersuchungen vor einer 2-Tages-Produktion durchzuführen:
+
+- Bewertung des Einflusses von mechanischem Stress (Biegebeanspruchung) durch messtechnische Methoden (z. B. Dehnungs-Mess-Streifen).
+- Bewertung von thermischen Gradienten
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1013" data-type="Anforderung" data-search="QS-Modul-1013 Die Untersuchungsergebnisse sind halbjährlich, bzw. bei relevanten Prozess- und Anlagenänderungen prozessbegleitend zu überprüfen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1013</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Untersuchungsergebnisse sind halbjährlich, bzw. bei relevanten Prozess- und Anlagenänderungen prozessbegleitend zu überprüfen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Manuelle Bestückung und Montage
+
+<div class="req-card" id="QS-Modul-1003" data-type="Überschrift" data-search="QS-Modul-1003 Manuelle Bestückung und Montage Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1003</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Manuelle Bestückung und Montage</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1014" data-type="Anforderung" data-search="QS-Modul-1014 Bei manueller Bestückung und Montage müssen, durch ein Fehlervermeidungskonzept, Operator-Fehler (z. B. Bauelementverwechslung, Fehlpositionierung, falsche Polarität) ausgeschlossen werden. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1014</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Bei manueller Bestückung und Montage müssen, durch ein Fehlervermeidungskonzept, Operator-Fehler (z. B. Bauelementverwechslung, Fehlpositionierung, falsche Polarität) ausgeschlossen werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1068" data-type="Anforderung" data-search="QS-Modul-1068 Wenn dies nicht prozesssicher realisiert werden kann, muss die manuelle Bestückung oder Montage durch automatische optische Inspektion überwacht werden. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1068</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Wenn dies nicht prozesssicher realisiert werden kann, muss die manuelle Bestückung oder Montage durch automatische optische Inspektion überwacht werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Beschichtung (Schutzlack und Verguss) von Schaltungsträgern
+
+<div class="req-card" id="QS-Modul-1400" data-type="Überschrift" data-search="QS-Modul-1400 Beschichtung (Schutzlack und Verguss) von Schaltungsträgern Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1400</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Beschichtung (Schutzlack und Verguss) von Schaltungsträgern</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1401" data-type="Anforderung" data-search="QS-Modul-1401 Es sind die Akzeptanzkriterien nach der aktuell gültigen Version der IPC-A-610 zu beachten. Die geltende Produktklasse ist Klasse 3. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1401</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Es sind die Akzeptanzkriterien nach der aktuell gültigen Version der IPC-A-610 zu beachten. Die geltende Produktklasse ist Klasse 3.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1402" data-type="Anforderung" data-search="QS-Modul-1402 Die Beschichtung muss automatisiert erfolgen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1402</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Beschichtung muss automatisiert erfolgen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1403" data-type="Anforderung" data-search="QS-Modul-1403 Die Bauteile sind zu 100% auf Qualität und Vollständigkeit der Beschichtung zu prüfen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1403</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Bauteile sind zu 100% auf Qualität und Vollständigkeit der Beschichtung zu prüfen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1404" data-type="Anforderung" data-search="QS-Modul-1404 Nacharbeit und Reparatur an beschichteten Bereichen sind nicht zulässig. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1404</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Nacharbeit und Reparatur an beschichteten Bereichen sind nicht zulässig.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1405" data-type="Anforderung" data-search="QS-Modul-1405 Bei flächenkontaktierten Bauelementen (z.B. BGA, QFN) muss ein spezieller Underfiller verwendet werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1405</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei flächenkontaktierten Bauelementen (z.B. BGA, QFN) muss ein spezieller Underfiller verwendet werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1406" data-type="Anforderung" data-search="QS-Modul-1406 Bauelemente mit offenen Kontakten, Steckerkontakte und optische Bauteile (z.B. LED, LCD, MOST) dürfen nicht mit Schutzlack benetzt werden, um die Bauelement-Funktionalität nicht zu beeinträchtigen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1406</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bauelemente mit offenen Kontakten, Steckerkontakte und optische Bauteile (z.B. LED, LCD, MOST) dürfen nicht mit Schutzlack benetzt werden, um die Bauelement-Funktionalität nicht zu beeinträchtigen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1407" data-type="Anforderung" data-search="QS-Modul-1407 Zu Gehäusen von Steckern, Relais, Schaltern sowie Tastern ist ein Mindestabstand von ≥2 mm einzuhalten. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1407</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Zu Gehäusen von Steckern, Relais, Schaltern sowie Tastern ist ein Mindestabstand von ≥2 mm einzuhalten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5599" data-type="Anforderung" data-search="QS-Modul-5599 Transparente Dünnschichtlacke müssen eingefärbt werden oder fluoreszierende Eigenschaften aufweisen, damit die geforderte Prüfbarkeit erreicht werden kann. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5599</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Transparente Dünnschichtlacke müssen eingefärbt werden oder fluoreszierende Eigenschaften aufweisen, damit die geforderte Prüfbarkeit erreicht werden kann.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5600" data-type="Anforderung" data-search="QS-Modul-5600 Zum Nachweis der geforderten Oberflächenreinheit, müssen an mindestens fünf C-Mustern folgende Tests an unbeschichteten Bauteilen durchgeführt werden: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5600</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Zum Nachweis der geforderten Oberflächenreinheit, müssen an mindestens fünf C-Mustern folgende Tests an unbeschichteten Bauteilen durchgeführt werden:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5601" data-type="Anforderung" data-search="QS-Modul-5601 - Optische Prüfung mit Hilfe eines Mikroskops (mindestens 20-fache Vergrößerung) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5601</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Optische Prüfung mit Hilfe eines Mikroskops (mindestens 20-fache Vergrößerung)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5602" data-type="Anforderung" data-search="QS-Modul-5602 - Messung der ionischen Kontamination nach IPC-TM-650 (Grenzwert 2 ) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5602</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Messung der ionischen Kontamination nach IPC-TM-650 (Grenzwert &lt;0,4µg(NaCl)/cm<sup>2</sup>)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5603" data-type="Anforderung" data-search="QS-Modul-5603 - Test auf Aktivatorrückstände aus Flussmitteln (Farbumschlagtest) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5603</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Test auf Aktivatorrückstände aus Flussmitteln (Farbumschlagtest)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5604" data-type="Anforderung" data-search="QS-Modul-5604 - Der Nachweis ist als Prüfbericht dem Auftraggeber zur Verfügung zu stellen Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5604</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Der Nachweis ist als Prüfbericht dem Auftraggeber zur Verfügung zu stellen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5741" data-type="Anforderung" data-search="QS-Modul-5741 Bei Verguss-Prozessen sind folgende Qualitäts-Prüfungen im Serienprozess durchzuführen: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5741</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei Verguss-Prozessen sind folgende Qualitäts-Prüfungen im Serienprozess durchzuführen:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5742" data-type="Anforderung" data-search="QS-Modul-5742 - Vor der Verwendung neuer Harzgebinde muss nach dem Aufrühren die Dichte überprüft werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5742</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Vor der Verwendung neuer Harzgebinde muss nach dem Aufrühren die Dichte überprüft werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5743" data-type="Anforderung" data-search="QS-Modul-5743 - Bei jedem Fertigungslos muss eine Shore-Härte-Kontrolle durchgeführt werden (Becherprobe). Dabei muss der Aushärteprozess, die Abkühlzeit und die Umgebungs-Temperatur bei der gemessen wird definiert sein. Die Härtungsproben sind als Rückstellmuster aufzubewahren. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5743</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Bei jedem Fertigungslos muss eine Shore-Härte-Kontrolle durchgeführt werden (Becherprobe). Dabei muss der Aushärteprozess, die Abkühlzeit und die Umgebungs-Temperatur bei der gemessen wird definiert sein. Die Härtungsproben sind als Rückstellmuster aufzubewahren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5745" data-type="Anforderung" data-search="QS-Modul-5745 - Bei Vergussanlagen, bei denen sich das Mischungsverhältnis verändern kann, muss zu Beginn einer Schicht, nach dem Wechsel von Materialgebinden und bei Anlagenänderungen das Mischungsverhältnis von Harz und Härter überprüft und dokumentiert werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5745</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Bei Vergussanlagen, bei denen sich das Mischungsverhältnis verändern kann, muss zu Beginn einer Schicht, nach dem Wechsel von Materialgebinden und bei Anlagenänderungen das Mischungsverhältnis von Harz und Härter überprüft und dokumentiert werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Nacharbeit und Reparatur während des Herstellungsprozesses
+
+<div class="req-card" id="QS-Modul-1007" data-type="Überschrift" data-search="QS-Modul-1007 Nacharbeit und Reparatur während des Herstellungsprozesses Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1007</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Nacharbeit und Reparatur während des Herstellungsprozesses</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1392" data-type="Anforderung" data-search="QS-Modul-1392 Nacharbeit und Reparatur sind im Herstellungsprozess nicht erlaubt. Ausnahmen sind einzelgenehmigungspflichtig und müssen mit dem Bauteilverantwortlichen der Qualitätssicherung bis zur Stufe B des QPNs abgestimmt werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1392</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Nacharbeit und Reparatur sind im Herstellungsprozess nicht erlaubt. Ausnahmen sind einzelgenehmigungspflichtig und müssen mit dem Bauteilverantwortlichen der Qualitätssicherung bis zur Stufe B des QPNs abgestimmt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5798" data-type="Anforderung" data-search="QS-Modul-5798 Die einzelgenehmigungspflichtigen Ausnahmen müssen mit Details zur Notwendigkeit, Wirtschaftlichkeit, zum Nacharbeitsprozess und der entsprechenden Prozessabsicherung begründet werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5798</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die einzelgenehmigungspflichtigen Ausnahmen müssen mit Details zur Notwendigkeit, Wirtschaftlichkeit, zum Nacharbeitsprozess und der entsprechenden Prozessabsicherung begründet werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1021" data-type="Anforderung" data-search="QS-Modul-1021 Für Nacharbeit und Reparatur müssen besonders geschulte Mitarbeiter eingesetzt werden. Ein Nachweis der Qualifikation der Mitarbeiter (z.B. durch Zertifikat der Lötfachkraft des DVS oder eine Schulung nach J-STD001) muss erbracht werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1021</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Für Nacharbeit und Reparatur müssen besonders geschulte Mitarbeiter eingesetzt werden. Ein Nachweis der Qualifikation der Mitarbeiter (z.B. durch Zertifikat der Lötfachkraft des DVS oder eine Schulung nach J-STD001) muss erbracht werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1070" data-type="Anforderung" data-search="QS-Modul-1070 Die Grundlage für die Durchführung von Nacharbeit und Reparatur ist die IPC-7711/7721. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1070</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Grundlage für die Durchführung von Nacharbeit und Reparatur ist die IPC-7711/7721.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### ESD-Schutz
+
+<div class="req-card" id="QS-Modul-1009" data-type="Überschrift" data-search="QS-Modul-1009 ESD-Schutz Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1009</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>ESD-Schutz</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1026" data-type="Anforderung" data-search="QS-Modul-1026 Ein ESD-Schutzsystem nach DIN EN 61340-5-1 und DIN EN 61340-5-1 Beiblatt 01 ist in der Fertigung bis zur 2-Tages-Produktions-Abnahme umzusetzen und nachzuweisen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1026</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Ein ESD-Schutzsystem nach DIN EN 61340-5-1 und DIN EN 61340-5-1 Beiblatt 01 ist in der Fertigung bis zur 2-Tages-Produktions-Abnahme umzusetzen und nachzuweisen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1027" data-type="Anforderung" data-search="QS-Modul-1027 Eine regelmäßige Überprüfung der Wirksamkeit ist durch eine Dokumentation der Messwerte nachzuweisen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1027</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Eine regelmäßige Überprüfung der Wirksamkeit ist durch eine Dokumentation der Messwerte nachzuweisen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1393" data-type="Anforderung" data-search="QS-Modul-1393 Folgende Anforderungen sind umzusetzen: - das Tragen von Handgelenks-Erdungsbändern bei sitzenden Tätigkeiten - das Tragen von ableitfähiger ESD-Schutzkleidung - das Tragen von ableitfähigem Schuhwerk - die tägliche Überprüfung mit Dokumentation der persönlichen Schutzausrüstung (Schuhe/Handgelenksband) Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1393</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Folgende Anforderungen sind umzusetzen:
+
+- das Tragen von Handgelenks-Erdungsbändern bei sitzenden Tätigkeiten
+- das Tragen von ableitfähiger ESD-Schutzkleidung
+- das Tragen von ableitfähigem Schuhwerk
+- die tägliche Überprüfung mit Dokumentation der persönlichen Schutzausrüstung (Schuhe/Handgelenksband)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Überprüfung von Crimpverbindungen
+
+<div class="req-card" id="QS-Modul-1011" data-type="Überschrift" data-search="QS-Modul-1011 Überprüfung von Crimpverbindungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1011</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Überprüfung von Crimpverbindungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1030" data-type="Anforderung" data-search="QS-Modul-1030 Für die Prozessüberprüfung von Crimpverbindungen in Elektrik/Elektronik-Komponenten gelten grundsätzlich die Anforderungen der Crimpnorm VW 60330. Dies betrifft insbesondere die serienbegleitende Schliffbilderstellung. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1030</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Für die Prozessüberprüfung von Crimpverbindungen in Elektrik/Elektronik-Komponenten gelten grundsätzlich die Anforderungen der Crimpnorm VW 60330. Dies betrifft insbesondere die serienbegleitende Schliffbilderstellung.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Schadensteil-Analyse
+
+<div class="req-card" id="QS-Modul-1010" data-type="Überschrift" data-search="QS-Modul-1010 Schadensteil-Analyse Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1010</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Schadensteil-Analyse</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5809" data-type="Anforderung" data-search="QS-Modul-5809 Der Auftragnehmer muss das Analysekonzept für Schadensteile dem Bauteilverantwortlichen vorstellen und mit ihm bis PVS abstimmen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5809</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Auftragnehmer muss das Analysekonzept für Schadensteile dem Bauteilverantwortlichen vorstellen und mit ihm bis PVS abstimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5810" data-type="Anforderung" data-search="QS-Modul-5810 Der Lieferant hat seine Analysefähigkeit vor Vergabe nachzuweisen und seine Analy-sekompetenz durch regelmäßige Überprüfung sicherzustellen (z.B. ISO/TS 16949, VDA-Band &quot;Schadteilanalyse Feld&quot;). Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5810</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Lieferant hat seine Analysefähigkeit vor Vergabe nachzuweisen und seine Analy-sekompetenz durch regelmäßige Überprüfung sicherzustellen (z.B. ISO/TS 16949, VDA-Band "Schadteilanalyse Feld").
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1028" data-type="Anforderung" data-search="QS-Modul-1028 Der Analyseprozess ist in Absprache mit dem Bauteilverantwortlichen durch eine Abnahme zu verifizieren. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1028</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Analyseprozess ist in Absprache mit dem Bauteilverantwortlichen durch eine Abnahme zu verifizieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5811" data-type="Anforderung" data-search="QS-Modul-5811 Dieser besteht aus einer Schadteilbefundung bestehend aus Standardprüfungen (z.B. visuelle Eingangsinspektion, Röntgen, elektrische Funktionsprüfungen, etc.) sowie Belastungsprüfungen (z.B. Temperaturprüfun-gen, Feuchtelagerung, Betrieb bei Unterspannung, etc.) und einer anschließenden Ursachenanalyse (&quot;Root Cause Analyse&quot;). Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5811</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Dieser besteht aus einer Schadteilbefundung bestehend aus Standardprüfungen (z.B. visuelle Eingangsinspektion, Röntgen, elektrische Funktionsprüfungen, etc.) sowie Belastungsprüfungen (z.B. Temperaturprüfun-gen, Feuchtelagerung, Betrieb bei Unterspannung, etc.) und einer anschließenden Ursachenanalyse ("Root Cause Analyse").
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1029" data-type="Anforderung" data-search="QS-Modul-1029 Um die geforderten Analysezeiten zu gewährleisten sind folgende Punkte zu erfüllen: Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1029</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Um die geforderten Analysezeiten zu gewährleisten sind folgende Punkte zu erfüllen:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5770" data-type="Anforderung" data-search="QS-Modul-5770 - Die Befundung zur Verifikation des Fehlers muss in Europa durchgeführt werden. Weitere physikalische Ausfallanalysen zur Definition der Abstellmaßnahme an Bauelementen oder Prozessen können in den Fertigungswerken, bzw. bei Unterlieferanten durchgeführt werden. Anforderung gültig accepted partly agreed">
+<div class="req-head"><code>QS-Modul-5770</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: partly agreed</span></div>
+
+- Die  Befundung zur Verifikation des Fehlers muss in Europa durchgeführt werden. Weitere physikalische Ausfallanalysen zur Definition der Abstellmaßnahme an Bauelementen oder Prozessen können in den Fertigungswerken, bzw. bei Unterlieferanten durchgeführt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | partly agreed |
+
+<details>
+<summary>Kommentare</summary>
+
+<strong>VW:</strong> 20160508 - Wilke: für lokale Produktion akzeptiert
+
+<strong>Nexteer:</strong> Befundung in Europa wird für in Europa hergestellte Teile sichergestellt. Nexteer plant die in China hergestellten Teile in China zu befunden
+
+</details>
+
+</div>
+
+<div class="req-card" id="QS-Modul-5772" data-type="Anforderung" data-search="QS-Modul-5772 - Für die Berichterstattung von Schadensteilanalyse sind folgende Zeiten einzuhalten. Ab der Verfügbarkeit des Schadensteils für den Lieferanten: - 24h für die erste Stellungnahme mit Grobanalyse bei Liegenbleibern (A1-Fehler) und Screening-Ausfällen - 48h für die erste Stellungnahme mit Grobanalyse bei A, B und C-Fehlern - 5Arbeitstage für den Zwischenbericht in 8D-Format - 10 Arbeitstage für den Abschlußbericht in 8D-Format Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5772</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+- Für die Berichterstattung von Schadensteilanalyse sind folgende Zeiten einzuhalten. Ab der Verfügbarkeit des Schadensteils für den Lieferanten:
+-	24h für die erste Stellungnahme mit Grobanalyse bei Liegenbleibern (A1-Fehler) und Screening-Ausfällen
+-	48h für die erste Stellungnahme mit Grobanalyse bei A, B und C-Fehlern
+-	5Arbeitstage für den Zwischenbericht in 8D-Format
+- 	10 Arbeitstage für den Abschlußbericht in 8D-Format
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5812" data-type="Anforderung" data-search="QS-Modul-5812 Für jedes Schadteil ist die Sicherstellung der laufenden Serienqualität durch einen EOL-Testumfang nachzuweisen. Teile, die im Rahmen der Befundung i.O. geprüft wurden (i.O. gemäß Befundung), sind gegebenenfalls über einen vordefinierten NTF-Prozess (No Trouble Found, Kein Fehler feststellbar) zu bewerten. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5812</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Für jedes Schadteil ist die Sicherstellung der laufenden Serienqualität durch einen EOL-Testumfang nachzuweisen. Teile, die im Rahmen der Befundung i.O. geprüft wurden (i.O. gemäß Befundung), sind gegebenenfalls über einen vordefinierten NTF-Prozess (No Trouble Found, Kein Fehler feststellbar) zu bewerten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5813" data-type="Anforderung" data-search="QS-Modul-5813 Der Zugriff auf folgende nicht-zerstörenden Analyseverfahren muss vom Lieferanten nach Teileeingang innerhalb der geforderten Fristen sichergestellt (ggf. durch externe Dienstleister) und ein interner Analyseexperte benannt werden können: - Visuelle Inspektion und Dokumentation (innerhalb 48h) - Optische Mikroskopie (innerhalb 48h) - Elektrische/Elektronische Signal- und Funktionsanalyse (innerhalb 48h) - 2D-Röntgenanalyse (innerhalb 48h) Rasterelektronenmikroskopie (SEM) und energiedispersive Röntgenanalyse (EDS) (innerhalb von 5 AT) Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5813</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Zugriff auf folgende nicht-zerstörenden Analyseverfahren muss vom Lieferanten nach Teileeingang innerhalb der geforderten Fristen sichergestellt (ggf. durch externe Dienstleister) und ein interner Analyseexperte benannt werden können:
+
+- Visuelle Inspektion und Dokumentation (innerhalb 48h)
+- Optische Mikroskopie (innerhalb 48h)
+- Elektrische/Elektronische Signal- und Funktionsanalyse (innerhalb 48h)
+- 2D-Röntgenanalyse (innerhalb 48h) Rasterelektronenmikroskopie (SEM) und energiedispersive Röntgenanalyse (EDS) (innerhalb von 5 AT)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5814" data-type="Anforderung" data-search="QS-Modul-5814 Externe Dienstleister müssen eine gültige Akkreditierung nach ISO/IEC 17025 für den spezifizierten Tätigkeitsumfang besitzen oder vom Auftraggeber explizit freigegeben sein. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5814</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Externe Dienstleister müssen eine gültige Akkreditierung nach ISO/IEC 17025 für den spezifizierten Tätigkeitsumfang besitzen oder vom Auftraggeber explizit freigegeben sein.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5815" data-type="Anforderung" data-search="QS-Modul-5815 Ein geeigneter Prozess zur Priorisierung und Eskalation von Ausfallanalysen in der Organisation des Lieferanten oder zwischen dem Lieferanten und dem externen Dienstleister ist nachzuweisen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5815</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Ein geeigneter Prozess zur Priorisierung und Eskalation von Ausfallanalysen in der Organisation des Lieferanten oder zwischen dem Lieferanten und dem externen Dienstleister ist nachzuweisen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5816" data-type="Anforderung" data-search="QS-Modul-5816 Zerstörende Analyse- oder Präparationsschritte (Sägen, Schleifen, Löten, Reinigen, Wässern…) müssen hinsichtlich einer Erhaltung des Fehlerzustandes geprüft und deren korrekte Durchführung auch innerhalb der Unterlieferantenkette sichergestellt werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5816</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Zerstörende Analyse- oder Präparationsschritte (Sägen, Schleifen, Löten, Reinigen, Wässern…) müssen hinsichtlich einer Erhaltung des Fehlerzustandes geprüft und deren korrekte Durchführung auch innerhalb der Unterlieferantenkette sichergestellt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5817" data-type="Anforderung" data-search="QS-Modul-5817 Der Analyseumfang muss sich bis auf Bauelemente-Ebene erstrecken. Umfänge und Methodik der physikalischen Analyse von elektronischen Halbleiterbauelementen (Transistoren, ICs, LEDs,…) haben sich an den Vorgaben des Standards MIL STD 883J, Method 5003 &quot;Failure Analysis Procedures for Microelectronic Circuits&quot; zu orientieren. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5817</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Analyseumfang muss sich bis auf Bauelemente-Ebene erstrecken. Umfänge und Methodik der physikalischen Analyse von elektronischen Halbleiterbauelementen (Transistoren, ICs, LEDs,…) haben sich an den Vorgaben des Standards MIL STD 883J, Method 5003 "Failure Analysis Procedures for Microelectronic Circuits" zu orientieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5818" data-type="Anforderung" data-search="QS-Modul-5818 Beanstandete Systeme müssen im Systemverbund analysiert werden. Sämtliche Analyse-, Präparations- und Zerlegungsschritte sind geeignet zu dokumentieren und auf Verlangen in Form eines Analyseberichts durch den Analyseexperten des Lieferanten vorzustellen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5818</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Beanstandete Systeme müssen im Systemverbund analysiert werden. Sämtliche Analyse-, Präparations- und Zerlegungsschritte sind geeignet zu dokumentieren und auf Verlangen in Form eines Analyseberichts durch den Analyseexperten des Lieferanten vorzustellen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5819" data-type="Anforderung" data-search="QS-Modul-5819 Grundsätzlich ist für jedes Schadteil ein Abschlussbericht im 8D-Format nach Vorgabe VDA Band 4.3 zu führen und dem Auftraggeber zur Verfügung zu stellen. Die Bündelung einzelner Schadensfälle mit gleicher Ausfallursache in einem Mantel-8D-Bericht ist in Absprache mit dem Bauteilverantwortlichen zulässig. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5819</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Grundsätzlich ist für jedes Schadteil ein Abschlussbericht im 8D-Format nach Vorgabe VDA Band 4.3 zu führen und dem Auftraggeber zur Verfügung zu stellen. Die Bündelung einzelner Schadensfälle mit gleicher Ausfallursache in einem Mantel-8D-Bericht ist in Absprache mit dem Bauteilverantwortlichen zulässig.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5820" data-type="Anforderung" data-search="QS-Modul-5820 Grundsätzlich ist für jedes Schadteil nach Abschluss der Befundung ein Zwischenbericht im 8D-Format (z.B. nach Vorgabe VDA Band 4.3) mit einem Umfang D1-D4 zu führen und dem Auftraggeber zur Verfügung zu stellen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5820</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Grundsätzlich ist für jedes Schadteil nach Abschluss der Befundung ein Zwischenbericht im 8D-Format (z.B. nach Vorgabe VDA Band 4.3) mit einem Umfang D1-D4 zu führen und dem Auftraggeber zur Verfügung zu stellen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Monatliches Qualitäts-Reporting
+
+<div class="req-card" id="QS-Modul-5610" data-type="Überschrift" data-search="QS-Modul-5610 Monatliches Qualitäts-Reporting Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5610</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Monatliches Qualitäts-Reporting</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5611" data-type="Anforderung" data-search="QS-Modul-5611 Der Lieferant hat monatlich einen Qualitäts-Bericht an den Bauteilverantwortlichen der Qualitätssicherung zu senden. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5611</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Lieferant hat monatlich einen Qualitäts-Bericht an den Bauteilverantwortlichen der Qualitätssicherung zu senden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5799" data-type="Anforderung" data-search="QS-Modul-5799 Der Umfang und der Starttermin des Reportings ist in Abstimmung mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung festzulegen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5799</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Umfang und der Starttermin des Reportings ist in Abstimmung mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung festzulegen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5800" data-type="Anforderung" data-search="QS-Modul-5800 Der Qualitätsbericht muss bis zum 10. Arbeitstag des Folgemonates zur Verfügung stehen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5800</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Qualitätsbericht muss bis zum 10. Arbeitstag des Folgemonates zur Verfügung stehen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5801" data-type="Anforderung" data-search="QS-Modul-5801 Aus dem monatlichen Qualitätsbericht müssen die folgenden statistischen Daten zur Qualitätslage des Bauteils im Sinne einer Maßnahmen-/ Wirksamkeitskontrolle hervorgehen. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5801</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Aus dem monatlichen Qualitätsbericht müssen die folgenden statistischen Daten zur Qualitätslage des Bauteils im Sinne einer Maßnahmen-/ Wirksamkeitskontrolle hervorgehen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### 0-km- und Feldausfälle
+
+<div class="req-card" id="QS-Modul-5612" data-type="Überschrift" data-search="QS-Modul-5612 0-km- und Feldausfälle Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5612</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>0-km- und Feldausfälle</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5613" data-type="Anforderung" data-search="QS-Modul-5613 Darstellung der Fehlerursachen und Abstellmaßnahmen der beanstandeten Bauteile der jeweils letzten 18 Produktionsmonate mit Kennzeichnung des Maßnahmeneinsatztermins. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5613</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Darstellung der Fehlerursachen und Abstellmaßnahmen der beanstandeten Bauteile der jeweils letzten 18 Produktionsmonate mit Kennzeichnung des Maßnahmeneinsatztermins.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Interne Fertigungsqualität
+
+<div class="req-card" id="QS-Modul-5614" data-type="Überschrift" data-search="QS-Modul-5614 Interne Fertigungsqualität Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5614</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Interne Fertigungsqualität</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5615" data-type="Anforderung" data-search="QS-Modul-5615 Darstellung der internen Ausfälle, aus allen im Serienprozess installierten Prüfungen (z. B. AOI, ICT, Funktionstest, Sichtprüfungen, End-Of-Line Test), der jeweils letzten 18 Produktionsmonate mit Angabe der Verbesserungsmaßnahmen und des jeweiligen Einsatzdatums. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5615</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Darstellung der internen Ausfälle, aus allen im Serienprozess installierten Prüfungen (z. B. AOI, ICT, Funktionstest, Sichtprüfungen, End-Of-Line Test), der jeweils letzten 18 Produktionsmonate mit Angabe der Verbesserungsmaßnahmen und des jeweiligen Einsatzdatums.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Fertigungsverlagerungen
+
+<div class="req-card" id="QS-Modul-5616" data-type="Überschrift" data-search="QS-Modul-5616 Fertigungsverlagerungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5616</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Fertigungsverlagerungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5617" data-type="Anforderung" data-search="QS-Modul-5617 Im Zeitraum von sechs Monaten vor bis zwölf Monate nach Serieneinsatz eines Bauteils sind Fertigungsverlagerungen nicht zulässig. Ausnahmen müssen grundsätzlich durch den zuständigen Bauteilverantwortlichen der Qualitätssicherung genehmigt werden. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5617</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Im Zeitraum von sechs Monaten vor bis zwölf Monate nach Serieneinsatz eines Bauteils sind Fertigungsverlagerungen nicht zulässig. Ausnahmen müssen grundsätzlich durch den zuständigen Bauteilverantwortlichen der Qualitätssicherung genehmigt werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Rückverfolgbarkeit
+
+<div class="req-card" id="QS-Modul-1008" data-type="Überschrift" data-search="QS-Modul-1008 Rückverfolgbarkeit Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1008</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Rückverfolgbarkeit</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1072" data-type="Anforderung" data-search="QS-Modul-1072 Es gelten die Anforderungen der VW 80131. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1072</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Es gelten die Anforderungen der VW 80131.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Anlaufscreening
+
+<div class="req-card" id="QS-Modul-647" data-type="Überschrift" data-search="QS-Modul-647 Anlaufscreening Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-647</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Anlaufscreening</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-648" data-type="Anforderung" data-search="QS-Modul-648 Zur Anlaufabsicherung von Bauteilen ist ab PVS ein Screening (Run-in) mit Umweltbelastungen (Temperatur, Spannung) durchzuführen. Die dabei auftretenden Erkenntnisse (z. B. Auffälligkeiten, Drifterscheinungen usw.) sind vom Auftragnehmer zu analysieren. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-648</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Zur Anlaufabsicherung von Bauteilen ist ab PVS ein Screening (Run-in) mit Umweltbelastungen (Temperatur, Spannung) durchzuführen. Die dabei auftretenden Erkenntnisse (z. B. Auffälligkeiten, Drifterscheinungen usw.) sind vom Auftragnehmer zu analysieren.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-863" data-type="Anforderung" data-search="QS-Modul-863 Mit den Ergebnissen sind die Eingriffsgrenzen, Testparameter und Ähnliches zur Optimierung der Serienprodukte, Serienprozesse und Seriensysteme anzupassen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-863</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Mit den Ergebnissen sind die Eingriffsgrenzen, Testparameter und Ähnliches zur Optimierung der Serienprodukte, Serienprozesse und Seriensysteme anzupassen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1376" data-type="Anforderung" data-search="QS-Modul-1376 Der Auftragnehmer hat ein Umsetzungskonzept zu erarbeiten und mit dem Bauteilverantwortlichen der Qualitätssicherungsabteilung des Auftraggebers vor Angebotsabgabe abzustimmen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1376</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Auftragnehmer hat ein Umsetzungskonzept zu erarbeiten und mit dem Bauteilverantwortlichen der Qualitätssicherungsabteilung des Auftraggebers vor Angebotsabgabe abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-864" data-type="Anforderung" data-search="QS-Modul-864 Bei Erreichung des vereinbarten Qualitäts-Niveaus und dem Nachweis der geforderten Fähigkeit der Fertigungs- und Testprozesse, kann nach Vereinbarung das Screening entfallen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-864</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei Erreichung des vereinbarten Qualitäts-Niveaus und dem Nachweis der geforderten Fähigkeit der Fertigungs- und Testprozesse, kann nach Vereinbarung das Screening entfallen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5746" data-type="Anforderung" data-search="QS-Modul-5746 Nach einem Bauteilausfall im Screening müssen mindestens weitere Bauteile, als Qualitätsabsicherung, gescreent werden. Abweichungen sind je nach Fertigungsstückzahlen möglich und mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung abzustimmen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5746</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Nach einem Bauteilausfall im Screening müssen mindestens weitere &lt;500&gt; Bauteile, als Qualitätsabsicherung, gescreent werden. Abweichungen sind je nach Fertigungsstückzahlen möglich und mit dem zuständigen Bauteilverantwortlichen der Qualitätssicherung abzustimmen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-649" data-type="Anforderung" data-search="QS-Modul-649 Screeningausfälle sind mit höchster Priorität in den Qualitäts- bzw. Projektteam-Gremien des Auftragnehmers abzuarbeiten. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-649</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Screeningausfälle sind mit höchster Priorität in den Qualitäts- bzw. Projektteam-Gremien des Auftragnehmers abzuarbeiten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Allgemeine Rahmenfestlegungen
+
+<div class="req-card" id="QS-Modul-650" data-type="Überschrift" data-search="QS-Modul-650 Allgemeine Rahmenfestlegungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-650</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Allgemeine Rahmenfestlegungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-651" data-type="Anforderung" data-search="QS-Modul-651 - Zeitdauer des Anlaufscreening: PVS bis Erreichen der mit dem Bauteilverantwortlichen der Qualitätssicherung vereinbarten Stückzahl Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-651</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Zeitdauer des Anlaufscreening: PVS bis Erreichen der mit dem Bauteilverantwortlichen der Qualitätssicherung vereinbarten Stückzahl
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-652" data-type="Anforderung" data-search="QS-Modul-652 - Mindeststückzahl (Gesamtzeitdauer): &gt;= 5.000 je Bauteilvariante Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-652</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Mindeststückzahl (Gesamtzeitdauer): &gt;= 5.000 je Bauteilvariante
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-653" data-type="Anforderung" data-search="QS-Modul-653 - Gescreente Komponenten - PVS bis SOP 100% gelieferte Komponenten - ab SOP &gt;= 100 Komponenten / Tag Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-653</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Gescreente Komponenten
+-	PVS bis SOP 100% gelieferte Komponenten
+-	ab SOP  &gt;= 100 Komponenten / Tag
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-654" data-type="Anforderung" data-search="QS-Modul-654 - Kapazität Screeningequipment &gt;= 35 Komponenten / Schicht Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-654</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Kapazität Screeningequipment &gt;= 35 Komponenten / Schicht
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-655" data-type="Anforderung" data-search="QS-Modul-655 - Screeningdokumentation wöchentlicher Ausfallreport (Musterdokument vorhanden) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-655</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Screeningdokumentation wöchentlicher Ausfallreport (Musterdokument vorhanden)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-656" data-type="Anforderung" data-search="QS-Modul-656 - Prozessowner &quot;Screening&quot; Verantwortlichkeiten festlegen und an Auftraggeber kommunizieren Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-656</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Prozessowner "Screening" Verantwortlichkeiten festlegen und an Auftraggeber kommunizieren
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-657" data-type="Anforderung" data-search="QS-Modul-657 - Prozessbeschreibung Screeningprozess festlegen (z. B. Abwicklung, Verantwortung, Kommunikation, Eskalationsstufen, usw.) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-657</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Prozessbeschreibung Screeningprozess festlegen (z. B. Abwicklung, Verantwortung, Kommunikation, Eskalationsstufen, usw.)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Screeningverfahren
+
+<div class="req-card" id="QS-Modul-659" data-type="Überschrift" data-search="QS-Modul-659 Screeningverfahren Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-659</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Screeningverfahren</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1033" data-type="Anforderung" data-search="QS-Modul-1033 Die Temperaturprüfung wird am komplett montierten Bauteil durchgeführt. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1033</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Die Temperaturprüfung wird am komplett montierten Bauteil durchgeführt.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1076" data-type="Anforderung" data-search="QS-Modul-1076 Bei Steuergeräten die im ZSB (z. B. Sitze, Front-End, Mechatronik) angeliefert werden, muss die Funktions-Einheit die gescreent werden soll zusammen mit dem Teileverantwortlichen der Qualitätssicherung definiert werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1076</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei Steuergeräten die im ZSB (z. B. Sitze, Front-End, Mechatronik) angeliefert werden, muss die Funktions-Einheit die gescreent werden soll zusammen mit dem Teileverantwortlichen der Qualitätssicherung definiert werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-670" data-type="Anforderung" data-search="QS-Modul-670 Der Auftragnehmer hat spezifisches Testequipment (ggf. Basis EOL-Tester) zu verwenden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-670</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Auftragnehmer hat spezifisches Testequipment (ggf. Basis EOL-Tester) zu verwenden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-671" data-type="Anforderung" data-search="QS-Modul-671 Es ist ein kompletter Parameter-/Kundenfunktionstest unter Temperaturwechselbedingungen (lt. VW 80000) durchzuführen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-671</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Es ist ein kompletter Parameter-/Kundenfunktionstest unter Temperaturwechselbedingungen (lt. VW 80000) durchzuführen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1034" data-type="Information" data-search="QS-Modul-1034 **Abbildung Temperatur - Zeitverlauf** Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1034</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**Abbildung Temperatur - Zeitverlauf**
+
+
+
+<figure class="req-figure" id="fig-1034_2_1">
+  <a href="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" alt="Abbildung 1034_2_1 (QS-Modul-1034)" loading="lazy" />
+  </a>
+  <figcaption>Abbildung <code>1034_2_1</code> · QS-Modul-1034 — <a href="../../docs/public/assets/EE%20Qualitaetssicherung_EXERPT_20160509/1034_2_1.png" target="_blank" rel="noopener">open full size</a></figcaption>
+</figure>
+
+
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-940" data-type="Anforderung" data-search="QS-Modul-940 Der Screening-Testumfang muss mindestens dem End-of-Line-Testumfang entsprechen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-940</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Der Screening-Testumfang muss mindestens dem End-of-Line-Testumfang entsprechen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-672" data-type="Anforderung" data-search="QS-Modul-672 Statistische Parameterauswertung in Abhängigkeit des Temperaturniveaus (z. B. Häufigkeitsverteilung Ruhestrom bei Tieftemperatur, Temperaturwechsel, Hochtemperatur) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-672</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Statistische Parameterauswertung in Abhängigkeit des Temperaturniveaus (z. B. Häufigkeitsverteilung Ruhestrom bei Tieftemperatur, Temperaturwechsel, Hochtemperatur)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-673" data-type="Anforderung" data-search="QS-Modul-673 Kennzeichnung Screeningdurchführung (EEPROM und Label) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-673</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Kennzeichnung Screeningdurchführung (EEPROM und Label)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Technische Rahmenbedingungen für den Prüfablauf
+
+<div class="req-card" id="QS-Modul-674" data-type="Überschrift" data-search="QS-Modul-674 Technische Rahmenbedingungen für den Prüfablauf Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-674</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Technische Rahmenbedingungen für den Prüfablauf</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-675" data-type="Anforderung" data-search="QS-Modul-675 Bei der Definition des Prüfablaufes im Screeningprozess muss individuell auf die Komponente und ihre spezifischen Eigenschaften eingegangen werden. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-675</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Bei der Definition des Prüfablaufes im Screeningprozess muss individuell auf die Komponente und ihre spezifischen Eigenschaften eingegangen werden.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-676" data-type="Anforderung" data-search="QS-Modul-676 1. Belastung aller Steuergeräteein- bzw. -ausgänge durch Simulation der realen Fahrzeugumgebung Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-676</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+1.	Belastung aller Steuergeräteein- bzw. -ausgänge durch Simulation der realen Fahrzeugumgebung
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-677" data-type="Anforderung" data-search="QS-Modul-677 2. Mechanische bzw. mechatronische Funktionsabläufe sind im Testumfang zu integrieren (z. B. Tasterbestätigung, Dreh-Drückfunktionen, CD(DVD)-Ein-/Ausschub, usw.) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-677</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+2.	Mechanische bzw. mechatronische Funktionsabläufe sind im Testumfang zu integrieren (z. B. Tasterbestätigung, Dreh-Drückfunktionen, CD(DVD)-Ein-/Ausschub, usw.)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-678" data-type="Anforderung" data-search="QS-Modul-678 3. Elektrischer Parametertest (z. B. EOL-Testablauf) unter den kritischen Temperaturbedingungen (Tief-, Raum-, Hochtemperatur) mit statistischer Datenerfassung/-auswertung. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-678</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+3.	Elektrischer Parametertest (z. B. EOL-Testablauf) unter den kritischen Temperaturbedingungen  (Tief-, Raum-, Hochtemperatur) mit statistischer Datenerfassung/-auswertung.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-679" data-type="Anforderung" data-search="QS-Modul-679 Folgende Prüfschritte müssen für &quot;3.&quot; durchgeführt und erfasst werden: Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-679</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+Folgende Prüfschritte müssen für "3." durchgeführt und erfasst werden:
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-680" data-type="Anforderung" data-search="QS-Modul-680 - Ruhestrommessung Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-680</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Ruhestrommessung
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-681" data-type="Anforderung" data-search="QS-Modul-681 - Betriebsströme in allen Betriebsmodi - Hochlaufverhalten - Abschaltverhalten - Wakeup-Verhalten Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-681</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Betriebsströme in allen Betriebsmodi
+-	Hochlaufverhalten
+-	Abschaltverhalten
+-	Wakeup-Verhalten
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-682" data-type="Anforderung" data-search="QS-Modul-682 - Betrieb im Grenzbereich - elektrisch (z. B. Frequenzen, Unter-/Überspannung nach Spezifikation - mechanisch (z. B. Ausführung von kundenrelevanten Funktionen) Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-682</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Betrieb im Grenzbereich
+-	elektrisch (z. B. Frequenzen, Unter-/Überspannung nach Spezifikation
+-	mechanisch (z. B. Ausführung von kundenrelevanten Funktionen)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-683" data-type="Anforderung" data-search="QS-Modul-683 - Betrieb im realen Fahrzeugumfeld (Nachbildung elektrischer Peripherie) - Input-Signale - Output-Signale Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-683</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Betrieb im realen Fahrzeugumfeld (Nachbildung elektrischer Peripherie)
+-	Input-Signale
+-	Output-Signale
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-684" data-type="Anforderung" data-search="QS-Modul-684 - Watchdog-Funktion Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-684</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Watchdog-Funktion
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-685" data-type="Anforderung" data-search="QS-Modul-685 - Quarz- und Prozessorstabilität Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-685</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+- Quarz- und Prozessorstabilität
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-686" data-type="Anforderung" data-search="QS-Modul-686 4. Temperaturprofile bzw. elektrische Ansteuersignale müssen den Prüffestlegungen nach BT-LAH Modul &quot;Erprobung&quot; entsprechen. Anforderung gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-686</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+4.	Temperaturprofile bzw. elektrische Ansteuersignale müssen den Prüffestlegungen nach BT-LAH Modul "Erprobung" entsprechen.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+### Definitionen, Begriffe, Abkürzungen
+
+<div class="req-card" id="QS-Modul-716" data-type="Überschrift" data-search="QS-Modul-716 Definitionen, Begriffe, Abkürzungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-716</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Definitionen, Begriffe, Abkürzungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Begriffe
+
+<div class="req-card" id="QS-Modul-718" data-type="Überschrift" data-search="QS-Modul-718 Begriffe Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-718</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Begriffe</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-899" data-type="Information" data-search="QS-Modul-899 **2-Tages-Produktion** siehe Formel-Q-Konkret Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-899</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**2-Tages-Produktion**
+siehe Formel-Q-Konkret
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1272" data-type="Information" data-search="QS-Modul-1272 **Bauteil:** Komponente, Steuergerät Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1272</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**Bauteil:**
+Komponente, Steuergerät
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-724" data-type="Information" data-search="QS-Modul-724 **BT-LAH-Modul:** Zum BT-LAH gehörender und in ein Modul ausgegliederter Inhalt Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-724</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**BT-LAH-Modul:**
+Zum BT-LAH gehörender und in ein Modul ausgegliederter Inhalt
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1273" data-type="Information" data-search="QS-Modul-1273 **(Elektronisches) Bauelement:** Elektronische Bauelemente wie Widerstände, Kondensatoren, Induktivitäten, ICs usw. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1273</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**(Elektronisches) Bauelement:**
+Elektronische Bauelemente wie Widerstände, Kondensatoren, Induktivitäten, ICs usw.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5794" data-type="Information" data-search="QS-Modul-5794 **Pseudofehler** In einem Prüfschritt angezeigter Fehler, der nicht auf den Prüfling zurückzuführen ist. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5794</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**Pseudofehler**
+In einem Prüfschritt angezeigter Fehler, der nicht auf den Prüfling zurückzuführen ist.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1397" data-type="Information" data-search="QS-Modul-1397 **Schaltungsträger:** Unbestückter Verdrahtungsträger für Elektronik allgemein (unbestückte Leiterplatte, Keramik, Leadframe, Flexband, Folie, ... ), siehe VW 80000. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1397</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**Schaltungsträger:**
+Unbestückter Verdrahtungsträger für Elektronik allgemein (unbestückte Leiterplatte, Keramik, Leadframe, Flexband, Folie, ... ), siehe VW 80000.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Abkürzungen
+
+<div class="req-card" id="QS-Modul-728" data-type="Überschrift" data-search="QS-Modul-728 Abkürzungen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-728</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Abkürzungen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-729" data-type="Information" data-search="QS-Modul-729 **3D** Dreidimensional Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-729</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**3D**
+Dreidimensional
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5784" data-type="Information" data-search="QS-Modul-5784 **AOI** Automatisches Optisches Inspektionssystem Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5784</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**AOI**
+Automatisches Optisches Inspektionssystem
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5826" data-type="Information" data-search="QS-Modul-5826 **AT** Arbeitstag(e) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5826</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**AT**
+Arbeitstag(e)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1408" data-type="Information" data-search="QS-Modul-1408 **BGA** Ball Grid Array Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1408</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**BGA**
+Ball Grid Array
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-731" data-type="Information" data-search="QS-Modul-731 **BT-LAH** Bauteil-Lastenheft Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-731</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**BT-LAH**
+Bauteil-Lastenheft
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5821" data-type="Information" data-search="QS-Modul-5821 **DoE** Design Of Experiments Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5821</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**DoE**
+Design Of Experiments
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5779" data-type="Information" data-search="QS-Modul-5779 **DVS** Deutscher Verband für Schweißen und verwandte Verfahren e. V. Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5779</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**DVS**
+Deutscher Verband für Schweißen und verwandte Verfahren e. V.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5824" data-type="Information" data-search="QS-Modul-5824 **EDS** Energy dispersive X-ray spectroscopy (Energiedispersive Röntgenspektroskopie) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5824</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**EDS**
+Energy dispersive X-ray spectroscopy (Energiedispersive Röntgenspektroskopie)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1276" data-type="Information" data-search="QS-Modul-1276 **ESD** Electrostatic discharge Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1276</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**ESD**
+Electrostatic discharge
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-737" data-type="Information" data-search="QS-Modul-737 **EOL** End of Line Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-737</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**EOL**
+End of Line
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-738" data-type="Information" data-search="QS-Modul-738 **FMEA** Failure mode and effects analysis Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-738</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**FMEA**
+Failure mode and effects analysis
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-743" data-type="Information" data-search="QS-Modul-743 **ICT** In Circuit Test Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-743</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**ICT**
+In Circuit Test
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1277" data-type="Information" data-search="QS-Modul-1277 **IPC** Association Connecting Electronics Industries Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1277</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**IPC**
+Association Connecting Electronics Industries
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5785" data-type="Information" data-search="QS-Modul-5785 **LCD** Liquid Crystal Display, Flüssigkristallanzeige Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5785</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**LCD**
+Liquid Crystal Display, Flüssigkristallanzeige
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5786" data-type="Information" data-search="QS-Modul-5786 **LED** Licht-emittierende Diode, Light-emitting diode Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5786</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**LED**
+Licht-emittierende Diode, Light-emitting diode
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5787" data-type="Information" data-search="QS-Modul-5787 **MOST** MOST Bus - Media Oriented Systems Transport (Optischer Ringbus) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5787</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**MOST**
+MOST Bus - Media Oriented Systems Transport (Optischer Ringbus)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5822" data-type="Information" data-search="QS-Modul-5822 **NTF** No Trouble Found (Kein Fehler feststellbar) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5822</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**NTF**
+No Trouble Found (Kein Fehler feststellbar)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5788" data-type="Information" data-search="QS-Modul-5788 **PVS** Produktions-Versuchs-Serie Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5788</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**PVS**
+Produktions-Versuchs-Serie
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1396" data-type="Information" data-search="QS-Modul-1396 **QFN** Quad Flat No-Leads Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-1396</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**QFN**
+Quad Flat No-Leads
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5790" data-type="Information" data-search="QS-Modul-5790 **QPN** Qualifizierungsprogramm Neuteile Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5790</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**QPN**
+Qualifizierungsprogramm Neuteile
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5823" data-type="Information" data-search="QS-Modul-5823 **SEM** Scanning Electron Microscopy (Rasterelektronenmikroskopie) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5823</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**SEM**
+Scanning Electron Microscopy (Rasterelektronenmikroskopie)
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-757" data-type="Information" data-search="QS-Modul-757 **SMD** Surface Mounted Device Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-757</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**SMD**
+Surface Mounted Device
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5789" data-type="Information" data-search="QS-Modul-5789 **SOP** Start of production Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5789</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**SOP**
+Start of production
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5796" data-type="Information" data-search="QS-Modul-5796 **THT** Through-hole technology Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5796</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**THT**
+Through-hole technology
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5827" data-type="Information" data-search="QS-Modul-5827 **VDA** Verband der Automobilindustrie Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5827</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**VDA**
+Verband der Automobilindustrie
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-763" data-type="Information" data-search="QS-Modul-763 **ZSB** Zusammenbau Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-763</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**ZSB**
+Zusammenbau
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+### Mitgeltende Unterlagen
+
+<div class="req-card" id="QS-Modul-764" data-type="Überschrift" data-search="QS-Modul-764 Mitgeltende Unterlagen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-764</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Mitgeltende Unterlagen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-766" data-type="Anforderung" data-search="QS-Modul-766 Es gelten die am Ausgabedatum des BT-LAH gültigen mitgeltenden Unterlagen, sowie die darin genannten Dokumente. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-766</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Es gelten die am Ausgabedatum des BT-LAH gültigen mitgeltenden Unterlagen, sowie die darin genannten Dokumente.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-767" data-type="Anforderung" data-search="QS-Modul-767 Der Auftragnehmer stellt sicher, jeweils mit den für dieses BT-LAH gültigen mitgeltenden Unterlagen zu arbeiten. Anforderung gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-767</code> <span class="badge badge-type"><code>Anforderung</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+Der Auftragnehmer stellt sicher, jeweils mit den für dieses BT-LAH gültigen mitgeltenden Unterlagen zu arbeiten.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-769" data-type="Information" data-search="QS-Modul-769 **Bezugsquelle:** Dokumente können über die B2B-Lieferantenplattform des Volkswagen Konzerns unter der Internetadresse: www.vwgroupsupply.com mit einer Zugangsberechtigung abgerufen werden. (Kontakt auch über Hotline Deutschland: 0800/193 30 99 bzw. International: +49-5361-933099 oder e-Mail: supplierintegration@vwgroupsupply.com ) Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-769</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**Bezugsquelle:**
+Dokumente können über die B2B-Lieferantenplattform des Volkswagen Konzerns unter der Internetadresse: www.vwgroupsupply.com mit einer Zugangsberechtigung abgerufen werden. (Kontakt auch über Hotline Deutschland: 0800/193 30 99 bzw. International: +49-5361-933099 oder e-Mail: supplierintegration@vwgroupsupply.com )
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+#### Technische Spezifikationen
+
+<div class="req-card" id="QS-Modul-771" data-type="Überschrift" data-search="QS-Modul-771 Technische Spezifikationen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-771</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Technische Spezifikationen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1711" data-type="Information" data-search="QS-Modul-1711 **DIN EN 61340-5-1** Schutz von elektronischen Bauelementen gegen elektrostatische Phänomene - Allgemeine Anforderungen Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1711</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**DIN EN 61340-5-1**
+Schutz von elektronischen Bauelementen gegen elektrostatische Phänomene - Allgemeine Anforderungen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1712" data-type="Information" data-search="QS-Modul-1712 **DIN EN 61340-5-1 BEIBLATT 1** Schutz von elektronischen Bauelementen gegen elektrostatische Phänomene - Benutzerhandbuch (IEC/TR 61340-5-2:2007); Deutsche Fassung CLC/TR 61340-5-2:2008 Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1712</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**DIN EN 61340-5-1 BEIBLATT 1**
+Schutz von elektronischen Bauelementen gegen elektrostatische Phänomene - Benutzerhandbuch (IEC/TR 61340-5-2:2007); Deutsche Fassung CLC/TR 61340-5-2:2008
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-869" data-type="Information" data-search="QS-Modul-869 **Formel Q** Konzern-Richtlinien der Qualitätssicherung Beschaffung: Formel Q-Konkret, -Neuteile integral, -Fähigkeit Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-869</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**Formel Q**
+Konzern-Richtlinien der Qualitätssicherung Beschaffung: Formel Q-Konkret, -Neuteile integral, -Fähigkeit
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1058" data-type="Information" data-search="QS-Modul-1058 **VW 60330** Crimpverbindungen; Lötfreie elektrische Verbindungen Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1058</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**VW 60330**
+Crimpverbindungen; Lötfreie elektrische Verbindungen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5782" data-type="Information" data-search="QS-Modul-5782 **VW 80000** Elektrische und elektronische Komponenten in Kraftfahrzeugen bis 3,5t. Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5782</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**VW 80000**
+Elektrische und elektronische Komponenten in Kraftfahrzeugen bis 3,5t.
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-1106" data-type="Information" data-search="QS-Modul-1106 **VW 80131** Anforderungen an die Lieferanten an die Rückverfolgbarkeit von elektrischen und elektronischen Bauteilen Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-1106</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**VW 80131**
+Anforderungen an die Lieferanten an die Rückverfolgbarkeit von elektrischen und elektronischen Bauteilen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Typprüfunterlagen, Vorschriften, Gesetze
+
+<div class="req-card" id="QS-Modul-787" data-type="Überschrift" data-search="QS-Modul-787 Typprüfunterlagen, Vorschriften, Gesetze Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-787</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Typprüfunterlagen, Vorschriften, Gesetze</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5504" data-type="Information" data-search="QS-Modul-5504 **IPC-A-600** Abnahmekriterien für Leiterplatten Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5504</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**IPC-A-600**
+Abnahmekriterien für Leiterplatten
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5507" data-type="Information" data-search="QS-Modul-5507 **IPC-A-610** Abnahmekriterien für elektronische Baugruppen Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5507</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**IPC-A-610**
+Abnahmekriterien für elektronische Baugruppen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5505" data-type="Information" data-search="QS-Modul-5505 **IPC-7711** Nachbesserung von elektronischen Baugruppen Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5505</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**IPC-7711**
+Nachbesserung von elektronischen Baugruppen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5765" data-type="Information" data-search="QS-Modul-5765 **IPC-7721** Reparatur und Modifikation von Leiterplatten und elektronischen Baugruppen Information gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-5765</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span></div>
+
+**IPC-7721**
+Reparatur und Modifikation von Leiterplatten und elektronischen Baugruppen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5766" data-type="Information" data-search="QS-Modul-5766 **IPC-TM-650** Prüfmethoden für elektronische Produkte Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5766</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**IPC-TM-650**
+Prüfmethoden für elektronische Produkte
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5825" data-type="Information" data-search="QS-Modul-5825 **ISO/IEC 17025** General requirements for the competence of testing and calibration laboratories Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5825</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**ISO/IEC 17025**
+General requirements for the competence of testing and calibration laboratories
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5777" data-type="Information" data-search="QS-Modul-5777 **J-STD001** Anforderungen an gelötete Baugruppen Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5777</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**J-STD001**
+Anforderungen an gelötete Baugruppen
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5778" data-type="Information" data-search="QS-Modul-5778 **J-STD004** Anforderungen an Flussmittel Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5778</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**J-STD004**
+Anforderungen an Flussmittel
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+<div class="req-card" id="QS-Modul-5828" data-type="Information" data-search="QS-Modul-5828 **MIL STD 883 J, Method 5003** Failure Analysis Procedures for Microelectronic Circuits Information gültig to evaluate to clarify">
+<div class="req-head"><code>QS-Modul-5828</code> <span class="badge badge-type"><code>Information</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: to evaluate</span> <span class="badge">Lieferant: to clarify</span></div>
+
+**MIL STD 883 J, Method 5003**
+Failure Analysis Procedures for Microelectronic Circuits
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | to evaluate |
+| Status Lieferant | to clarify |
+
+</div>
+
+#### Sonstige Unterlagen
+
+<div class="req-card" id="QS-Modul-807" data-type="Überschrift" data-search="QS-Modul-807 Sonstige Unterlagen Überschrift gültig accepted agreed">
+<div class="req-head"><code>QS-Modul-807</code> <span class="badge badge-type"><code>Überschrift</code></span> <span class="badge badge-valid ok">gültig</span> <span class="badge">VW: accepted</span> <span class="badge">Lieferant: agreed</span> — <strong>Sonstige Unterlagen</strong></div>
+
+| | |
+|---|---|
+| Gültigkeit | gültig |
+| Status VW | accepted |
+| Status Lieferant | agreed |
+
+</div>
+
+---
+*Original: RIF `EE Qualitaetssicherung_EXERPT_20160509.xml` · DOORS-Export vom 2016-05-17T11:57:46+02:00. OLE-Objekte (Word/Excel/Paint) wurden originalgetreu als PNG eingebettet (Bitmap-DIBs 1:1, Vektor-WMF als saubere Nachzeichnung inkl. Transkription); Originale sind pro Abbildung verlinkt.*

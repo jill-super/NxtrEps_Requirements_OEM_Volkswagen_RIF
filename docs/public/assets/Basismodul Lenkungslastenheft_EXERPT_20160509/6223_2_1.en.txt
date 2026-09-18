@@ -1,0 +1,102 @@
+Criterion A-pattern B-pattern C-pattern PVS-pattern Serial-pattern
+-Data base complete
+- binding data base is fulfilled
+fully implemented fully implemented and
+Prototype status(except for disabling of
+- CAN -LH is complete and all series relevant all series relevant
+The vehicle shall be operated in a networked manner.
+Networking implements amendments and amendments and
+document with tools if necessary)
+- in case of CAN signal failure problem reports are problem reports
+be possible-Send messages
+must include a defined incorporated
+Format-compliant
+Replacement reaction
+Basic diagnosis consisting fully implemented fully implemented and
+-Basic error paths are
+Self-diagnosis of error entries, and all series relevant all series relevant
+implemented
+scope (faile parameter adjustment and 100% implemented amendments and amendments and
+-Defect replacement measures of this
+safe concept)Measures about a problem reports are problem reports
+Paths are implemented
+Development tool incorporated
+fully implemented fully and
+and all series relevant all series relevant
+50%, e.g. SGIdent,
+KD diagnosis not implemented 100% implemented amendments and amendments and
+Read and delete error memory
+Problem reports are problem reports are
+incorporated
+-complete implementation of -complete -complete
+Functions (as in - all production and implemented and all implemented and all
+- Implementation of all maturity acceptance plan to customer-relevant series-relevant series-relevant
+Basic functions Time required) Scopes implemented Amendments Amendments
+Extent-Explanation of the -variant encoding function scope and problem reports and problem reports
+Feasibility - complete range of functions is equivalent to that are incorporated
+for the operation of the mechanical series scope - if necessary adaptation of - if necessary adaptation of the
+Components in the systemApplication dataApplication data
+- complete system FMEA
+- rudimentary
+The
+security functions;
+Electrical/electronic
+like the limit
+Control units and mechanical
+of signals or The hardware and
+Components with regard to the fully implemented Fully implemented
+Streams Software security concept
+Implementation defined scope and all and all series relevant and all series relevant
+-FMEA is fundamental in terms of
+Security-related amendments and amendments; and
+Considerations on error detection and
+concept requirements problem reports are problem reports are
+Hardware error handling
+-Implementation of safety concept incorporated
+Security concept is fully implemented.
+with fault detection,
+on the basis of the planned
+Plausibilisation and
+Architecture
+Error handling for the TOP-
+Completed
+Events
+Prototype (consisting and constructed) fully
+a concept model for the switching technology to the standard
+Of serial tools of serial tools
+Display of the standard condition corresponding to at least
+and from chained and chained
+basic function), - electrical/electronic series-like
+Hardware Series production processesSeries production processes
+which must be manufactured in an ECU with regard to tools
+n manufactured
+dissolved design of layout, dimensions and series production processes
+several individual parts plugs not mandatory to the standard condition
+The need for a
+the total test sizes
+-complete implementation of the
+cover the complete
+defined test processes
+Production levels:
+-implementation of
+-System integration tests
+Regressive
+on target system and in
+The
+the target environment
+System integration tests Product validation (PV) successful completion
+Test- Detection of life-span and/or life-span
+- preliminary EMC tests based on the the series system in the development
+General functions Robustness tests in form
+Proximity to series production
+environmental tests, such as:
+- Prior networking tests
+Climate, temperature and
+- pre-diagnosis tests of the already
+Mechanical
+Implementation
+Load cycles are:
+-if necessary, start of the
+completed.
+Continuous test
+-Proof of function

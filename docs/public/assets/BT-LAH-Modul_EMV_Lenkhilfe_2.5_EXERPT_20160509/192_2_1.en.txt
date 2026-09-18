@@ -1,0 +1,8 @@
+Characteristics Characteristics
+Working frequencies used(acti)
+[MHz]
+Bar Modulation
+yes/no
+(Spread Spectrum)
+Microcontroller with synchronous / parallel / serial
+external bus mode clock frequency f [MHz] =

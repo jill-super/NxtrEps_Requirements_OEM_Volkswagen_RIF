@@ -1,0 +1,17 @@
+Classification: Applicable to How to add / specify
+TL: TL
+defined
+Function statusTL81000, x All functions must be specified according to the functional load specification
+A to C Chapter "Pulse"
+must be accompanied by the EMC and system manager
+The Commission is not prepared to accept this.
+If no vote has been taken, the standard
+Condition A.
+Category 1 to 3 TL81000 x The classification of functions of a component; or
+(FPSC) Chapter "Strengthening of a system and effects occurring in the
+and ‘ESD' categories, the only
+The latest available data on the vehicle manufacturer's
+Effect fixed.
+If for a function or effect no
+The category is generally classified in category 3
+The Commission has been involved in the implementation of the programme.

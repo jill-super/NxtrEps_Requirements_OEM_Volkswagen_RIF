@@ -1,0 +1,13 @@
+AbkürzungBedeutung
+EWP Prüfgelände Ehra -Wechselkurs für PKW
+EVP Prüfgelände Ehra -verschärfter Kurs für PKW
+RSD Rennstrecken Dauerlauf
+HLP Heiss-Land-Piste (Erprobung in heißem Klima auf
+schlechten Wegen)
+BE Breiten -Erprobung (kundennaher
+Fahrzeugbetrieb)
+EEK Prüfgelände Ehra -Elektrik-Kurs
+WL Warm-Land (Erprobung in heißem Klima)
+KL Kalt-Land (Erprobung in kaltem Klima)
+EK Prüfgelände Ehra -Korrosionskurs
+EP Entwicklungsprüfkatalog

@@ -1,0 +1,5 @@
+Group - Load books for CAN systems
+LIN Group debits bulletin
+MOST Group Property Bulletin
+Flexray Group Property Book
+Group Property Issue Ethernet/IP Communication

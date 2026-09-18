@@ -1,0 +1,36 @@
+---
+title: "EPS Specifications (RIF) \u2014 Documentation"
+description: "All DOORS RIF modules, bilingual, with figures"
+sidebar: {"order": 1}
+---
+# EPS Specifications (RIF) — Documentation
+
+:::note
+Default language **English**. Official DOORS English is used where present; remaining objects carry a yellow **MT** badge (machine-translated from German with Helsinki MT + automotive glossary). Switch to **DE** for the German original.
+:::
+
+| Module | Objects | Requir. | Figs | EN offic. |
+|---|---|---|---|---|
+| [General Functional-Safety Requirements](./funktionale-sicherheit/) | 31 | 22 | 0 | 58% + MT |
+| [General Software Requirements](./software-anforderungen/) | 381 | 268 | 8 | 98% + MT |
+| [General Electrical Requirements](./elektrische-anforderungen/) | 148 | 108 | 7 | 97% + MT |
+| [Component Spec — EMC Power Steering 2.5](./emv-lenkhilfe/) | 141 | 93 | 15 | 100% + MT |
+| [Base Module — Steering Specification](./basismodul-lenkung/) | 1034 | 723 | 20 | 11% + MT |
+| [EE Quality Assurance](./ee-qualitaetssicherung/) | 237 | 147 | 1 | 0% + MT |
+| [Testing — Electrics & Electronics](./erprobung-elektrik-elektronik/) | 65 | 39 | 6 | 97% + MT |
+| [Testing — Mechanics](./erprobung-mechanik/) | 44 | 14 | 6 | 93% + MT |
+| [Testing — SiL](./erprobung-sil/) | 28 | 16 | 0 | 100% + MT |
+| [Testing — Software Functions](./erprobung-software-funktion/) | 175 | 143 | 4 | 100% + MT |
+| [Component Spec — iLWS](./lah-ilws/) | 88 | 62 | 1 | 100% + MT |
+| [Steering-Torque Sensing](./lenkmomentenerfassung/) | 56 | 40 | 4 | 100% + MT |
+| [Mechanics — Steering Gear](./mechanik-lenkgetriebe/) | 171 | 104 | 14 | 94% + MT |
+| [Applicable Documents](./mitgeltende-unterlagen/) | 178 | 177 | 0 | 96% + MT |
+| [ECU and Motor](./steuergeraet-motor/) | 90 | 46 | 3 | 83% + MT |
+| [Material Requirements](./werkstoffanforderungen/) | 155 | 104 | 0 | 0% + MT |
+
+## Fidelity notes
+- Order = DOORS spec hierarchy (like the Word export).
+- `Überschrift` → real Markdown headings (TOC/search); otherwise requirement cards with ID anchors `#L_…`.
+- OLE: bitmap DIBs pixel-exact; vector WMF (Word/Excel tables) re-rendered readably + transcribed (EN transcriptions machine-translated) + original download.
+- English: official DOORS EN preferred; yellow **MT** badge = Helsinki-NLP/opus-mt-de-en + automotive glossary (type `MT` in the filter to list them).
+- Filter box on every page (ID/text/type). Print CSS for Word-like printing. Deep-link any requirement via `#<Object-ID>`.

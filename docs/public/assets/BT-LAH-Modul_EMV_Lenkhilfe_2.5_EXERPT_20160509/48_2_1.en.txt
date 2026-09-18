@@ -1,0 +1,5 @@
+ProcedureRadio frequency application
+[MHz]
+Antenna 200 -3000 1
+BCI 0,1-400 1
+Strip line0,1-400 2

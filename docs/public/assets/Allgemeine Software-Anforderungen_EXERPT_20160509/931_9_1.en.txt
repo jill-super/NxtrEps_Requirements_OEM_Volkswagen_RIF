@@ -1,0 +1,18 @@
+Abbreviation Meaning
+ASIL Automotive Safety Integrity Level
+CPU Central Processing Unit
+DSR Driver Steering Recommendation
+EEPROM Electrically Erasable Programmable Read-Only Memory
+FMEA Failure Modes and Effects Analysis
+FMEDA Failure Modes, Effectsand Diagnostic Analysis
+HCA Heading Control Assist
+HiL Hardware In the Loop
+MSC Message Sequence Chart
+ODX Open Diagnostic data Exchange
+PLA Park Assist
+RAM Random Access Memory
+ROM Read Only Memory
+SIL Safety Integrity Level
+SiL Software In the Loop
+TSC Torque Steer Compensation
+UDS Diagnostic protocol

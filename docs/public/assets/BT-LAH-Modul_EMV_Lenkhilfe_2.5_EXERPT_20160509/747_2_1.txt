@@ -1,0 +1,9 @@
+X Prüfung/Prüfmethode
+1 Störaussendung auf Versorgungsleitungen
+2 Störfestigkeit von Versorgungsleitungseingängen
+3 Störfestigkeit von Sensorleitungseingängen
+4 Leitungsgebundene Störaussendung
+5 Gestrahlte Störaussendung
+6 Eingestrahlte Störungen
+7 ESD (jeweils Packaging und Handling sowie Systemebene direkt und indirekt)
+8 Prüfung gegenüber Magnetfeldern

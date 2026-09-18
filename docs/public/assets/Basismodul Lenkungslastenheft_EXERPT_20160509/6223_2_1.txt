@@ -1,0 +1,102 @@
+Kriterium A-Muster B-Muster C-Muster PVS-Muster Serienmuster
+-Datenbasis vollständig
+-verbindliche Datenbasis ist erfüllt
+umgesetzt vollständig umgesetzt vollständig umgesetzt und
+Prototypenstatus,(Ausnahmen bei Deaktivieren von
+- CAN -LH ist vollständig und alle serienrelevanten alle serienrelevanten
+Betrieb im Fahrzeug muss vernetzten Funktionen sind zu
+Vernetzung umgesetztÄnderungsanträge und Änderungsanträge und
+ggf. mit Hilfsmitteln dokumentieren)
+- bei CAN-Signalausfall Problemreports sind Problemreports sind
+möglich sein-Sendebotschaften werden
+muss eine definierte eingearbeiteteingearbeitet
+formatgerecht geschickt
+Ersatzreaktion eintreten
+Basisdiagnose bestehend vollständig umgesetzt vollständig umgesetzt und
+-Basisfehlerpfade sind
+Eigendiagnose- aus Fehlereinträgen, und alle serienrelevanten alle serienrelevanten
+implementiert
+umfang (Faile Parameterverstellung und 100% umgesetzt Änderungsanträge und Änderungsanträge und
+-Fehlerersatzmaßnahmen dieser
+safe Konzept)Messen über ein Problemreports sind Problemreports sind
+Pfade sind implementiert
+Entwicklungswerkzeug eingearbeiteteingearbeitet
+vollständig umgesetzt vollständig umgesetzt und
+und alle serienrelevanten alle serienrelevanten
+zu 50% umgesetzt, z.B. SGIdent,
+KD-Diagnosenicht umgesetzt 100% umgesetzt Änderungsanträge und Änderungsanträge und
+Fehlerspeicher lesen und löschen
+Problemreports sind Problemreports sind
+eingearbeiteteingearbeitet
+-vollständige Umsetzung der -Vollständig -Vollständig
+Funktionen (wie im - alle produktions- und umgesetzt und alle umgesetzt und alle
+- Implementation aller Reifegradabnehmeplan zum kundenrelevanten serienrelevanten serienrelevanten
+Funktions- Grundfunktionen Zeitpunkt geforderter Umfang) Umfänge sind umgesetztÄnderungsanträge Änderungsanträge
+umfang-Darstellung der -Variantencodierung-Funktionsumfang und Problemreports und Problemreports
+Machbarkeit - vollständiger Funktionsumfang entspricht dem sind eingearbeitetsind eingearbeitet
+für den Betrieb der mechanischen Serienumfang- ggf. Anpassung der - ggf. Anpassung der
+Komponenten im SystemApplikationsdatenApplikationsdaten
+- vollständige System-FMEA
+-rudimentäre
+Betrachtung für die
+Sicherheitsfunktionen,
+elektrischen/elektronischen
+wie die Begrenzung
+Steuergeräte und mechanischen
+von Signalen oder Das Hardware- und
+Komponenten bezüglich des Vollständig umgesetzt Vollständig umgesetzt
+Strömen Software-Sicherheitskonzept
+Umsetzung definierten Umfangs und aller und alle serienrelevanten und alle serienrelevanten
+-grundlegende FMEA ist hinsichtlich
+Sicherheits- daraus resultierenden Änderungsanträge und Änderungsanträge und
+Betrachtungen bzgl. Fehlererkennung und
+konzept Anforderungen Problemreports sind Problemreports sind
+des Hardware- Fehlerbehandlung
+-Umsetzung Sicherheitskonzept eingearbeiteteingearbeitet
+Sicherheitskonzepts ist vollständig umgesetzt.
+mit Fehlererkennung,
+auf Basis der geplanten
+Plausibilisierung und
+Architektur
+Fehlerbehandlung für die TOP-
+abgeschlossen
+Events
+Prototyp (entsprechend -konstruktiv und -entspricht vollständig
+eines Konzeptmusters zur schaltungstechnisch dem dem Serienstand
+aus Serienwerkzeugen aus Serienwerkzeugen
+Darstellung der Serienstand entsprechend- mindestens aus
+und aus verketteten und aus verketteten
+grundsätzlichen Funktion), - elektrische/elektronische serienähnlichen
+Hardware SerienfertigungsprozesseSerienfertigungsprozesse
+welcher in einer Steuergeräte müssen hinsichtlich Werkzeugen gefertigt
+n gefertigtn gefertigt
+aufgelösten Bauweise aus Layout, Abmessungen und dem -Serienfertigungsprozesse
+mehreren Einzelteilen Stecker dem Serienstand nicht zwingend
+bestehen kannentsprechen notwendig
+die gesamten Testumfänge
+-vollständige Umsetzung der
+decken den kompletten
+definierten Testprozesse
+Serienstand ab:
+-Implementierung von
+-Systemintegrationstests
+regressionsfähigen
+auf Zielsystem und in
+Komponenten- und
+der Zielumgebung
+Systemintegrationstests Produktvalidierung (PV) erfolgreicher Abschluss
+Test- Nachweis der -Lebensdauer- bzw.
+- Vorab-EMV -Tests auf Basis der des Seriensystems im der entwicklungsbe-
+umfängeGrundfunktionen Robustheitstests in Form
+seriennahen KomponentenZielfahrzeuggleitenden Dauerläufe
+von Umwelttests, wie
+- Vorab-Vernetzungstests
+Klima -, Temperatur- und
+- Vorab-Diagnosetests des bereits
+mechanischen
+implementierten Umfanges
+Belastungszyklen sind
+-ggf. Beginn der
+abgeschlossen.
+Dauerlauferprobung
+-Nachweis der Funktion

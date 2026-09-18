@@ -1,0 +1,15 @@
+KategorieAnstiegs- und Anstiegs- und Beurteilung
+AbfallgeschwindigkeitAbfallgeschwindigkeit
+Spannung [dU/dt] Strom [dI/dt]
+1 | dU/dt | 200 mV/µs | dI/dt |20 mA/µs Zulässig
+2 0,2 V/µs < | dU/dt | 10 20 mA/µs < | dI/dt | 100 mA/µs kritisch,
+V/µsanzeigepflichtig
+3 | dU/dt |> 10V/µs | dI/dt |> 100 mA/µs nur in Ausnahmefällen
+nach Freigabe zulässig
+Kategorie 2: Signale der Kategorie 2 müssen angezeigt werden, um z.B. Kabelbaumlagen in Antennennähe
+zu vermeiden oder andere Maßnahmen einplanen zu können (Verdrillung, Package, etc.).
+Kategorie 3: Diese Signale dürfen innerhalb von Steuergeräten verwendet werden. Ist eine Verletzung der
+Flankensteilheitsbeschränkung außerhalb der Komponente aus funktionalen Gründen
+unumgänglich, sind wirksame Maßnahmen gegen diese Störungen zu entwickeln und deren
+Wirkung nachzuweisen. Alle Maßnahmen erfordern eine Freigabe durch die EMV-
+Fachabteilung.

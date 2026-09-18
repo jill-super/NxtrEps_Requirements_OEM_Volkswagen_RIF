@@ -1,0 +1,9 @@
+X Test / Test method
+1 Disruption on supply lines
+2 Immunity of supply line inputs
+3 Immunity of sensor line inputs
+4 Lined interference transmission
+5 Radioactive emission
+6 Irradiation
+7 ESD (both packaging and handling as well as system level directly and indirectly)
+8 Test against magnetic fields

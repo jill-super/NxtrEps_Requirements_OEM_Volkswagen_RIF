@@ -1,0 +1,12 @@
+Frequenz Betriebssystem, das gestört werden könnte
+[MHz ]
+4,10 Duplexabstand 31,7 MHz bis 41 MHz Funkgeräte
+4,60 Duplexabstand 2m Band (auch 65.85 MHz, Länderspezifisch)
+5,00 TV-Bild Tonträgerabstand *)
+7,60 Duplexabstand 70 cm Amateurfunk
+9,80 Duplexabstand 4m Band (Polizei, Feuerwehr, Betriebsfunk)
+10,00 Duplexabstand 2m Band
+10,70 Zwischenfrequenz Funkgeräte und Radios *)
+21,40 Zwischenfrequenz Funkgeräte
+45,00 D -Netz Telefon, Kurzbereich-Funk
+55,00 Duplexabstand J-Tax

@@ -1,0 +1,6 @@
+AbkürzungBedeutung
+RL Rechtslenker(-Ausführung)
+LL Linkslenker(-Ausführung)
+AW Anziehverfahren drehwnkelgesteuert manuell
+MVA Voranziehmoment
+WA Anziehwinkel überdrehen

@@ -1,0 +1,3 @@
+AbbreviationDefinition
+RHD Right-hand drive (version)
+LHD Left-hand drive (version)

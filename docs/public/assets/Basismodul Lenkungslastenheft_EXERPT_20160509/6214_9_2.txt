@@ -1,0 +1,6 @@
+Picture -Translation:
+Parameter-Freeze Parameter freeze
+L2 OEM L2 OEM
+FachbereichsfreigabeDepartment release
+1. Lieferung 1st delivery
+L1* L1*

@@ -1,0 +1,4 @@
+Frequency Minimization of subjective influence on AM radio reception
+[kHz]
+n * 4,5 For channel grids 9 kHz (RdW)
+n * 5.0 For channel grids 10 kHz (NAR)

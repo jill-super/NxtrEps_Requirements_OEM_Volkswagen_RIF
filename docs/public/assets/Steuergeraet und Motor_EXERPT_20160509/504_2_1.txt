@@ -1,0 +1,7 @@
+Begriff Bedeutung
+AEC Automotive Electronic Counsil (US-amerikanische
+Normungsgremium für den Automobil-Bereich)
+AEC-Q100 Robustheitstests für Integrierte mikroelektronische
+Schaltungen (IC)
+AEC-Q101 Robustheitstests für diskrete Halbleiter
+AEC-Q200 Robustheitstests für passive Bauelemente

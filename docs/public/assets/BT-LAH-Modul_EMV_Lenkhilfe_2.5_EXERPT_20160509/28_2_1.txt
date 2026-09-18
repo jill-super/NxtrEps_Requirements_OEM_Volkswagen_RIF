@@ -1,0 +1,10 @@
+PrüfimpulsFunktionszustandErgänzungen/ Konkretisierungen
+1 C (A) Eine Prüfung ohne 200 ms Spannungsabschaltung ist möglich,
+dann gilt Funktionszustand A.
+Wenn das Gerät über Kl. 30 betrieben wird und beim Abschalten
+der Zündung in Betrieb bleibt, so sind alle betroffenen Eingänge
+(z.B. Kl. 15, Kl. 75, Kl. 58d) mit 200 ms zu testen.
+6 A
+2 A
+3a A
+3b A

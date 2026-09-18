@@ -1,0 +1,5 @@
+TL 81000 EMC of motor vehicle electronics components
+ECE R10EMV Motor Vehicle Directive
+CISPR 25 vehicles, boats and internal combustion engines -
+Radio interference properties - Limit values and measurement methods for the protection of an
+On-board receivers

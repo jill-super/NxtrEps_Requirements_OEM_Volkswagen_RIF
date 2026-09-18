@@ -1,0 +1,33 @@
+Release
+Area of applicationQualification of driverSystem performance
+level
+Use in the laboratory
+environment on SiL/HiL test
+Only by the steering specialist
+bedsor use in the vehicle only as Risk-free initial operation,
+and specialized driver from the
+1 part of department tests on the safety-critical driving
+corresponding department (at
+proving grounds while conditions are possible
+least prototype driver's license C)
+employing corresponding safety
+measures
+There is a high probability
+that the system operates in
+During the road test on closed
+Trained driver for prototype the vehicle environment and
+proving grounds including in
+2 testing (at least prototype driver's that it has no negative effect
+areas other than the
+license C)onother vehicle functions,
+corresponding department
+allowing the driver to safely
+manage faulty states
+A system malfunction does
+During the road test on public Authorized driver instructed in
+3 not lead to a violation of the
+roads vehicle testing and protection
+road traffic regulations
+Normal driver having no Series production version for
+4 Public roads
+additional qualificationsend customer

@@ -1,0 +1,10 @@
+Messwert Measured value
+RegressionsgeradeRegression line
+LinearitätsfehlerLinearity error
+(Abweichung von Regr.-Gerade) (deviation from the regression line)
+Offsetfehler Offset fault
+Messgröße Measurand
+NominalkennlinieNominal characteristic curve
+EmpfindlichkeitsfehlerSensitivity error
+Äs Äs
+Hysterese Hysteresis

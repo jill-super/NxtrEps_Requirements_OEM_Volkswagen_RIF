@@ -1,0 +1,6 @@
+Test pulseFunctional stateTesting procedures with additions/
+Concretements
+1 A BCI
+2 A BCI
+3a A coupling tongs
+3b A coupling tongs

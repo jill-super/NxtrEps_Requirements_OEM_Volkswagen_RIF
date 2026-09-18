@@ -1,0 +1,10 @@
+Test pulseFunctional stateSupplements/concretes
+1 C (A) A test without 200 ms voltage shut-off is possible,
+then functional state A applies.
+If the device is operated via Kl. 30 and when switching off
+the ignition remains in operation, all the affected inputs are
+(e.g. Kl. 15, Kl. 75, Kl. 58d) with 200 ms.
+6 A
+2 A
+3a A
+3b A

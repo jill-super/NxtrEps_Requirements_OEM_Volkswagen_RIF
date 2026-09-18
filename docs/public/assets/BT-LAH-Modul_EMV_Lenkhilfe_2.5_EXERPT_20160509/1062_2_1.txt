@@ -1,0 +1,42 @@
+AMPSAdvanced Mobile Phone System
+AVAverage Detektor
+ANArtificial network (Bordnetznachbildung)
+BCIBulk Current Injection
+BNNBordnetznachbildung
+BOSBehörden und Organisationen mit Sicherheitsaufgaben
+BT-LAH Bauteil-Lastenheft
+CANController Area Network
+CBCitizen’s Band
+CDMACode Division Multiple Access
+CISPRInternational Commitee on Radio Interference
+DABDigital Audio Broadcasting
+DVB-T Digital Video Broadcasting - Terrestrial
+EMVElektromagnetische Verträglichkeit
+ESDElectrostatic Discharge
+GPSGlobal Positioning System
+GSMGlobal System for Mobile Communication
+HVHochvolt / high voltage
+IBISInput/Output Buffer Information Specification
+IMT-2000 International Mobile Telecommunications – 2000 (3. Generation)
+ISM / SRD Industrial, Scientific and Medical Band / Short Range Device
+KWKurzwelle
+LINLocal Interconnect Network
+LTELong Term Evolution (4G 4. Generation Mobilfunk)
+LWLangwelle
+MOSTMedia Oriented System Transport
+MWMittelwelle
+PPeak Detektor
+PDCPersonal Digital Communication
+PMPuls Modulation
+PWM Puls-Weiten-Modulation
+QP Quasi-Peak Detektor
+SDARSSatellite Digital Audio Radio Services
+SPICESoftware Process Improvement and Capability determination
+TEM Transversal-Elektromagnetischer-Mode
+TETRATerrestrial Trunked Radio (Bündelfunk)
+TLTechnische Lieferbedingung
+TVTelevision
+UKWUltrakurzwelle
+UMTSUniversal Mobile Telecommunications System
+WDCMAWideband CDMA
+WLANWireless LAN

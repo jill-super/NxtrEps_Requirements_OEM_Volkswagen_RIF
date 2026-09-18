@@ -1,0 +1,11 @@
+AbbreviationMeaning
+EWP Ehra PG cycle course for passenger cars
+EPP Ehra PG elimination course for passenger cars
+RSD Racecourse endurance test
+HLP Hot country track (testing in a hot climate on poor roads)
+BE Extended testing program (customer-oriented vehicle operation)
+EEK Ehra proving grounds electrics course
+WL Hot country (testing in a hot climate)
+KL Cold country (testing in a cold climate)
+EK Ehra proving grounds corrosion course
+EP Development Test Specification Catalog

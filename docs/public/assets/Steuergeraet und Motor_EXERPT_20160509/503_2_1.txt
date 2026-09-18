@@ -1,0 +1,11 @@
+AbkürzungBedeutung
+MLCC MultiLayer Ceramic Capacitor
+CAN -FD Controller Area NetworkFlexible Datarate
+CPU Central Processing Unit
+ROM Read Only Memory
+RAM Random Access memory
+ASIC Application Specific Integrated Circuit
+R-/C-EPS Rack-/Column-Elektric Power Steering
+HW Hardware
+iLWS integrierter Lenkwinkelsensor
+BT -LAH Bauteil-Lastenheft

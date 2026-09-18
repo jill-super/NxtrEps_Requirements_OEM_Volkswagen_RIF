@@ -1,0 +1,4 @@
+Frequenz Minimierung des subjektiven Einflusses auf AM Radioempfang
+[kHz]
+n * 4,5 Für Kanalraster 9 kHz (RdW)
+n * 5,0 Für Kanalraster 10 kHz (NAR)

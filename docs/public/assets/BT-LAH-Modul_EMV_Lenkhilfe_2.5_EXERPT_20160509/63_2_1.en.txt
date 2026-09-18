@@ -1,0 +1,15 @@
+CategoryUprising and Uprising and Assessment
+Waste speedWaste speed
+Voltage [dU/dt] Current [dI/dt]
+1
+2 0.2 V/μs <
+V/μs notifiable
+3
+Approved after release
+Category 2: Category 2 signals must be displayed to, for example, wire harnesses near antennas
+to avoid or to plan other measures (drilling, package, etc.).
+Category 3: These signals may be used within ECUs.
+Partial flanking restriction outside the component for functional reasons
+In order to ensure that the measures taken to combat these disturbances are effective, the Commission shall:
+All measures require approval by the EMC
+Department.

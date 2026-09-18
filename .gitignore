@@ -1,0 +1,12 @@
+# docs build / deps
+docs/node_modules/
+docs/dist/
+docs/.astro/
+
+# python
+tools/__pycache__/
+__pycache__/
+*.pyc
+
+# local scratch
+/tmp/

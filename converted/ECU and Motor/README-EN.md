@@ -1,0 +1,1500 @@
+---
+title: "ECU and Motor"
+description: "DOORS RIF excerpt 2016-05-09 \u00b7 90 objects \u00b7 3 figures (EN default, DE original)"
+sidebar: {"order": 24}
+---
+# ECU and Motor
+
+:::note
+Default language is **English**. Official DOORS English is used where present (75/90 objects); the remaining 15 objects carry a yellow **MT** badge (machine-translated from German with Helsinki-NLP/opus-mt-de-en + automotive glossary; type `MT` in the filter box to list them). Use the language switcher for the full German edition.
+:::
+
+| Metric | Value |
+|---|---|
+| Objekte / objects | 90 |
+| Anforderungen / requirements | 46 |
+| Informationen / information | 19 |
+| TBD | 0 |
+| Überschriften / headings | 25 |
+| Abbildungen / figures | 3 |
+| Official EN text | 75 (83%) |
+| Machine-translated EN | 15 |
+
+
+<div class="req-filter" role="search">
+  <input id="req-q" type="search" placeholder="Filter by ID or text…" aria-label="Filter requirements" />
+  <select id="req-t" aria-label="Filter by type">
+    <option value="">Type: all</option>
+    <option value="Anforderung">Anforderung · requirement</option>
+    <option value="Information">Information · information</option>
+    <option value="TBD">TBD · TBD</option>
+    <option value="Überschrift">Überschrift · heading</option>
+  </select>
+  <span class="req-count" id="req-count"></span>
+</div>
+
+
+## **1 ECU and motor requirements**
+
+<div class="req-card" id="L_SG-Mot_687" data-type="Überschrift" data-search="L_SG-Mot_687 **1 ECU and motor requirements** Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_687</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong><strong>1 ECU and motor requirements</strong></strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_685" data-type="Anforderung" data-search="L_SG-Mot_685 The Volkswagen standard VW 80808-1/2 (issued 2015-02) &quot;Electronic Components and Modules in Electric and Electronic Components in Motor Vehicles up to 3.5 t&quot; applies to all electric and electronic components in the steering system (electronic control units (ECUs), manual torque sensors, and motors). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_685</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The Volkswagen standard VW 80808-1/2 (issued 2015-02) "Electronic Components and Modules in Electric and Electronic Components in Motor Vehicles up to 3.5 t" applies to all electric and electronic components in the steering system (electronic control units (ECUs), manual torque sensors, and motors).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### **1.2 General requirements**
+
+<div class="req-card" id="L_SG-Mot_698" data-type="Überschrift" data-search="L_SG-Mot_698 **1.2 General requirements** Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_698</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong><strong>1.2 General requirements</strong></strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_704" data-type="Anforderung" data-search="L_SG-Mot_704 The following ambient temperature profile (mission profiles) shall be used for the calculation of test durations and design. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_704</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The following ambient temperature profile (mission profiles) shall be used for the calculation of test durations and design.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_707" data-type="Anforderung" data-search="L_SG-Mot_707 Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_707</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Partly machine-translated from German (Helsinki MT + automotive glossary); untranslated lines show the German original. Official DOORS English preferred where present.">MT-partial</span></div>
+
+
+
+<figure class="req-figure" id="fig-707_2_1">
+  <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/707_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/707_2_1.png" alt="Figure 707_2_1 (L_SG-Mot_707)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>707_2_1</code> · L_SG-Mot_707 — <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/707_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/707_2_1.bin" download>source <code>707_2_1.bin</code></a></span></figcaption>
+</figure>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_709" data-type="Anforderung" data-search="L_SG-Mot_709 Deviations must be approved by the contracting authority and recorded in the specification. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_709</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Deviations must be approved by the contracting authority and recorded in the specification.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_710" data-type="Anforderung" data-search="L_SG-Mot_710 The temperature profile (mission profiles) of the VW 80000 must not be used. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_710</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The temperature profile (mission profiles) of the VW 80000 must not be used.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_700" data-type="Anforderung" data-search="L_SG-Mot_700 The steering system must ensure at all times that no part or component leaves its specified value range or is so damaged that the agreed temperature load spectrum (mission profile) can no longer be achieved. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_700</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The steering system must ensure at all times that no part or component leaves its specified value range or is so damaged that the agreed temperature load spectrum (mission profile) can no longer be achieved.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>VW:</strong> 20160418 Iwanski: L_SG-Mot_707
+
+<strong>Nexteer:</strong> Which mission profile is meant?
+
+</details>
+
+</div>
+
+### Requirements for the actuators
+
+<div class="req-card" id="L_SG-Mot_6" data-type="Überschrift" data-search="L_SG-Mot_6 Requirements for the actuators Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_6</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Requirements for the actuators</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_202" data-type="Anforderung" data-search="L_SG-Mot_202 The electric motor that is used as a drive of the steering system must be brushless and protected from becoming blocked. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_202</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The electric motor that is used as a drive of the steering system must be brushless and protected from becoming blocked.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_502" data-type="Anforderung" data-search="L_SG-Mot_502 A synchronous motor must be used. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_502</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+A synchronous motor must be used.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_203" data-type="Anforderung" data-search="L_SG-Mot_203 The protection from becoming blocked must be established and demonstrated by additional actions, e.g., suitable winding technology. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_203</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The protection from becoming blocked must be established and demonstrated by additional actions, e.g., suitable winding technology.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Hardware requirements (control unit)
+
+<div class="req-card" id="L_SG-Mot_15" data-type="Überschrift" data-search="L_SG-Mot_15 Hardware requirements (control unit) Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_15</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Hardware requirements (control unit)</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Requirements for the control unit (ECU)
+
+<div class="req-card" id="L_SG-Mot_16" data-type="Überschrift" data-search="L_SG-Mot_16 Requirements for the control unit (ECU) Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_16</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Requirements for the control unit (ECU)</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_335" data-type="Anforderung" data-search="L_SG-Mot_335 Customer-specific integrated circuits (e.g., ASICs) can be used, if necessary, after approval by the purchaser. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_335</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Customer-specific integrated circuits (e.g., ASICs) can be used, if necessary, after approval by the purchaser.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_336" data-type="Anforderung" data-search="L_SG-Mot_336 The development of these circuits will then become part of the scope of supply; the functions must be documented for the purchaser (detailed description of the special circuit&#x27;s functionality) and provided by the contractor. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_336</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The development of these circuits will then become part of the scope of supply; the functions must be documented for the purchaser (detailed description of the special circuit's functionality) and provided by the contractor.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_338" data-type="Anforderung" data-search="L_SG-Mot_338 The processor must be defined based on an estimation of resources at the start of development so that, with regard to the scope of production functionality, a reserve of at least 25% of the processor capacity (ROM, EEPROM, RAM, processor load) is provided with respect to the defined target values. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_338</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The processor must be defined based on an estimation of resources at the start of development so that, with regard to the scope of production functionality, a reserve of at least 25% of the processor capacity (ROM, EEPROM, RAM, processor load) is provided with respect to the defined target values.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_337" data-type="Anforderung" data-search="L_SG-Mot_337 The requirements for the absolute microcontroller resources and for the resources to be kept free in the scope of development must be taken from the &quot;General Software Requirements&quot; module of the Performance Specifications. Anforderung gültig to evaluate partly agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_337</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: partly agreed</span></div>
+
+The requirements for the absolute microcontroller resources and for the resources to be kept free in the scope of development must be taken from the "General Software Requirements" module of the Performance Specifications.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | partly agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> Nach vollständiger Analyse des LAH-Moduls "Allgemeine Softwareanforderungen" wird diese ID bewertet
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_690" data-type="Anforderung" data-search="L_SG-Mot_690 In addition to the controller area network (CAN) protocol, the communication interface must also support the CAN flexible data rate (CAN-FD) protocol (as per ISO/WD 11898-2 dated: 2014-12-15). The circuit components (transceiver, microcontroller, oscillator, etc.) must be designed for this. It must be possible to switch between CAN-FD and CAN messages while in operation (without a reset). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_690</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+In addition to the controller area network (CAN) protocol, the communication interface must also support the CAN flexible data rate (CAN-FD) protocol (as per ISO/WD 11898-2 dated: 2014-12-15). The circuit components (transceiver, microcontroller, oscillator, etc.) must be designed for this.
+It must be possible to switch between CAN-FD and CAN messages while in operation (without a reset).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_717" data-type="Anforderung" data-search="L_SG-Mot_717 The circuit components (transceiver, microcontroller, oscillator, etc.) shall be designed in this respect. Anforderung gültig accepted agreed requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_717</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+The circuit components (transceiver, microcontroller, oscillator, etc.) shall be designed in this respect.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_718" data-type="Anforderung" data-search="L_SG-Mot_718 Switching between CAN FD and CAN messages in operation (without reset) must be possible. Anforderung gültig to evaluate to clarify requirement valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_718</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Switching between CAN FD and CAN messages in operation (without reset) must be possible.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> Zu welchem Anlass wird umgeschaltet?
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_693" data-type="Anforderung" data-search="L_SG-Mot_693 The Performance Specification document &quot;Bauelemente_Vernetzungsschnittstelle_CAN_FD_in_Entwicklung&quot; (CAN-FD Network Interface Components in Development), version 1.0 dated 2015-12-03, applies to the development. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_SG-Mot_693</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The Performance Specification document "Bauelemente_Vernetzungsschnittstelle_CAN_FD_in_Entwicklung" (CAN-FD Network Interface Components in Development), version 1.0 dated 2015-12-03, applies to the development.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> nur Version 1.0 verfügbar
+
+</details>
+
+</div>
+
+#### Requirements for the microcontroller
+
+<div class="req-card" id="L_SG-Mot_17" data-type="Überschrift" data-search="L_SG-Mot_17 Requirements for the microcontroller Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_17</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Requirements for the microcontroller</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_341" data-type="Information" data-search="L_SG-Mot_341 For the microcontrollers in the list, Volkswagen AG will provide the supplier with standard software for connecting the control unit to the CAN or LIN. In general, this software includes: CAN driver, LIN driver, network management, transport protocol 2.0, KWP dispatcher, Display Data Protocol (DDP), control and display protocol (BAP). Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_SG-Mot_341</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+For the microcontrollers in the list, Volkswagen AG will provide the supplier with standard software for connecting the control unit to the CAN or LIN. In general, this software includes: CAN driver, LIN driver, network management, transport protocol 2.0, KWP dispatcher, Display Data Protocol (DDP), control and display protocol (BAP).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Memory
+
+<div class="req-card" id="L_SG-Mot_18" data-type="Überschrift" data-search="L_SG-Mot_18 Memory Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_18</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Memory</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_567" data-type="Anforderung" data-search="L_SG-Mot_567 The number of write and read cycles expected in the non-volatile memory (e.g., EEPROM or flash EPROM) during vehicle operation must lie within the semiconductor memory properties specified as being permissible. The requirements arising from the required vehicle service life and from the temperature range valid for the component must be complied with unconditionally. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_567</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The number of write and read cycles expected in the non-volatile memory (e.g., EEPROM or flash EPROM) during vehicle operation must lie within the semiconductor memory properties specified as being permissible. The requirements arising from the required vehicle service life and from the temperature range valid for the component must be complied with unconditionally.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_379" data-type="Anforderung" data-search="L_SG-Mot_379 Any voltage dips must not lead to EEPROM write or read errors or to ECU malfunctions. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_379</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Any voltage dips must not lead to EEPROM write or read errors or to ECU malfunctions.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Flash ROM programming
+
+<div class="req-card" id="L_SG-Mot_19" data-type="Überschrift" data-search="L_SG-Mot_19 Flash ROM programming Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_19</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Flash ROM programming</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_357" data-type="Anforderung" data-search="L_SG-Mot_357 ECUs must be flashable by means of a VAS/Offboard Diagnostic Information System (ODIS) diagnostics scan tool as of the B-sample. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_357</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+ECUs must be flashable by means of a VAS/Offboard Diagnostic Information System (ODIS) diagnostics scan tool as of the B-sample.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_358" data-type="Anforderung" data-search="L_SG-Mot_358 Software changes by means of flash-ROM programming must be possible via CAN according to the &quot;General software requirements&quot; Performance Specification module. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_358</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Software changes by means of flash-ROM programming must be possible via CAN according to the "General software requirements" Performance Specification module.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_359" data-type="Anforderung" data-search="L_SG-Mot_359 Programming must be possible in the vehicle without having to remove the control units: Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_359</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Programming must be possible in the vehicle without having to remove the control units:
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_360" data-type="Anforderung" data-search="L_SG-Mot_360 If programming is interrupted (e.g., in the event of a voltage dip or complete failure of the supply voltage), re-programming must be possible. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_360</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+If programming is interrupted (e.g., in the event of a voltage dip or complete failure of the supply voltage), re-programming must be possible.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_361" data-type="Anforderung" data-search="L_SG-Mot_361 No other control units must be disrupted. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_361</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+No other control units must be disrupted.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_362" data-type="Anforderung" data-search="L_SG-Mot_362 If a special arrangement is required for flashing, the approval of the purchaser must be obtained. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_362</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+If a special arrangement is required for flashing, the approval of the purchaser must be obtained.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Signals and interfaces
+
+<div class="req-card" id="L_SG-Mot_457" data-type="Überschrift" data-search="L_SG-Mot_457 Signals and interfaces Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_457</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Signals and interfaces</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_459" data-type="Anforderung" data-search="L_SG-Mot_459 All inputs and outputs not affected by the short circuit must continue to function, as long as operating voltage is provided. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_459</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+All inputs and outputs not affected by the short circuit must continue to function, as long as operating voltage is provided.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_460" data-type="Anforderung" data-search="L_SG-Mot_460 A short circuit must not lead to CPU failure. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_460</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+A short circuit must not lead to CPU failure.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_461" data-type="Anforderung" data-search="L_SG-Mot_461 All inputs and outputs of the control unit must be suitable for diagnostics. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_461</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+All inputs and outputs of the control unit must be suitable for diagnostics.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_526" data-type="Information" data-search="L_SG-Mot_526 The current directions are defined as follows: positive currents flow into the device negative currents flow out of the device Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_SG-Mot_526</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The current directions are defined as follows:
+positive currents flow into the device
+negative currents flow out of the device
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Electric system requirements for components
+
+<div class="req-card" id="L_SG-Mot_527" data-type="Überschrift" data-search="L_SG-Mot_527 Electric system requirements for components Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_527</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Electric system requirements for components</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_528" data-type="Anforderung" data-search="L_SG-Mot_528 The requirements of the Interdisciplinary Performance Specifications LAH.5Q0.971 &quot;General Electric System Requirements&quot; apply. Anforderung gültig to evaluate partly agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_528</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: partly agreed</span></div>
+
+The requirements of the Interdisciplinary Performance Specifications LAH.5Q0.971 "General Electric System Requirements" apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | partly agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> Querschnittslastenheft LAH.5Q0.971 "Allgemeine Bordnetz-Anforderungen" nicht final durchgesehen
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_534" data-type="Anforderung" data-search="L_SG-Mot_534 For a basic design of device connector contacts and line protection, the requirements of VW 80106 apply. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_534</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+For a basic design of device connector contacts and line protection, the requirements of VW 80106 apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Signal properties
+
+<div class="req-card" id="L_SG-Mot_539" data-type="Überschrift" data-search="L_SG-Mot_539 Signal properties Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_539</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Signal properties</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+#### Input and output signals
+
+<div class="req-card" id="L_SG-Mot_543" data-type="Überschrift" data-search="L_SG-Mot_543 Input and output signals Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_543</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Input and output signals</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_468" data-type="Anforderung" data-search="L_SG-Mot_468 The requirements for conducted and radiated interference must be met (see the &quot;Electromagnetic Compatibility&quot; module). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_468</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The requirements for conducted and radiated interference must be met (see the "Electromagnetic Compatibility" module).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_469" data-type="Anforderung" data-search="L_SG-Mot_469 Input signals must be debounced with both hardware and software. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_469</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Input signals must be debounced with both hardware and software.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_473" data-type="Anforderung" data-search="L_SG-Mot_473 The current as a contact cleaning current must be at least 10 mA, but must not exceed the maximum permissible switching current. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_473</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The current as a contact cleaning current must be at least 10 mA, but must not exceed the maximum permissible switching current.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> N/A, We will not have a mechanical relay.
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_478" data-type="Anforderung" data-search="L_SG-Mot_478 All inputs and outputs must be designed to be short-circuit resistant to supply voltage, ground, and the other contacts. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_478</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+All inputs and outputs must be designed to be short-circuit resistant to supply voltage, ground, and the other contacts.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Bus systems
+
+<div class="req-card" id="L_SG-Mot_479" data-type="Überschrift" data-search="L_SG-Mot_479 Bus systems Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_479</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Bus systems</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_697" data-type="Anforderung" data-search="L_SG-Mot_697 The vehicle electric system is developed with CAN-FD (see Performance Specification &quot;EPS Interface&quot;). The diagnostics and the communication with other ECUs and external electronic components use the CAN-FD. Anforderung gültig to evaluate to clarify requirement valid">
+<div class="req-head"><code>L_SG-Mot_697</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span></div>
+
+The vehicle electric system is developed with CAN-FD (see Performance Specification "EPS Interface"). The diagnostics and the communication with other ECUs and external electronic components use the CAN-FD.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> need LAH "EPS-Schnittstelle"
+
+</details>
+
+</div>
+
+#### Components
+
+<div class="req-card" id="L_SG-Mot_586" data-type="Überschrift" data-search="L_SG-Mot_586 Components Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_586</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong>Components</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_678" data-type="Anforderung" data-search="L_SG-Mot_678 All components, in particular capacitors in the intermediate circuit, must be suitable and qualified for 300 000 starting cycles (including start-stop operation). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_678</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+All components, in particular capacitors in the intermediate circuit, must be suitable and qualified for 300 000 starting cycles (including start-stop operation).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_680" data-type="Anforderung" data-search="L_SG-Mot_680 Of the 300 000 starting cycles, 40 000 cycles are represented by the T.30 voltage curve at engine start as per VW 80000, section 4.11.2.1, test 1 (&quot;sharp&quot; cold start). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_680</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Of the 300 000 starting cycles, 40 000 cycles are represented by the T.30 voltage curve at engine start as per VW 80000, section 4.11.2.1, test 1 ("sharp" cold start).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_681" data-type="Anforderung" data-search="L_SG-Mot_681 Of the 300 000 starting cycles, 260 000 cycles are represented by the T.30 voltage curve at engine start as per VW 80000, section 4.11.2.2, test 2 (hot start). Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_681</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Of the 300 000 starting cycles, 260 000 cycles are represented by the T.30 voltage curve at engine start as per VW 80000, section 4.11.2.2, test 2 (hot start).
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### **Mechanical relays**
+
+<div class="req-card" id="L_SG-Mot_433" data-type="Überschrift" data-search="L_SG-Mot_433 **Mechanical relays** Überschrift gültig accepted agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_433</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span> — <strong><strong>Mechanical relays</strong></strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_677" data-type="Anforderung" data-search="L_SG-Mot_677 The installation of mechanical relays is not permissible. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_677</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The installation of mechanical relays is not permissible.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Clock
+
+<div class="req-card" id="L_SG-Mot_676" data-type="Überschrift" data-search="L_SG-Mot_676 Clock Clock generator Überschrift gültig not to evaluate agreed heading valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_676</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span> — <strong>Clock</strong></div>
+
+Clock generator
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_488" data-type="Anforderung" data-search="L_SG-Mot_488 The total tolerance of the oscillator and PLL must be less than or equal to 0,3%. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_488</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The total tolerance of the oscillator and PLL must be less than or equal to 0,3%.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_582" data-type="Anforderung" data-search="L_SG-Mot_582 The circuitry for the microcontroller&#x27;s quartz element must be agreed upon between the manufacturers of the processor and quartz element. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_582</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The circuitry for the microcontroller's quartz element must be agreed upon between the manufacturers of the processor and quartz element.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Circuitry and printed circuit board layout
+
+<div class="req-card" id="L_SG-Mot_590" data-type="Überschrift" data-search="L_SG-Mot_590 Circuitry and printed circuit board layout Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_590</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Circuitry and printed circuit board layout</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_688" data-type="Anforderung" data-search="L_SG-Mot_688 All components must be installed and fastened in such a way that they pass the mechanical load tests as per the requirements of the &quot;Reliability Testing of Electric and Electronic Systems&quot; and &quot;Testing of Mechanical Systems&quot; Performance Specification modules. The requirements of the &quot;Reliability Testing&quot; Component Performance Specification module (as required in VW 80808-1/2) must not be applied in this case. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_688</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+All components must be installed and fastened in such a way that they pass the mechanical load tests as per the requirements of the "Reliability Testing of Electric and Electronic Systems" and "Testing of Mechanical Systems" Performance Specification modules. The requirements of the "Reliability Testing" Component Performance Specification module (as required in VW 80808-1/2) must not be applied in this case.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Requirements for electrolytic capacitors in the PCB layout
+
+<div class="req-card" id="L_SG-Mot_455" data-type="Überschrift" data-search="L_SG-Mot_455 Requirements for electrolytic capacitors in the PCB layout Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_455</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Requirements for electrolytic capacitors in the PCB layout</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_501" data-type="Anforderung" data-search="L_SG-Mot_501 Capacitors generating high currents in the event of a short circuit must be protected by suitable protective measures. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_501</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+Capacitors generating high currents in the event of a short circuit must be protected by suitable protective measures.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Other hardware requirements
+
+<div class="req-card" id="L_SG-Mot_425" data-type="Überschrift" data-search="L_SG-Mot_425 Other hardware requirements Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_425</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Other hardware requirements</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+#### Burn-In
+
+<div class="req-card" id="L_SG-Mot_431" data-type="Überschrift" data-search="L_SG-Mot_431 Burn-In Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_431</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Burn-In</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_432" data-type="Anforderung" data-search="L_SG-Mot_432 &quot;Burn-in&quot; must be specified specific to the control unit on a case-by-case basis and defined in the drawing. This must clarify whether &quot;component burn-in&quot; is required. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_432</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+"Burn-in" must be specified specific to the control unit on a case-by-case basis and defined in the drawing. This must clarify whether "component burn-in" is required.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+#### Control unit leak tightness
+
+<div class="req-card" id="L_SG-Mot_442" data-type="Überschrift" data-search="L_SG-Mot_442 Control unit leak tightness Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_442</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Control unit leak tightness</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_653" data-type="Anforderung" data-search="L_SG-Mot_653 The requirements of the Performance Specifications module &quot;Reliability Testing of Electrics and Electronics&quot; apply. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_653</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The requirements of the Performance Specifications module "Reliability Testing of Electrics and Electronics" apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_654" data-type="Anforderung" data-search="L_SG-Mot_654 The control unit leak tightness must be demonstrated as per the requirements area of VW 80000 and the supplement to VW 80000 for EPS systems. Anforderung gültig accepted agreed requirement valid">
+<div class="req-head"><code>L_SG-Mot_654</code> <span class="badge badge-type" title="Anforderung"><code>Anforderung</code> · requirement</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The control unit leak tightness must be demonstrated as per the requirements area of VW 80000 and the supplement to VW 80000 for EPS systems.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+### Definitions, terms, abbreviations
+
+<div class="req-card" id="L_SG-Mot_13" data-type="Überschrift" data-search="L_SG-Mot_13 Definitions, terms, abbreviations Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_13</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Definitions, terms, abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+#### Terms
+
+<div class="req-card" id="L_SG-Mot_61" data-type="Überschrift" data-search="L_SG-Mot_61 Terms Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_61</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Terms</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_504" data-type="Information" data-search="L_SG-Mot_504 Information gültig not to evaluate agreed information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_504</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Partly machine-translated from German (Helsinki MT + automotive glossary); untranslated lines show the German original. Official DOORS English preferred where present.">MT-partial</span></div>
+
+
+
+<figure class="req-figure" id="fig-504_2_1">
+  <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/504_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/504_2_1.png" alt="Figure 504_2_1 (L_SG-Mot_504)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>504_2_1</code> · L_SG-Mot_504 — <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/504_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/504_2_1.bin" download>source <code>504_2_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transcription (English, machine-translated — searchable text)</summary>
+<span class="fig-transcript-body">Definition<br/>AEC Automotive Electronic Cunsil (US-American)<br/>(a) the automotive standardisation body)<br/>AEC-Q100 Robustness tests for integrated microelectronic<br/>Circuits (IC)<br/>AEC-Q101 Robustness tests for discrete semiconductors<br/>AEC-Q200 Robustness tests for passive components</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+#### Abbreviations
+
+<div class="req-card" id="L_SG-Mot_108" data-type="Überschrift" data-search="L_SG-Mot_108 Abbreviations Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_108</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Abbreviations</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_503" data-type="Information" data-search="L_SG-Mot_503 Information gültig not to evaluate agreed information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_503</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> <span class="badge badge-mt" title="Partly machine-translated from German (Helsinki MT + automotive glossary); untranslated lines show the German original. Official DOORS English preferred where present.">MT-partial</span></div>
+
+
+
+<figure class="req-figure" id="fig-503_2_1">
+  <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/503_2_1.png" target="_blank" rel="noopener">
+    <img src="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/503_2_1.png" alt="Figure 503_2_1 (L_SG-Mot_503)" loading="lazy" />
+  </a>
+  <figcaption>Figure <code>503_2_1</code> · L_SG-Mot_503 — <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/503_2_1.png" target="_blank" rel="noopener">open full size</a> <br/><span class="fig-src">Embedded source: <a href="../../docs/public/assets/Steuergeraet%20und%20Motor_EXERPT_20160509/503_2_1.bin" download>source <code>503_2_1.bin</code></a></span></figcaption>
+</figure>
+
+<details class="fig-transcript">
+<summary>Transcription (English, machine-translated — searchable text)</summary>
+<span class="fig-transcript-body">Shortcut Meaning<br/>MLCC MultiLayer Ceramic Capacitor<br/>CAN -FD Controller Area NetworkFlexible Datarate<br/>CPU Central Processing Unit<br/>ROM Read Only Memory<br/>RAM Random Access memory<br/>ASIC Application Specific Integrated Circuit<br/>R/C-EPS Rack/Column Electric Power Steering<br/>HW Hardware<br/>iLVS integrated steering angle sensor<br/>BT - LAH component load book</span>
+</details>
+
+
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+### Applicable documents
+
+<div class="req-card" id="L_SG-Mot_14" data-type="Überschrift" data-search="L_SG-Mot_14 Applicable documents Überschrift gültig not to evaluate agreed heading valid">
+<div class="req-head"><code>L_SG-Mot_14</code> <span class="badge badge-type" title="Überschrift"><code>Überschrift</code> · heading</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span> — <strong>Applicable documents</strong></div>
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> heading
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_515" data-type="Information" data-search="L_SG-Mot_515 The applicable documents in the &quot;Applicable documents&quot; module of the Steering System Performance Specifications apply. Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_SG-Mot_515</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+The applicable documents in the "Applicable documents" module of the Steering System Performance Specifications apply.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_689" data-type="Information" data-search="L_SG-Mot_689 For all mentioned norms, refer to its versions at module &quot;Mitgeltende Unterlagen&quot;. Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_SG-Mot_689</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+For all mentioned norms, refer to its versions at module "Mitgeltende Unterlagen".
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_667" data-type="Information" data-search="L_SG-Mot_667 CAN chassis data specification (defined version) Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_SG-Mot_667</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+CAN chassis data specification (defined version)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> need document for evaluation
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_506" data-type="Information" data-search="L_SG-Mot_506 Guidelines for use of SMD components Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_SG-Mot_506</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+Guidelines for use of SMD components
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> need document for evaluation
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_668" data-type="Information" data-search="L_SG-Mot_668 Group CAN Performance Specifications (defined version) Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_SG-Mot_668</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+Group CAN Performance Specifications (defined version)
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> need document for evaluation
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_669" data-type="Information" data-search="L_SG-Mot_669 Group microcontroller recommendations list Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_SG-Mot_669</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+Group microcontroller recommendations list
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+<details>
+<summary>Comments</summary>
+
+<strong>Nexteer:</strong> need document for evaluation
+
+</details>
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_670" data-type="Information" data-search="L_SG-Mot_670 VW 80000 Electrical and electronic assemblies in vehicles Information gültig not to evaluate agreed information valid">
+<div class="req-head"><code>L_SG-Mot_670</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: not to evaluate</span> <span class="badge">Supplier: agreed</span></div>
+
+VW 80000
+Electrical and electronic assemblies in vehicles
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | not to evaluate |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_686" data-type="Information" data-search="L_SG-Mot_686 VW 80808 Electronic Parts in Electrical and Electronic Components in Motor Vehicles up to 3.5 Tons Information gültig accepted agreed information valid">
+<div class="req-head"><code>L_SG-Mot_686</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: accepted</span> <span class="badge">Supplier: agreed</span></div>
+
+VW 80808
+Electronic Parts in Electrical and Electronic Components in Motor Vehicles up to 3.5 Tons
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | accepted |
+| Status supplier | agreed |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_711" data-type="Information" data-search="L_SG-Mot_711 VW 82324:2014-05 LV 324 Qualification of power electronics modules For use in motor vehicle components Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_711</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+VW 82324:2014-05 LV 324
+ Qualification of power electronics modules
+For use in motor vehicle components
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_712" data-type="Information" data-search="L_SG-Mot_712 VW 80818 Wire bonding in electrical and electronic components in motor vehicles up to 3,5 t Requirements, use and use Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_712</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+VW 80818
+Wire bonding in electrical and electronic components in motor vehicles up to 3,5 t
+Requirements, use and use
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_713" data-type="Information" data-search="L_SG-Mot_713 ISO/WD 11898-2 Date: (2014-12-15) Controller area network (CAN) - Part 2: High-speed medium access unit Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_713</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+ISO/WD 11898-2 Date: (2014-12-15)
+Controller area network (CAN) - Part 2: High-speed medium access unit
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_714" data-type="Information" data-search="L_SG-Mot_714 &quot;Construction elements_network interface_CAN_FD_in_development&quot; v1.0 of 03.12.2015 Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_714</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+"Construction elements_network interface_CAN_FD_in_development" v1.0 of 03.12.2015
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_719" data-type="Information" data-search="L_SG-Mot_719 Cross-sectional specification &quot;Group Microcontroller specifications&quot; Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_719</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+Cross-sectional specification "Group Microcontroller specifications"
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_720" data-type="Information" data-search="L_SG-Mot_720 LAH.5Q0.971 General requirements for the electrical system. Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_720</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+LAH.5Q0.971
+ General requirements for the electrical system.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+<div class="req-card" id="L_SG-Mot_721" data-type="Information" data-search="L_SG-Mot_721 VW 80106 &quot;Connection to and in electrical and electronic components in the motor vehicle; requirements&quot; . Information gültig to evaluate to clarify information valid MT machine-translated">
+<div class="req-head"><code>L_SG-Mot_721</code> <span class="badge badge-type" title="Information"><code>Information</code> · information</span> <span class="badge badge-valid ok" title="DE: gültig">valid</span> <span class="badge">VW: to evaluate</span> <span class="badge">Supplier: to clarify</span> <span class="badge badge-mt" title="Machine-translated from German (Helsinki MT + automotive glossary). Official DOORS English preferred where present — German original on the DE pages.">MT</span></div>
+
+VW 80106
+"Connection to and in electrical and electronic components in the motor vehicle; requirements"
+.
+
+| | |
+|---|---|
+| Validity | valid (DE: gültig) |
+| Status VW | to evaluate |
+| Status supplier | to clarify |
+
+</div>
+
+---
+*Source RIF `Steuergeraet und Motor_EXERPT_20160509.xml` (2016-05-17T12:14:45+02:00). Embedded OLE objects (Word/Excel/Paint) are embedded as PNG (bitmap DIBs 1:1, vector WMF re-rendered + transcribed); originals linked per figure. English: official DOORS text where available, otherwise machine-translated (Helsinki-NLP/opus-mt-de-en + automotive glossary), marked per requirement.*

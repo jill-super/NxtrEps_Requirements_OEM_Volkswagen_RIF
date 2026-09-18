@@ -1,0 +1,6 @@
+Shortcut Meaning
+RL Right-hand steering (design)
+LL left-hand handlebar(-version)
+AW tightening method turned-angle controlled manually
+MVA Pre-drawing moment
+WA Overturn the angle of the pull

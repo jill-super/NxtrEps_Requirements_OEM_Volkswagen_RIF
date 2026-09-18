@@ -1,0 +1,8 @@
+Merkmale Kenndaten
+Verwendete Arbeitsfrequenzen(Takte)
+[MHz]
+Taktmodulation
+ja/nein
+(Spread Spectrum)
+Mikrocontroller mit Synchron / parallel / seriell
+externem Busmode Taktfrequenz f [MHz] =

@@ -1,0 +1,7 @@
+Suitable for frequencies
+Measurement methods from to
+On-board power supply replica1 100 kHz150 MHz
+Antenna method1 100 kHz6 GHz
+Strip line2 100 kHz960 MHz
+Capacitive coupling tongs2 100 kHz30 MHz
+Current pliers2 30 MHz108 MHz

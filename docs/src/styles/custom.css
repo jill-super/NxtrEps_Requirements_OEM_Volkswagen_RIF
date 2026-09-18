@@ -1,0 +1,58 @@
+/* Word/DOORS-like requirement rendering for the VW EPS RIF docs.
+   Loaded globally via astro.config.mjs customCss; the same rules are also
+   inlined per-page so the plain-MD mirror in /converted stays readable. */
+
+.req-card {
+  border: 1px solid var(--sl-color-gray-5, #e4e4e7);
+  border-left: 4px solid var(--sl-color-accent, #2563eb);
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin: 14px 0;
+  background: var(--sl-color-white, #fff);
+}
+.req-card[data-type='Überschrift'] { border-left-color: #a1a1aa; background: var(--sl-color-gray-7, #fafafa); }
+.req-card[data-type='Information'] { border-left-color: #0ea5e9; }
+.req-card[data-type='TBD'] { border-left-color: #f59e0b; background: #fffbeb; }
+
+.req-head { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
+.badge {
+  display: inline-block; font-size: 0.78em;
+  border: 1px solid var(--sl-color-gray-5, #d4d4d8);
+  border-radius: 999px; padding: 1px 9px; margin: 2px 4px 2px 0;
+  background: var(--sl-color-gray-7, #f4f4f5);
+}
+.badge-type { background: #eff6ff; border-color: #bfdbfe; }
+.badge-valid.ok { background: #ecfdf5; border-color: #a7f3d0; }
+.badge-mt {
+  background: #fef3c7; border-color: #fcd34d; color: #92400e;
+  font-weight: 600; cursor: help;
+}
+
+.req-figure {
+  margin: 12px 0; border: 1px solid var(--sl-color-gray-5, #e4e4e7);
+  border-radius: 8px; overflow: hidden; background: var(--sl-color-gray-7, #fafafa);
+}
+.req-figure img { width: 100%; height: auto; display: block; background: #fff; }
+.req-figure figcaption { font-size: 0.82em; color: var(--sl-color-gray-3, #52525b); padding: 6px 10px; }
+.fig-transcript { font-size: 0.86em; margin: 0 10px 10px; }
+
+.req-filter {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; gap: 8px; align-items: center;
+  background: var(--sl-color-bg, #fff); padding: 8px 0;
+}
+.req-filter input, .req-filter select {
+  border: 1px solid var(--sl-color-gray-5, #d4d4d8);
+  border-radius: 8px; padding: 6px 10px; font-size: 0.9em;
+}
+.req-filter input { flex: 1; }
+
+@media print {
+  .req-filter, starlight-menu, .sidebar { display: none !important; }
+  .req-card { break-inside: avoid; box-shadow: none; }
+  /* Word-like print: keep headings with their first card, fit figures on page */
+  h2, h3, h4 { break-after: avoid; }
+  .req-figure img { max-height: 220mm; object-fit: contain; }
+  .req-figure { break-inside: avoid; }
+  details.fig-transcript, details { break-inside: avoid; }
+}

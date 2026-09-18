@@ -1,0 +1,7 @@
+Definition
+AEC Automotive Electronic Cunsil (US-American)
+(a) the automotive standardisation body)
+AEC-Q100 Robustness tests for integrated microelectronic
+Circuits (IC)
+AEC-Q101 Robustness tests for discrete semiconductors
+AEC-Q200 Robustness tests for passive components

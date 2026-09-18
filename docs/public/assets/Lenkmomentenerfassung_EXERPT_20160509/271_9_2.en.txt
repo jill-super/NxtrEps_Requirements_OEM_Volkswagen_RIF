@@ -1,0 +1,10 @@
+Measured value
+Regression straight lineRegression line
+Linearity errorLinearity error
+(Deviation from the regression line)
+Offset error Offset lazy
+Measurand
+Nominal characteristic curve
+Sensitivity error Sensitivity error
+Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Äs Ä Ä Äs Äs Äs Ä Ä Ä Äs Äs Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Äs Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Äs Äs Äs Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä Ä
+Hysteresis Hysteresis
